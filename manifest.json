@@ -1,0 +1,9 @@
+{
+  "name": "HYROX Sub-60 · Basel 27",
+  "short_name": "HYROX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "orientation": "portrait"
+}

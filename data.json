@@ -1,0 +1,1473 @@
+{
+ "meta": {
+  "title": "HYROX",
+  "subtitle": "Basel '27",
+  "kicker": "Operation WM-Qualifikation · Block 2 · W1",
+  "raceDate": "2027-02-12T08:00:00",
+  "facts": [
+   "Single PRO · AG 40–44 ab 03.12.26",
+   "Ziel <b>63–66</b> · Stretch < 60",
+   "A-Rennen Basel 12.–14.02.27"
+  ],
+  "tiles": [
+   {
+    "v": "WM AG40",
+    "l": "Primärziel"
+   },
+   {
+    "v": "Mo·Mi·Fr",
+    "l": "+ kinderfr. WE"
+   }
+  ],
+  "stand": "19.08.2026"
+ },
+ "rhythm": [
+  {
+   "d": "Mo",
+   "t": "Hyrox<br>Kraft",
+   "fix": 1
+  },
+  {
+   "d": "Mi",
+   "t": "Lauf<br>Schwelle",
+   "fix": 1
+  },
+  {
+   "d": "Fr",
+   "t": "Lauf<br>Intervall",
+   "fix": 1
+  },
+  {
+   "d": "Sa",
+   "t": "Hyrox<br>opt."
+  },
+  {
+   "d": "So",
+   "t": "Run<br>opt."
+  }
+ ],
+ "rhythmNote": "Drei fixe Einheiten unter der Woche, je <b>60–70 min</b>. Pro Woche höchstens <b>zwei harte Reize</b>: 1× Lauf-Qualität und 1× HYROX-Qualität, nie an aufeinanderfolgenden Tagen. Ein Long Row zählt vor Lunges/Sled nicht als Recovery. Optionale Wochenend-Einheiten werden nur ergänzt, wenn die Erholung passt.",
+ "phases": [
+  {
+   "h": "Block 1 · Fundament ✓",
+   "wk": "8.6–19.7 · 6 Wo",
+   "f": "Bein-Kraftausdauer, Compromised Running, Lauf-Schwelle. Volle 60–70-min-Einheiten von Anfang an.",
+   "tags": [
+    "✓ abgeschlossen",
+    "Bern 15.–19.6"
+   ]
+  },
+  {
+   "h": "Kanada · Übergang",
+   "wk": "20.7–16.8",
+   "f": "Deload/Übergang erfüllt: 6 km + 11 km easy, dazu aktive Ferien. Laufvolumen bewusst tief; ab Rückkehr 11./12.8. kontrollierter Wiedereinstieg.",
+   "tags": [
+    "Rückkehr erledigt"
+   ]
+  },
+  {
+   "h": "Block 2 · Intensität",
+   "wk": "17.8–11.10 · 8 Wo",
+   "f": "Compromised Running, Lunges jetzt auf PRO-Last 30 kg, Sled Pull progressiv Richtung 153 kg. Wall Balls nur erhalten. Maximal 2 harte Reize/Woche.",
+   "now": 1,
+   "tags": [
+    "▶ aktuell",
+    "Stuttgart 14.–21.9"
+   ]
+  },
+  {
+   "h": "Block 3 · Renntempo",
+   "wk": "12.10–20.12 · 10 Wo",
+   "f": "Mesozyklen 2:1. Schwerpunkte aus den eigenen Befunden: Sled Push unter Laufbelastung, Run-Drift, Roxzone-Übergänge und ein getestetes Fueling-Protokoll.",
+   "tags": [
+    "Genf oder Vollsim 9.–11.10",
+    "Mailand 5.–6.12 · fix",
+    "Benchmark 3 · 7.11"
+   ]
+  },
+  {
+   "h": "Feiertage · Übergang",
+   "wk": "21.12–3.1 · 2 Wo",
+   "f": "Weihnachten und Neujahr. Volumen reduziert, Intensität punktuell. Kein Formaufbau, aber auch kein Loch — Ziel ist, mit intakter Basis in den letzten Block zu starten."
+  },
+  {
+   "h": "Block 4 · Basel-Spezifik",
+   "wk": "4.1–31.1 · 4 Wo",
+   "f": "Letzter Aufbau. Inhalt richtet sich nach den Mailand-Splits: die zwei teuersten Stationen bekommen das Volumen, der Rest wird nur gehalten.",
+   "tags": [
+    "noch nicht ausformuliert"
+   ]
+  },
+  {
+   "h": "Taper Basel",
+   "wk": "1.2–14.2 · 2 Wo",
+   "f": "Volumen deutlich runter, Intensität halten. Nichts mehr verbessern wollen."
+  }
+ ],
+ "testRace": {
+  "h": "Genf · PRO · AG 35–39 — oder Vollsimulation",
+  "badge": "9.–11. Okt · offen",
+  "note": "<b>Nicht fix.</b> Beide Wege liefern das, was Block 3 braucht: einen belastbaren Datensatz unter PRO-Lasten am Ende von Block 2.<br><br><b>Genf:</b> echte Renndynamik, fremde Halle, Startdruck, offizielle Splits. Kostet Reisezeit, Startgeld und rund eine Woche Regeneration.<br><br><b>Vollsimulation:</b> volle Kontrolle über Lasten und Fueling, kein Reisetag, günstigere Erholung, du kannst jede Station einzeln stoppen. Fehlt: Renndruck und der Vergleich mit dem Feld — und beides hat in St. Gallen und in Benchmark 1 nachweislich eine Rolle gespielt.<br><br><b>Entscheidungsgrundlage:</b> Da Mailand fix ist und dort AG 40–44 zählt, ist Genf kein notwendiger Qualifier, sondern eine Generalprobe. Wenn Erholung, Kalender oder Budget knapp sind, ist die Vollsimulation die sachlich gleichwertige Wahl."
+ },
+ "status": {
+  "h": "Block 2 · W1 läuft",
+  "badge": "PRO-Last erreicht",
+  "notes": [
+   "<b>Mo 17.08. HYROX:</b> 3×40 m Lunges @ <b>30 kg</b> in 1:52 / 1:57 / 1:46, direkt gefolgt von 600-m-Runs in 2:42 / 2:45 / 2:54 (= 4:30 / 4:35 / 4:50/km) und WB 9 kg in 0:44 / 0:46 / 0:47. Lunge-Leistung stabil, Run-Drift bleibt der klare Hebel.",
+   "<b>Mi 19.08. 8×1000:</b> Ø <b>3:58,7/km</b> bei ~2:00 Erholung, unter lokaler Restermüdung aus dem Montagstraining. <b>Nächste Progression:</b> gleiche Pace 3:55–4:00, Pause auf 90 s.",
+   "<b>Steuerung:</b> 30 kg sind ab jetzt Hauptarbeitsgewicht bei Lunges. Progression über Volumen (4×40 → 3×50 → 4×50), nicht über noch mehr Last. Compromised Running bekommt Priorität. <b>Zielrennen neu Basel 12.–14.02.27</b> (St. Gallen findet 2027 nicht statt) — vier Wochen mehr Vorlauf als bisher geplant."
+  ]
+ },
+ "blocks": [
+  {
+   "id": "b1",
+   "label": "Block 1 · abgeschlossen · historische Einheiten & Prompts",
+   "weeks": [
+    {
+     "n": "0",
+     "t": "Benchmark · Quad-Todeszone",
+     "d": "dieses Wochenende · vor Block 1",
+     "days": [
+      {
+       "tag": "B0",
+       "cls": "d-sim",
+       "ti": "Quad-Todeszone · Baseline ✓ 13:01",
+       "dur": "14.06.",
+       "p": "ERGEBNIS 14.06. (frisch): Gesamt 13:01 — Lunges 3:17 / Run 4:25 / Wall Balls 5:19 (Sätze 0:46 · 0:57 · 1:10 · 1:09 · 1:17). HF bei den WBs: Coros Ø 154–159/Satz, Amazfit Peak 169 (Max 174). Im Schnitt Reserve, in Spitzen nah ans Limit → Zusammenspiel aus lokaler Muskelermüdung UND hoher Cardio-Last. Lokale Kraftausdauer bleibt Haupthebel. WB-Kapazität ok (5:19 hier vs. 7:09 im Rennen = kumulative Ermüdung). Angriffspunkt: Satzzeiten-Degradation (+67 %) flacher machen. → FORTSCHRITT 22.+24.06.: WB 4×25 @ 6 kg (Renngewicht!) jetzt 0:53 / 0:52 / 0:50 / 0:50 — flach, sogar leicht negativ gesplittet. Degradation praktisch weg, der Marker greift. → 27.06. compromised (nach Ski Erg): 0:55 / 1:00 / 0:57 unbroken @ 6 kg — hält auch unter Vorermüdung. ABER noch 6 kg (Open), nicht Pro-9 kg = +50 % Last steht noch aus. MARSCHRICHTUNG: WB bleiben Fokus, bis 4×25 unbroken nach Vorbelastung auch mit 9 kg stehen — erst dann nächste Station. Lunge-Werte vom 27.06. durch Position in der Ermüdungskette (nach Ski+WB) verzerrt → noch KEIN Fokuswechsel. → ★ MEILENSTEIN 29.06. compromised (nach Row Erg): 3×25 Wall Balls @ 9 kg (PRO-Renngewicht!) UNBROKEN, ~0:57 / 0:59 — fast konstant trotz +50 % Last ggü. 6 kg. Die 6-kg-Basis trägt direkt auf Pro-Gewicht über. Marschrichtungs-Ziel praktisch erreicht. → 03.07. compromised: WB 9 kg 0:57 / 1:00 / 1:00 über 3 Runden — reproduzierbar, ALS ERLEDIGT VERBUCHT. FOKUSWECHSEL auf Sandbag Lunges: 03.07. 2:13 / 2:15 / 2:43 (R1–2 schneller als 29.06., aber bei Top-Erholung HRV 64 / RP 43 — erst an einem nicht-optimalen Tag bestätigen, 2 Sessions sind keine Trendlinie). → 06.07.: 2:22 / 2:23 / 2:35 @ 20 kg (ROXFIT), bewusst gepaced (R4 sollte noch stehen) — kein Max-Test. Arbeitsmodell: nachhaltige Pace ~2:25/50 m, Max-Bereich ~2:13 (3.7., top erholt). AB JETZT: Intent pro Session notieren (gepaced vs. gedrückt), sonst sind Lunge-Splits nicht vergleichbar. Progressionsvariable = GEWICHT bei konstant gepacter ~2:25, nicht Zeit bei 20 kg. → 11.07.: 25 kg mit 2:17 / 2:12 in R1–R2 — bei +5 kg schneller als 20 kg am 6.7. → Stufe 25 kg zur Hälfte bestätigt (2. saubere Session in Block 2 nötig, dann 28). R3 (1:39+1:13 mit Zwischenpause) markiert die aktuelle Volumengrenze bei 150 m/Session.",
+       "prompt": "ROXFIT · BENCHMARK 0 · QUAD-TODESZONE · ABGESCHLOSSEN\nZiel: Baseline ohne zusätzliche Übungen oder Runden.\nWARM-UP · 10:00 locker + Hüfte/Sprunggelenke mobilisieren + 10 leichte Lunges + 10 leichte Wall Balls.\nHAUPTTEIL · 1 Runde auf Gesamtzeit, Übergänge sofort:\n1. Walking Lunges 100 m @ 20 kg\n2. Run 1000 m zügig, gleichmässig\n3. Wall Balls 100 @ 6 kg\nPAUSEN · Keine geplante Pause zwischen Stationen. Wall-Ball-Pausen frei, aber jede Pause separat stoppen.\nLOG · Gesamtzeit, Stationssplits, Wall-Ball-Sätze/Pausen und HF."
+      }
+     ]
+    },
+    {
+     "n": "1",
+     "t": "Einstieg",
+     "d": "8.–14. Juni",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-gym",
+       "ti": "Gym · Kraftausdauer",
+       "dur": "65 min",
+       "p": "Wall Balls 5×20 (9 kg) P60 · Walking Lunges 4×20→30 kg · Sled Push & Pull je 4×12,5 m · Box Step-ups 3×20 · Core 10 min. — PRO-RENNGEWICHTE (Single Men): Sled Push 202 / Pull 153 kg · Farmers 2×32 · Lunges 30 · WB 9 kg. Aktueller Stand (06.07.): WB 9 ✓✓ (4 Rd. compromised sub-1:00) · Sled Push ~186 / Pull ~110 · Farmers 2×28 · Lunges 25 (11.7. R1–R2 bestätigt, Fokus) — Sled & Lunges progressiv Richtung Pro hochziehen.",
+       "prompt": "ROXFIT · HYROX KRAFTAUSDAUER · 65 MIN\nZiel: saubere Wiederholungen, RPE 7/10; keine Zusatzrunden.\nWARM-UP · 10:00 Bike locker + Hüfte/Sprunggelenke/Schultern + je 1 leichter Vorbereitungssatz.\nA · Wall Balls 5×20 @ 9 kg · Pause 60 s nach jedem Satz.\nB · Walking Lunges 4×20 m @ 22 kg · Pause 75 s nach jedem Satz.\nC · Sled Push 4×12,5 m @ 165 kg gesamt · Pause 90 s.\nD · Sled Pull 4×12,5 m @ 120 kg gesamt · Pause 90 s.\nE · Box Step-ups 3×10 je Bein · Pause 60 s.\nF · 3 Runden: Hanging Leg Raises 12 + Plank 45 s · 30 s Übungswechsel, 60 s Rundenpause.\nÜBERGANG · Zwischen Blöcken 2:00.\nLOG · Last, Satzzeit und RPE; bei Technikverlust Last reduzieren."
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Lauf · Tempo-Dauerlauf",
+       "dur": "60 min",
+       "p": "Einlaufen 10 min, 6 km @ Schwelle (4:10–4:15/km) am Stück, Auslaufen 10 min. Draussen.",
+       "prompt": "ROXFIT · SCHWELLENLAUF · 60 MIN\nWARM-UP · 12:00 locker + 4×20 s Steigerung, dazwischen 40 s locker.\nHAUPTTEIL · 6 km am Stück @ 4:10–4:15/km, HF-Ziel 158–162, RPE 7–8/10.\nPAUSE · Keine Pause im Hauptteil.\nCOOL-DOWN · 10:00 locker.\nLOG · km-Splits, Ø Pace, Ø/Max HF. Abbruch des Tempoteils bei Schmerz oder deutlichem Technikverlust."
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Lauf · Intervall",
+       "dur": "65 min",
+       "p": "Einlaufen 15 min, 4×2 km @ 4:10/km P2 min, Auslaufen 10 min.",
+       "prompt": "ROXFIT · LAUF 4×2000 M · 65 MIN\nWARM-UP · 15:00 locker + 4×20 s Steigerung, je 40 s locker.\nHAUPTTEIL · Genau 4×2000 m @ 4:10/km.\nERHOLUNG · Nach Rep 1–3 jeweils 2:00 lockerer Trab; nach Rep 4 direkt Cool-down.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace und Ø/Max HF je Rep. Ziel: Abweichung zwischen schnellstem und langsamstem Rep ≤ 5 s/km."
+      },
+      {
+       "tag": "Sa",
+       "cls": "d-sim",
+       "ti": "Hyrox-Circuit · optional",
+       "dur": "~55 min",
+       "p": "Compromised: Runs mit Stationen verzahnt — bringt die Hyrox-Spezifik, die der Lauf-Plan nicht abdeckt. Nur kinderfreies Wochenende.",
+       "prompt": "ROXFIT · COMPROMISED CIRCUIT · 3 RUNDEN · 55 MIN\nWARM-UP · 10:00 locker + 2 Steigerungen + je 8 leichte Wall Balls/Lunges/Burpees.\nHAUPTTEIL · Genau 3 Runden in dieser Reihenfolge:\n1. Run 800 m @ 4:40/km\n2. Wall Balls 20 @ 9 kg\n3. Sandbag Lunges 50 m @ 20 kg\n4. Burpee Broad Jumps 10 Wiederholungen\nÜBERGÄNGE · Innerhalb der Runde sofort, keine geplante Pause.\nRUNDENPAUSE · 2:00 nach Runde 1 und 2; keine Pause nach Runde 3.\nCOOL-DOWN · 5:00 locker.\nLOG · Split je Übung und Runde, HF und RPE. Keine Zusatzrunden."
+      },
+      {
+       "tag": "So",
+       "cls": "d-opt",
+       "ti": "Run · optional",
+       "dur": "60 min",
+       "p": "Lockerer Dauerlauf 10–12 km < 145 bpm. Nur kinderfreies Wochenende.",
+       "prompt": "ROXFIT · EASY RUN · 60 MIN\n10:00 sehr locker anlaufen, danach 40:00 locker, abschliessend 10:00 locker auslaufen.\nHF-DECKEL · 145 bpm; bevorzugt 130–139 bpm.\nPAUSEN · Keine geplanten Pausen.\nLOG · Dauer, Distanz, Ø Pace und Ø HF. Kein Endspurt."
+      }
+     ]
+    },
+    {
+     "n": "2",
+     "t": "Bern-Woche · reduziert",
+     "d": "15.–21. Juni",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-gym",
+       "ti": "Gym · kurz",
+       "dur": "50 min",
+       "p": "Wall Balls 4×20 · Lunges 3×20 m · Sled 3×12,5 m. Erhaltung vor der Messe.",
+       "prompt": "ROXFIT · HYROX ERHALTUNG · 50 MIN\nWARM-UP · 8:00 locker + Mobilität + je 1 leichter Vorbereitungssatz.\nA · Wall Balls 4×20 @ 9 kg · Pause 60 s.\nB · Walking Lunges 3×20 m @ 20 kg · Pause 75 s.\nC · Sled Push 3×12,5 m @ 165 kg gesamt · Pause 90 s.\nD · Sled Pull 3×12,5 m @ 120 kg gesamt · Pause 90 s.\nE · Core 8:00 kontinuierlich bei RPE 6/10.\nÜBERGANG · Zwischen Blöcken 2:00. Keine Zusatzsätze."
+      },
+      {
+       "tag": "Mi/Messe",
+       "cls": "d-run",
+       "ti": "Easy unterwegs",
+       "dur": "40 min",
+       "p": "30–40 min locker an der Messe, wenn möglich.",
+       "prompt": "ROXFIT · EASY RUN UNTERWEGS · 40 MIN\n5:00 sehr locker + 30:00 locker + 5:00 auslaufen.\nHF-DECKEL · 145 bpm; bevorzugt unter 139.\nPAUSEN · Keine geplanten Pausen. Kein Tempoanteil, kein Endspurt."
+      }
+     ]
+    },
+    {
+     "n": "3",
+     "t": "Aufbau",
+     "d": "22.–28. Juni",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-gym",
+       "ti": "Gym · Kraftausdauer",
+       "dur": "70 min",
+       "p": "Wall Balls 4×25 · Lunges 4×24 m (24 kg) · Sled 5×12,5 m · Bulgarian Split Squats · Core.",
+       "prompt": "ROXFIT · HYROX KRAFTAUSDAUER · 70 MIN\nZiel: RPE 7–8/10, Technik stabil; keine Zusatzsätze.\nWARM-UP · 10:00 locker + Mobilität + je 1 leichter Vorbereitungssatz.\nA · Wall Balls 4×25 @ 9 kg · Pause 75 s. Bei Technikverlust Satz stoppen; nicht auf 6 kg wechseln, sondern saubere Gesamtzahl protokollieren.\nB · Walking Lunges 4×24 m @ 24 kg · Pause 90 s.\nC · Sled Push 5×12,5 m @ 175 kg gesamt · Pause 90 s.\nD · Sled Pull 5×12,5 m @ 130 kg gesamt · Pause 90 s.\nE · Bulgarian Split Squats 3×10 je Bein · Pause 75 s nach beiden Beinen.\nF · Core 10:00 bei RPE 6/10.\nÜBERGANG · Zwischen Blöcken 2:00. LOG · Satzzeiten, Last und RPE."
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "★ Lauf-Benchmark · 8×1000",
+       "dur": "65 min",
+       "p": "Einlaufen 15 min, 8×1000 m @ 4:00/km P75 s, Auslaufen 10 min. Ø HF notieren!",
+       "prompt": "ROXFIT · LAUF 8×1000 M · 65 MIN\nWARM-UP · 15:00 locker + 4×20 s Steigerung, je 40 s locker.\nHAUPTTEIL · Genau 8×1000 m @ 4:00/km. Reps 1–2 nicht schneller als 4:02.\nERHOLUNG · Nach Rep 1–7 jeweils 75 s lockerer Trab; nach Rep 8 direkt Cool-down.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace und Ø/Max HF je Rep. Ziel: Pace-Streuung ≤ 5 s, letzter Rep nicht langsamer als erster."
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Lauf · VO₂-Intervall",
+       "dur": "60 min",
+       "p": "Einlaufen 15 min, 6×800 m @ 3:50/km P90 s, Auslaufen 10 min.",
+       "prompt": "ROXFIT · VO2 RUN · 6×800 M · 60 MIN\nWARM-UP · 15:00 locker + 4×20 s Steigerung, je 40 s locker.\nHAUPTTEIL · Genau 6×800 m @ 3:50/km.\nERHOLUNG · Nach Rep 1–5 jeweils 90 s lockerer Trab; nach Rep 6 direkt Cool-down.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace und Ø/Max HF je Rep. Stoppen, wenn zwei Reps nacheinander >5 s/km zu langsam werden."
+      },
+      {
+       "tag": "Sa",
+       "cls": "d-sim",
+       "ti": "Hyrox-Circuit · optional",
+       "dur": "~60 min",
+       "p": "Compromised, etwas grösser. Nur kinderfreies Wochenende.",
+       "prompt": "ROXFIT · COMPROMISED CIRCUIT · 4 RUNDEN · 60 MIN\nWARM-UP · 10:00 locker + 2 Steigerungen + je 1 leichter Stationssatz.\nHAUPTTEIL · Genau 4 Runden:\n1. Run 800 m @ 4:35/km\n2. Wall Balls 25 @ 9 kg\n3. Sandbag Lunges 50 m @ 24 kg\n4. Burpee Broad Jumps 12 Wiederholungen\n5. Sled Push 12,5 m @ 175 kg gesamt\nÜBERGÄNGE · Innerhalb der Runde sofort.\nRUNDENPAUSE · 2:00 nach Runde 1–3; keine Pause nach Runde 4.\nCOOL-DOWN · 5:00 locker.\nLOG · alle Splits, HF und RPE. Stop bei Rücken-/Schienbeinschmerz oder Technikverlust."
+      },
+      {
+       "tag": "So",
+       "cls": "d-opt",
+       "ti": "Run · optional",
+       "dur": "70 min",
+       "p": "14 km mit 3×5 min Tempo eingestreut. Nur kinderfreies Wochenende.",
+       "prompt": "ROXFIT · DAUERLAUF MIT 3 TEMPOBLÖCKEN · 70 MIN\nWARM-UP · 20:00 locker.\nHAUPTTEIL · 3×5:00 @ ca. 4:20/km.\nERHOLUNG · Zwischen den Tempoabschnitten jeweils 5:00 sehr locker.\nRESTZEIT · locker bis 70:00 Gesamtzeit.\nHF-DECKEL locker · 145 bpm. Kein Endspurt. LOG · Pace/HF je Tempoblock."
+      }
+     ]
+    },
+    {
+     "n": "4",
+     "t": "Steigerung",
+     "d": "29.6.–5.7.",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Hyrox compromised ✓ erledigt 29.6.",
+       "dur": "~55 min",
+       "p": "3 Runden: Row Erg 1 km → 3×25 Wall Balls @ 9 kg UNBROKEN (Pro-Meilenstein!) → 50 m Lunges → 12 Burpees → Sled Push 180 → Farmers 2×28. Ø HF 130, sauber selbstreguliert.",
+       "prompt": "ROXFIT · PROTOKOLL 29.06. · 3 RUNDEN\nPro Runde: Row 1000 m → Wall Balls 25 @ 9 kg → Sandbag Lunges 50 m @ 20 kg → Burpee Broad Jumps 12 → Sled Push 12,5 m @ 180 kg gesamt → Farmers Carry 50 m @ 2×28 kg.\nÜBERGÄNGE · sofort.\nRUNDENPAUSE · 90–120 s nach Runde 1 und 2.\nKeine zusätzlichen Runden. Als abgeschlossenes Protokoll speichern."
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "★ 8×1000 ✓ erledigt 1.7.",
+       "dur": "65 min",
+       "p": "ERGEBNIS: Ø 3:58/km @ Ø 154 bpm, sauberer negativer Split (4:01 → 3:43), gedeckelter Start sass. Deutlich besser als 17.06. (Ø 4:03 @ 158, HF-Drift) — Pacing-Disziplin sitzt jetzt. Gelaufen bei Ruhepuls 48 (nicht voll erholt) → starke Form.",
+       "prompt": "ROXFIT · LAUF 8×1000 M · ABGESCHLOSSEN 01.07.\nWARM-UP · 10:00 locker + 4 Steigerungen à 20 s, je 40 s locker.\nHAUPTTEIL · 8×1000 m @ 4:00–4:05/km; Reps 1–2 bei 4:05 deckeln.\nERHOLUNG · Nach Rep 1–7 jeweils 2:00 lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace und HF je Rep; Ergebnis Ø 3:58/km @ 154 bpm."
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Lauf · optional (nach Erholung)",
+       "dur": "45–65 min",
+       "p": "Mi war hart (8×1000) → Fr nur wenn erholt, sonst locker oder weglassen. Max 2 harte Läufe/Woche. HRV + Ruhepuls morgens checken.",
+       "prompt": "ROXFIT · FREITAG NACH ERHOLUNGSSTATUS\nVor Start genau eine Option wählen; nicht kombinieren.\nOPTION A · nur erholt: 15:00 Warm-up + genau 5×1000 m @ 3:55/km, nach Rep 1–4 je 75 s Trab + 10:00 Cool-down. Rep 6 entfällt.\nOPTION B · müde/HRV tief/Ruhepuls erhöht: 45:00 Easy, HF <145, bevorzugt <139.\nLOG · gewählte Option, Grund, Pace und HF."
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-sim",
+       "ti": "Hyrox compromised ✓ erledigt 3.7.",
+       "dur": "52:52",
+       "p": "Kette: Row 1 km → WB 9 kg → Lunges 50 m → Burpee Broad Jumps → Sled Push 186 → Farmers 2×28. R1 komplett, R2 ohne Farmers, R3 bis Lunges. WB 0:57 / 1:00 / 1:00 → 9 kg reproduzierbar, ✓ verbucht. Lunges 2:13 / 2:15 / 2:43 — R1–2 rund 10–15 s schneller als 29.6. bei gleicher Kettenposition, ABER top erholt (HRV 64, RP 43) → an nicht-optimalem Tag bestätigen. HF Ø 128 / max 165.",
+       "prompt": "ROXFIT · PROTOKOLL 03.07. · COMPROMISED\nTatsächliche Kette pro Runde: Row 1000 m → Wall Balls 30 @ 9 kg → Lunges 50 m @ dokumentierter Last → Burpee Broad Jumps → Sled Push @ 186 kg → Farmers Carry @ 2×28 kg.\nUMFANG · Runde 1 komplett; Runde 2 ohne Farmers; Runde 3 bis Lunges.\nPAUSEN · Gemäss tatsächlichem Log erfassen; keine erfundenen Runden oder Distanzen ergänzen.\nErgebnis als abgeschlossenes Protokoll speichern."
+      },
+      {
+       "tag": "So",
+       "cls": "d-opt",
+       "ti": "Run · optional",
+       "dur": "70 min",
+       "p": "15 km progressiv (letzte 4 km zügig). Nur kinderfreies Wochenende.",
+       "prompt": "ROXFIT · PROGRESSIVER LAUF · 70 MIN\nErste 50:00 locker, HF <145.\nDanach 15:00 progressiv von ca. 4:35 auf höchstens 4:15/km.\nLetzte 5:00 sehr locker.\nPAUSEN · Keine geplanten Pausen.\nLOG · Pace/HF je Abschnitt. Kein Sprint-Finish."
+      }
+     ]
+    },
+    {
+     "n": "5",
+     "t": "Peak Volumen",
+     "d": "6.–12. Juli",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Hyrox compromised ✓ erledigt 6.7.",
+       "dur": "48:31",
+       "p": "Qualitäts-Zirkel, 36:06 Arbeitszeit (ROXFIT) + 90–120 s Pause zwischen Stationen/Runden. 4 Runden: Row 1 km → 25 WB (9 kg) → 50 m Lunges (20 kg) → 12 BBJ → Sled Push 12,5 m (182 kg; ROXFIT-Template zeigte fälschlich 25 m). R4 nach WB beendet (geplant). WB 1:00 / 0:59 / 0:58 / 1:01 — vier Runden bei konstant ~1:00 → 9 kg endgültig gefestigt. Lunges @ 20 kg: 2:22 / 2:23 / 2:35 — BEWUSST GEPACED (Ziel: R4 erreichen), kein Max-Test. Nachhaltige compromised-Pace @ 20 kg ≈ 2:22–2:25/50 m. BBJ 1:35 / 1:33 / 1:40 (Schienbein reizfrei), Push 0:35 / 0:46 / 0:48 auf 12,5 m — gemächlich, inkl. Ansetzen; kein Leistungsmesswert. Row 4:22 / 4:25 / 4:32 / 4:30. Degradation R1→R3 minimal (Row +4 %, WB 0 %, Lunges +9 %) — teils dank Pausenformat; als Interval-Qualität lesen, nicht als Dauerlast. Erholung: HRV optimal, RP unter Schnitt; WE 28k/10k Schritte (Festival) als mögliche periphere Restlast.",
+       "prompt": "ROXFIT · PROTOKOLL 06.07. · 4 RUNDEN\nRunden 1–3: Row 1000 m → Wall Balls 25 @ 9 kg → Lunges 50 m @ 20 kg → Burpee Broad Jumps 12 → Sled Push 12,5 m @ 182 kg gesamt.\nRunde 4: Row 1000 m → Wall Balls 25 @ 9 kg, danach planmässig Ende.\nÜBERGÄNGE · Stationen gemäss Log; Runden-/Stationspausen 90–120 s erfassen.\nKeine zusätzlichen Übungen oder Distanzen ergänzen. Als abgeschlossenes Protokoll speichern."
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "★ 10k-Tempo ✓ erledigt 8.7. (Bahn)",
+       "dur": "42:55",
+       "p": "ERGEBNIS: 10 km in 42:55 = Ø 4:17,5/km @ Ø HF 157 (max 168), Bahn Uster. Splits eng 4:11–4:25, letzter km der schnellste (4:11). HF-Drift 151→164 bei flacher Pace (Decoupling 7,5 % — Juli-Hitze + oberes Schwellenende). Kadenz 183. NEUE FELD-SCHWELLE: ~4:17/km @ 157 — die 4:45 aus dem HM (Mai, 21 km) sind überholt. 10k-Lauf-PB (bisher keine 10k-Laufreferenz — nur Row 41:30)."
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Lauf · Easy (geändert 8.7.)",
+       "dur": "45–55 min",
+       "p": "GEÄNDERT nach dem 10k vom Mi: Der Schwellenreiz der Woche ist gesetzt (42:55 war ein harter Effort). Statt 3×3 km: 8–10 km easy < 145. Regel max. 2 harte Einheiten/Wo — der zweite harte Slot gehört dem Sa-Circuit (28-kg-Lunges = Hauptlimiter). Nur laufen, wenn Schienbein nach Mi ruhig.",
+       "prompt": "ROXFIT · EASY RUN · 45–55 MIN\n5:00 sehr locker anlaufen, danach 35–45:00 locker, letzte 5:00 sehr locker.\nHF-DECKEL · 145 bpm; bevorzugt 130–139.\nPAUSEN · Keine geplanten Pausen.\nSTOP · Bei zunehmendem Schienbeinschmerz abbrechen.\nLOG · Dauer, Distanz, Ø Pace, Ø HF und Schienbeinstatus."
+      },
+      {
+       "tag": "Sa",
+       "cls": "d-sim",
+       "ti": "Hyrox-Zirkel Peak ✓ erledigt 11.7.",
+       "dur": "37:05 Arbeit",
+       "p": "Qualitäts-Zirkel mit Pausen (~1:45–2:00). 4 Rd: Run 1 km → 30 WB (9 kg) → 50 m Lunges (25 kg, R1–R3) → BBJ 25 m → Push 12 m. R4 nach WB beendet (geplant). LUNGES @ 25 kg: 2:17 / 2:12 (GEPACED) / R3: 1:39 + Pause + 1:13 — R1–R2 bei +5 kg schneller als Montag @ 20 kg → erste 25-kg-Bestätigung verbucht. R3: ab Rep ~20 Ziehen im Rücken + kräftemässig/HF am Limit → Abbruchursache war der Rücken, nicht nur die Quads. Kontext: Vortag 10k Row (lumbale Vorermüdung). WB 30er: 1:06 / 1:04 / 1:07 / 1:06 — komplett flach, 120 total @ 9 kg. ERSTE COMPROMISED RUNS: 4:38 / 4:32 / 4:43 / 4:48 (Ø 4:40, Ziel-Band 4:30–4:40; Drift ab R3) — 2 Tage nach 10k-PB solide Baseline, Block-2-Ziel: 4:30 stabil. BBJ 25 m: 1:14 / 1:36 / 1:28. Push 12 m: 0:48 / 0:47 / 0:43. Waden hielten, WBs alle unbroken, Runs gut machbar. NEUE REGEL: kein langes Rudern am Vortag von Sandbag-/Lunge-Einheiten (Row ist lumbal keine Easy-Einheit). Rücken 48 h beobachten → Mo-Entscheid für Benchmark (Pull/Row unter Vorbehalt)."
+      },
+      {
+       "tag": "So",
+       "cls": "d-opt",
+       "ti": "Run · optional",
+       "dur": "70 min",
+       "p": "16 km locker, aerobe Basis. Nur kinderfreies Wochenende.",
+       "prompt": "ROXFIT · LONG EASY RUN · 70 MIN\n10:00 sehr locker + 50:00 locker + 10:00 sehr locker.\nHF-DECKEL · 145 bpm, absolut höchstens 150 an kurzen Anstiegen.\nPAUSEN · Keine geplanten Pausen.\nLOG · Dauer, Distanz, Ø Pace und Ø HF. Kein Tempoanteil, kein Endspurt."
+      }
+     ]
+    },
+    {
+     "n": "6",
+     "t": "Benchmark + Deload",
+     "d": "13.–19. Juli",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-gym",
+       "ti": "Gym · leicht · Deload",
+       "dur": "40 min",
+       "p": "Rücken ist wieder ruhig. Trotzdem keine Ermüdung erzeugen: leichte Technikarbeit, damit die Beine für die 100-%-Simulation frisch bleiben.",
+       "prompt": "ROXFIT · DELOAD TECHNIK · 40 MIN\nZiel: RPE 5/10, keine Ermüdung.\nWARM-UP · 8:00 Bike locker + Mobilität.\nA · Wall Balls 3×20 @ 6 kg · Pause 60 s.\nB · Ski Erg 2×500 m locker @ RPE 5/10 · Pause 2:00.\nC · 12:00 Mobility und kontrollierter Core ohne schwere axiale Last.\nSTOP · Bei erneutem Rückenschmerz Einheit beenden.\nLOG · Rückenstatus während der Einheit und am Folgetag."
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Lauf · locker (Deload)",
+       "dur": "45 min",
+       "p": "40 min Easy + 4 Steigerungen. Beine frisch halten für die Vollsim am Wochenende.",
+       "prompt": "ROXFIT · EASY RUN + STRIDES · 45 MIN\n35:00 locker, HF <145 und bevorzugt <139.\nDanach genau 4×100 m kontrollierte Steigerung auf ca. 85–90 %, nach jeder Steigerung 90 s Gehen/lockerer Trab.\nAnschliessend locker auslaufen bis 45:00 Gesamtzeit.\nKein Test, kein Sprint. LOG · HF, Beingefühl und Rückenstatus."
+      },
+      {
+       "tag": "WE",
+       "cls": "d-sim",
+       "ti": "★ Benchmark 1 ✓ erledigt 18.7. · DNF @ WB",
+       "dur": "77:49",
+       "p": "HRV 61 (erholt) · HF Ø 149 / max 173. LASTEN ÜBER PLAN: Push effektiv ~200 kg (182 + Seile), Pull 132 — Regel «keine Last spontan erhöhen» verletzt (Lunges plangemäss 25). SPLITS (Laps inkl. Übergang): Run1 5:09 → Ski 4:03 (unter Ziel!) → Run 4:59 → PUSH 4:26 @ ~200 (extrem hart — Wendepunkt der Sim) → Run 5:34 → Pull 3:08 @ 132 (deutlich über Erwartung) → Run 5:10 → BBJ 80 m 5:35 → Run 5:09 → Row 4:32 → Run 5:00 → Farmers 2:12 @ 2×28 → Run 5:21 → LUNGES 100 m @ 25 (Plan): 7:50 (Bruch nach 36 Reps, ~1 min Pause, Rest unbroken) — klar über Ziel 4:45–5:20, aber nach ~200-kg-Push und underfueled → Run 6:02 → WB: Abbruch nach 2 Sätzen (~50 Reps) in 3:32. ERNÄHRUNG: Frühstück ~40–60 g KH + Pre-Workout — bei 79-%-KH-Stoffwechsel klar zu wenig für 78 min; Einbruch ab Min. ~70 = Lehrbuch-Glykogen. BEFUNDE: (1) Ski & Pull viel besser als angenommen — beide blinden Flecken relativiert. (2) Push nahe PRO-Last bewegbar, kostet aber aktuell das halbe Rennen (alle Runs danach >5:00). (3) WB-Kollaps = Fueling + Vorermüdung, nicht WB-Fähigkeit (120 Stück am 11.7. problemlos). (4) Runs bis Push im Plan. (5) Körper-Status danach: Waden gut, Füsse/Achilles/Knie nur minimal im Warm-up, danach still — grünes Licht für Kanada. Hochrechnung komplett: ~82 min @ diesen Lasten; @ Plan-Lasten wäre 72–75 realistisch gewesen."
+      }
+     ]
+    }
+   ],
+   "short": "B1",
+   "from": "2026-06-08",
+   "to": "2026-07-19"
+  },
+  {
+   "id": "b2",
+   "label": "Block 2 · Intensität · 11. Aug → Genf 9.–11. Okt · Prompts antippen zum Kopieren",
+   "weeks": [
+    {
+     "n": "R",
+     "t": "Rückkehr · Re-Entry",
+     "d": "11.–16. Aug",
+     "days": [
+      {
+       "tag": "Di ✓",
+       "cls": "d-run",
+       "ti": "Easy Run · Wiedereinstieg",
+       "dur": "28:17",
+       "p": "ERLEDIGT 11.08.: 5,01 km · Ø 5:39/km · Ø HF 134. Nach rund 2,5 Wochen mit wenig Laufvolumen sauber aerob eingestiegen; keine relevante Schmerzreaktion.",
+       "prompt": "ROXFIT · RETURN EASY · ERLEDIGT 11.08.\n5,01 km in 28:17 · Ø 5:39/km · Ø HF 134.\nZweck: Laufverträglichkeit nach Deload bestätigen. Kein Test.",
+       "date": "2026-08-11"
+      },
+      {
+       "tag": "Mi ✓",
+       "cls": "d-gym",
+       "ti": "Hyrox Re-Entry · voller Reiz",
+       "dur": "55:41",
+       "p": "ERLEDIGT 12.08.: 4×50 m Lunges @25 kg in 2:05 / 2:07 / 2:12 / 2:15 (R1→R4 +8 % Drift). Sled Pull 4×12 m 0:34 / 0:23 / 0:26 / 0:32; Sled Push 0:24 / 0:26 / 0:26 / 0:27. Wall Balls @9 kg effektiv 20 + 20 + 15. Geplanter Compromised-Run-Block wegen Erschöpfung abgebrochen, nicht wegen Schmerz. Fazit: 25-kg-Lunges klar verbessert; Re-Entry war bereits ein harter Qualitätsreiz, daher Wochenende ohne zweiten HYROX-Hard-Day.",
+       "prompt": "ROXFIT · HYROX RE-ENTRY · ERLEDIGT 12.08.\nLUNGES · 4×50 m @25 kg: 2:05 / 2:07 / 2:12 / 2:15.\nSLED PULL · 4×12 m: 0:34 / 0:23 / 0:26 / 0:32.\nSLED PUSH · 4×12 m: 0:24 / 0:26 / 0:26 / 0:27.\nWALL BALLS · @9 kg effektiv 20 + 20 + 15.\nCOMPROMISED BLOCK · wegen Gesamtmüdigkeit abgebrochen, schmerzfrei.\nBEFUND · kein weiterer harter HYROX-Reiz vor Block-2-Start.",
+       "date": "2026-08-12"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Recovery / frei",
+       "dur": "0–40 min",
+       "p": "Nach dem harten Mittwoch keine Qualität. Entweder frei oder 30–40 min sehr locker Bike/Walk/Run, nur wenn Beine gut.",
+       "prompt": "ROXFIT · RECOVERY OPTIONAL · 30–40 MIN\nNur durchführen, wenn Beine sich normal anfühlen.\n30–40 min sehr locker, HF bevorzugt <135, Deckel 139.\nKein Tempo, keine Strides, kein Kraft-Finisher.\nAlternativ komplett frei.",
+       "date": "2026-08-14"
+      },
+      {
+       "tag": "Sa",
+       "cls": "d-run",
+       "ti": "Easy Run · aerob",
+       "dur": "45–55 min",
+       "p": "Erster längerer Lauf nach Rückkehr. Rein aerob, Volumen zurückholen ohne Intensität.",
+       "prompt": "ROXFIT · EASY RUN · 45–55 MIN\n10:00 sehr locker.\n30–40:00 locker, HF bevorzugt 125–139, Deckel 145.\n5:00 sehr locker auslaufen.\nKein Tempo, keine Strides, kein Endspurt.\nLOG · Dauer, Distanz, Ø Pace, Ø HF, Beingefühl.",
+       "date": "2026-08-15"
+      },
+      {
+       "tag": "So",
+       "cls": "d-opt",
+       "ti": "Optional · Walk/Bike/Mobility",
+       "dur": "30–50 min",
+       "p": "Kein zweiter harter Reiz. Nur aktive Erholung, damit Montag der erste echte Block-2-Qualitätstag werden kann.",
+       "prompt": "ROXFIT · ACTIVE RECOVERY · OPTIONAL\n30–50 min Walk oder Bike sehr locker.\nDanach 8–10 min Mobility für Hüfte, Sprunggelenk und Rücken.\nKeine Lunges, keine Sleds, keine Wall-Ball-Volumenarbeit.\nZiel: Montag frisch in Block 2 starten.",
+       "date": "2026-08-16"
+      }
+     ]
+    },
+    {
+     "n": "1",
+     "t": "30 kg · PRO-Last erreicht",
+     "d": "17.–23. Aug",
+     "days": [
+      {
+       "tag": "Mo ✓",
+       "cls": "d-sim",
+       "ti": "Hyrox Quality · 30 kg + Compromised Run",
+       "dur": "~49 min Hauptarbeit",
+       "p": "ERLEDIGT 17.08.: Lunges 3×40 m @30 kg in 1:52 / 1:57 / 1:46. Direkt danach 600 m in 2:42 / 2:45 / 2:54 (=4:30 / 4:35 / 4:50/km). WB 9 kg 0:44 / 0:46 / 0:47. Lunges ohne Drift, Run-Drift +20 s/km von R1→R3 = aktueller Haupthebel. Sled Pull 132 kg 0:28 / 0:21, danach 112 kg; Push 152 kg 0:23 / 0:22 und 172 kg 0:30 / 0:24 / 0:26.",
+       "prompt": "ROXFIT · BLOCK 2 W1 · ERLEDIGT 17.08.\nLUNGES · 3×40 m @30 kg: 1:52 / 1:57 / 1:46.\nRUNS · 600 m: 2:42 / 2:45 / 2:54 = 4:30 / 4:35 / 4:50/km.\nWB · 20 @9 kg: 0:44 / 0:46 / 0:47.\nBEFUND · PRO-Lungegewicht erreicht; nicht mehr auf 28 kg zurückstufen. Volumen @30 kg progressiv erhöhen. Compromised Run = Haupthebel.",
+       "date": "2026-08-17"
+      },
+      {
+       "tag": "Mi ✓",
+       "cls": "d-run",
+       "ti": "8×1000 · unter Restermüdung",
+       "dur": "58:29",
+       "p": "ERLEDIGT 19.08.: 3:59 / 3:57 / 3:57 / 3:58 / 3:56 / 3:58 / 4:02 / 4:03 → Ø3:58,7/km. Erholung jeweils ~2:00. Beine vom Montag noch spürbar belastet, aber kein relevanter Muskelkater. Interpretation: mindestens Vor-Kanada-Laufniveau unter HYROX-Vorbelastung. Nächster Schritt = gleiche Pace bei 90 s Pause.",
+       "prompt": "ROXFIT · 8×1000 · ERLEDIGT 19.08.\nREPS · 3:59 / 3:57 / 3:57 / 3:58 / 3:56 / 3:58 / 4:02 / 4:03.\nØ · 3:58,7/km.\nPAUSE · ~2:00.\nKONTEXT · lokale Restermüdung nach hartem HYROX-Montag.\nNÄCHSTE PROGRESSION · 8×1000 @3:55–4:00/km mit 90 s Trabpause.",
+       "date": "2026-08-19"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Bike Commute Z2 · optional",
+       "dur": "70–80 km",
+       "p": "Nur wenn organisatorisch passend und Beine okay. 35–40 km je Richtung, bewusst aerob; zählt als grosser Ausdauerbaustein, nicht als Recovery. Kein zusätzlicher Intervallreiz am selben Tag.",
+       "prompt": "ROXFIT · BIKE COMMUTE Z2 · OPTIONAL\nDISTANZ · 35–40 km je Richtung, total 70–80 km.\nINTENSITÄT · RPE 2–3/10, jederzeit sprechen können, kein Drücken am Berg.\nZIEL · aerobe Zeit ohne Lauf-Impact.\nREGEL · ersetzt in dieser Woche den Longrun; kein harter Lauf am selben Tag.",
+       "date": "2026-08-21"
+      },
+      {
+       "tag": "WE",
+       "cls": "d-opt",
+       "ti": "Easy Run · optional",
+       "dur": "45–75 min",
+       "p": "Nur wenn die Erholung nach Montag/Mittwoch und ggf. Bike-Freitag gut ist. Rein aerob, keine Progression.",
+       "prompt": "ROXFIT · OPTIONAL EASY RUN · 45–75 MIN\nDurchgehend locker, HF bevorzugt 125–139, Deckel 145.\nKein Tempo, kein Endspurt.\nBei schweren Beinen auf 45–60 min kürzen oder auslassen.",
+       "date": "2026-08-22"
+      }
+     ]
+    },
+    {
+     "n": "2",
+     "t": "30 kg · Volumen aufbauen",
+     "d": "24.–30. Aug",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "30-kg-Lunges · 4×40 m",
+       "dur": "65–70 min",
+       "p": "Last ist bestätigt; jetzt Volumen bei PRO-Gewicht erhöhen. Ziel: 4 saubere 40-m-Sätze ohne Technikzerfall und danach kontrolliert laufen.",
+       "prompt": "ROXFIT · BLOCK 2 W2 · 30-KG VOLUMEN\nWARM-UP · 10:00 locker + Mobilität.\nHAUPTTEIL · Genau 4 Runden:\n1. Sandbag Lunges 40 m @ 30 kg\n2. Run 600 m @ 4:30–4:40/km\n3. Wall Balls 20 @ 9 kg\nRUNDENPAUSE · 2:00 reine Erholung.\nB · Sled Pull 3×12,5 m @ 135–145 kg · 90 s Pause.\nC · Sled Push 3×12,5 m @ RPE 7–8 · 90 s Pause.\nLOG · Lunge- und Run-Splits. Gate = R4-Lunge technisch sauber und Run-Drift kontrolliert. Keine Zusatzrunde.",
+       "date": "2026-08-24"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "8×1000 · 90 s Pause",
+       "dur": "65–70 min",
+       "p": "Progression über weniger Erholung, nicht über hektisch schnellere Reps.",
+       "prompt": "ROXFIT · BLOCK 2 W2 · 8×1000 M\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 8×1000 m @ 3:55–4:00/km. Reps 1–2 bei 3:59–4:00 deckeln.\nERHOLUNG · 90 s lockerer Trab nach Rep 1–7.\nCOOL-DOWN · 10:00 locker.\nGATE · Rep 1–6 ≤4:00; Rep 7–8 maximal ~4:02; kein Schienbeinreiz.\nLOG · Pace/HF je Rep, Beingefühl aus Montag.",
+       "date": "2026-08-26"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Bike Commute Z2 oder Easy",
+       "dur": "70–80 km / 45–55 min",
+       "p": "Bike 35–40 km je Richtung nur aerob. Falls kein Bike: Easy Run. Nicht beides erzwingen.",
+       "prompt": "ROXFIT · FREITAG AEROB\nOPTION A · Bike Commute 70–80 km total, RPE 2–3/10.\nOPTION B · Easy Run 45–55 min, HF bevorzugt 125–139.\nNur eine Option wählen. Kein Tempo.",
+       "date": "2026-08-28"
+      }
+     ]
+    },
+    {
+     "n": "3",
+     "t": "30 kg · Compromised 1 km",
+     "d": "31. Aug–6. Sep",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Hyrox Quality · 1-km-Runs",
+       "dur": "70 min",
+       "p": "Ziel: die alte Baseline Ø4:40 compromised wieder stabilisieren – nicht schneller erzwingen.",
+       "prompt": "ROXFIT · BLOCK 2 W3 · COMPROMISED 1 KM\nWARM-UP · 10:00 locker.\nHAUPTTEIL · Genau 3 Runden:\n1. Sandbag Lunges 50 m @ 30 kg\n2. Run 1000 m @ 4:30–4:40/km\n3. Wall Balls 25 @ 9 kg\n4. Sled Pull 12,5 m @ 135–140 kg\nRUNDENPAUSE · 2:00 reine Erholung.\nCOOL-DOWN · 5:00 locker.\nLOG · alle Splits, Run-Drift, Lunge-Drift. Kein Zusatzblock.",
+       "date": "2026-08-31"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Schwelle · 3×3 km",
+       "dur": "70 min",
+       "p": "Wenn W1/W2 vertragen: zurück zum vollen Schwellenvolumen.",
+       "prompt": "ROXFIT · BLOCK 2 W3 · SCHWELLE 3×3 KM\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 3×3000 m @ 4:10–4:15/km.\nERHOLUNG · je 2:00 lockerer Trab nach Rep 1–2.\nCOOL-DOWN · 10:00 locker.\nHF · 158–162 als Orientierung.\nLOG · Pace/HF je Rep.",
+       "date": "2026-09-02"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Easy + Ski Technik",
+       "dur": "50–60 min",
+       "p": "Easy Run, danach kurze Ski-Technik – kein dritter harter Reiz.",
+       "prompt": "ROXFIT · EASY + SKI TECHNIK\nRUN · 45:00 easy, HF bevorzugt <139.\nSKI · danach 3×500 m locker @ RPE 5–6, je 90 s Pause.\nFOKUS · langer Zug, Hüftknick, ruhiger Rhythmus.\nLOG · Ski-Zeit nur als Technikreferenz, nicht als Test.",
+       "date": "2026-09-04"
+      }
+     ]
+    },
+    {
+     "n": "4",
+     "t": "Absorbieren · Mini-Deload",
+     "d": "7.–13. Sep",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-gym",
+       "ti": "Hyrox Kraft · Volumen −30 %",
+       "dur": "55–60 min",
+       "p": "Belastung aufnehmen. Gewicht halten, weniger Volumen.",
+       "prompt": "ROXFIT · BLOCK 2 W4 · MINI-DELOAD\nWARM-UP · 10:00 locker.\nA · Lunges 2×40 m @ 30 kg · gepaced · 2:00 Pause.\nB · Sled Pull 3×12,5 m @ 140 kg · 90 s Pause.\nC · Sled Push 3×12,5 m @ RPE 7 · 90 s Pause.\nD · Wall Balls 3×20 @ 9 kg · 60 s Pause.\nE · Bulgarian Split Squat 2×8 je Bein moderat.\nKein Finisher. LOG · Frischegefühl und Technik.",
+       "date": "2026-09-07"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Tempo · 5 km steady",
+       "dur": "50–55 min",
+       "p": "Kein harter VO₂-Tag; etwas Spannung behalten.",
+       "prompt": "ROXFIT · BLOCK 2 W4 · STEADY TEMPO\nWARM-UP · 15:00 locker.\nHAUPTTEIL · 5 km @ 4:20–4:25/km kontrolliert.\nCOOL-DOWN · 10:00 locker.\nRPE · maximal 7/10.\nLOG · Ø Pace/HF, keine Jagd auf Bestzeit.",
+       "date": "2026-09-09"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Easy",
+       "dur": "45 min",
+       "p": "Regeneration.",
+       "prompt": "ROXFIT · EASY RUN · 45 MIN\nDurchgehend locker, HF bevorzugt 125–139. Kein Tempo.",
+       "date": "2026-09-11"
+      }
+     ]
+    },
+    {
+     "n": "5",
+     "t": "30 kg · 4×50 m Gate",
+     "d": "14.–20. Sep",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Lunges 30 kg · Volumen-Gate",
+       "dur": "60–65 min",
+       "p": "PRO-Last ist erreicht. Stuttgart-Woche: Qualität vor Umfang; Ziel ist Volumenstabilität bei 30 kg.",
+       "prompt": "ROXFIT · BLOCK 2 W5 · 30-KG VOLUMEN-GATE\nWARM-UP · 10:00 locker.\nHAUPTTEIL · Genau 4 Runden:\n1. Sandbag Lunges 50 m @ 30 kg\n2. Run 800 m @ 4:35–4:40/km\n3. Wall Balls 20 @ 9 kg\nRUNDENPAUSE · 2:00 reine Erholung.\nB · Sled Pull 4×12,5 m @ 145 kg · Pause 90 s.\nLOG · Lunge-Split, Technik, Run-HF. Keine Zusatzrunden.",
+       "date": "2026-09-14"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "8×1000 · Re-Test",
+       "dur": "65–70 min",
+       "p": "Geplanter Lauf-Gate: Form aus Anfang Juli wiederfinden.",
+       "prompt": "ROXFIT · BLOCK 2 W5 · 8×1000 RE-TEST\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 8×1000 m @ 3:55–4:00/km. Reps 1–2 deckeln.\nERHOLUNG · 75–90 s lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nZIEL · Ø ≤3:55 bei kontrollierter HF ist Kursbestätigung; wichtiger ist gleichmässige Serie ohne Zerfall.\nLOG · Pace/HF je Rep.",
+       "date": "2026-09-16"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Easy unterwegs",
+       "dur": "40–50 min",
+       "p": "Stuttgart: Minimum effective dose.",
+       "prompt": "ROXFIT · TRAVEL EASY · 40–50 MIN\nDurchgehend locker, HF <145, bevorzugt <139. Kein Tempo.",
+       "date": "2026-09-18"
+      }
+     ]
+    },
+    {
+     "n": "6",
+     "t": "30 kg · PRO-Ausbau",
+     "d": "21.–27. Sep",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Hyrox Quality · PRO-Nähe",
+       "dur": "70 min",
+       "p": "Lunges auf PRO-Last 30 kg, Pull nahe PRO; Run wird spezifischer.",
+       "prompt": "ROXFIT · BLOCK 2 W6 · 30 KG + SLED PULL\nWARM-UP · 10:00 locker.\nHAUPTTEIL · Genau 3 Runden:\n1. Row 500 m @ RPE 6\n2. Sandbag Lunges 50 m @ 30 kg\n3. Run 1000 m @ 4:25–4:35/km\n4. Wall Balls 25 @ 9 kg\nRUNDENPAUSE · 2:00 reine Erholung.\nB · Sled Pull 4×12,5 m @ 145–150 kg · 90 s Pause.\nLOG · Lunge-Drift, Run-Drift, Pull-RPE. Keine Zusatzrunden.",
+       "date": "2026-09-21"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Schwelle · 2×4 km",
+       "dur": "65–70 min",
+       "p": "Lange kontrollierte Schwelle.",
+       "prompt": "ROXFIT · BLOCK 2 W6 · 2×4 KM SCHWELLE\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 2×4000 m @ 4:10–4:15/km.\nERHOLUNG · 3:00 lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace/HF je Block, Drift.",
+       "date": "2026-09-23"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Easy + 4 Strides",
+       "dur": "50 min",
+       "p": "Easy.",
+       "prompt": "ROXFIT · EASY + 4 STRIDES · 50 MIN\n40:00 locker + 4×20 s Strides mit je 70 s easy + auslaufen. HF im Easy-Teil bevorzugt <139.",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "n": "7",
+     "t": "Race Specific · Segment",
+     "d": "28. Sep–4. Okt",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "70-% Rennsegment",
+       "dur": "65–75 min",
+       "p": "Letzter grosser Hyrox-Reiz vor Genf. Keine 100-%-Sim.",
+       "prompt": "ROXFIT · BLOCK 2 W7 · 70-PROZENT RENNSEGMENT\nWARM-UP · 12:00 locker.\nHAUPTTEIL · 1 Durchgang, Übergänge direkt:\n1. Run 1000 m @ 4:30/km\n2. Sled Push 50 m @ trainingsspezifischer Last RPE 8, nicht Max-Test\n3. Run 1000 m @ 4:35/km\n4. Sled Pull 50 m @ 150–153 kg\n5. Run 1000 m @ 4:35/km\n6. Burpee Broad Jumps 40 m\n7. Run 1000 m @ 4:35–4:40/km\n8. Sandbag Lunges 100 m @ 30 kg\n9. Run 1000 m kontrolliert\n10. Wall Balls 60 @ 9 kg in geplanten Sätzen.\nROXZONE · alle Wege/Übergänge stoppen.\nLOG · sämtliche Splits, RPE, Run-Drift. Kein Zusatzvolumen.",
+       "date": "2026-09-28"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Race-Pace 5×1 km",
+       "dur": "55–60 min",
+       "p": "Kurzer spezifischer Laufreiz, nicht all-out.",
+       "prompt": "ROXFIT · BLOCK 2 W7 · 5×1000 RACE PACE\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 5×1000 m @ 4:10–4:15/km.\nERHOLUNG · 90 s lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace/HF. Letzter Rep soll kontrolliert aussehen.",
+       "date": "2026-09-30"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Easy",
+       "dur": "40–50 min",
+       "p": "Frische aufbauen.",
+       "prompt": "ROXFIT · EASY RUN · 40–50 MIN\nDurchgehend locker, HF bevorzugt <139. Kein Tempo.",
+       "date": "2026-10-02"
+      }
+     ]
+    },
+    {
+     "n": "8",
+     "t": "Mini-Taper + Genf oder Vollsim",
+     "d": "5.–11. Okt",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-gym",
+       "ti": "Primer · kurz",
+       "dur": "40–45 min",
+       "p": "Volumen deutlich runter, Intensität fühlen. Nichts mehr verbessern wollen.",
+       "prompt": "ROXFIT · GENF TAPER · HYROX PRIMER 40–45 MIN\nWARM-UP · 10:00 locker.\nA · Wall Balls 2×20 @ 9 kg · 60 s Pause.\nB · Lunges 2×25 m @ 30 kg · 90 s Pause.\nC · Sled Pull 2×12,5 m @ 140–150 kg · 2:00 Pause.\nD · Sled Push 2×12,5 m @ RPE 7 · 2:00 Pause.\nE · 4×20 s lockere Strides / 70 s easy.\nSTOP · Einheit soll mit Reserve enden.",
+       "date": "2026-10-05"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Race-Pace Primer",
+       "dur": "35–45 min",
+       "p": "Kurz, knackig, frisch.",
+       "prompt": "ROXFIT · GENF TAPER · RUN PRIMER\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 4×1000 m @ 4:10–4:15/km, je 2:00 sehr locker.\nCOOL-DOWN · 8–10:00 locker.\nRPE · 7/10, kein letzter harter Rep.",
+       "date": "2026-10-07"
+      },
+      {
+       "tag": "Fr/Sa/So",
+       "cls": "d-sim",
+       "ti": "★ Genf PRO oder Vollsimulation",
+       "dur": "RACE",
+       "p": "ENTSCHEIDUNG SPÄTESTENS 25.09. (Anmeldeschluss und Reiseplanung). Genf: B-Rennen, AG 35–39, echte Renndynamik. Vollsim: gleiche Datenqualität, keine Reise, günstigere Erholung. Da Mailand fix ist, ist Genf kein Pflicht-Qualifier. Primärziel in beiden Fällen: saubere Splits, keine Station sprengen. Stretch ≤65, Plan 66–69.",
+       "prompt": "HYROX GENF ODER VOLLSIMULATION · RACE LOG\\nVARIANTE A · GENF PRO\\nVor dem Start Fueling, Schlaf, Ruhepuls und HRV notieren.\\nWährend/nach dem Rennen loggen: 8 Run-Splits, 8 Stationssplits, Roxzone gesamt, RPE an Push/Lunges/Wall Balls, geplante vs. ungeplante Pausen.\\n\\nVARIANTE B · VOLLSIMULATION SOLO\\nGleicher Ablauf, PRO-Lasten: Sled Push 202 kg gesamt, Sled Pull 153 kg gesamt, Farmers 2×32 kg, Lunges 30 kg, Wall Balls 9 kg.\\nJeden Übergang separat stoppen — die Roxzone ist Teil des Tests.\\nFueling wie im Rennen: mindestens 100 g KH 3 h vorher, 30–40 g während.\\n\\nPACING · beide Varianten: erste zwei Runs bewusst deckeln, auf keiner Station Zeit erzwingen.\\nZIEL · vollständiger PRO-Datensatz für Block 3.",
+       "date": "2026-10-09"
+      }
+     ]
+    }
+   ],
+   "short": "B2",
+   "from": "2026-08-11",
+   "to": "2026-10-11"
+  },
+  {
+   "id": "b3",
+   "short": "B3",
+   "from": "2026-10-12",
+   "to": "2026-12-20",
+   "label": "Block 3 · Renntempo · 12. Okt → Mailand 5.–6. Dez · Mesozyklen 2:1",
+   "weeks": [
+    {
+     "n": "1",
+     "t": "Rennen/Sim verdauen · Re-Entry",
+     "d": "12.–18. Okt",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-opt",
+       "ti": "Regeneration · kein Reiz",
+       "dur": "0–40 min",
+       "p": "Direkt nach Genf oder der Vollsimulation. Kein Krafttraining, keine Stationen. Nur Bewegung, wenn sie sich gut anfühlt. Splits ins Log eintragen, solange die Erinnerung frisch ist.",
+       "prompt": "ROXFIT · POST-RACE RECOVERY\nEntweder komplett frei oder 30–40 min sehr locker Bike/Walk.\nKein Lauf mit Tempoanteil, keine Stationen, kein Core mit Last.\nAUFGABE · Genf-Splits erfassen: 8 Runs, 8 Stationen, Roxzone, RPE je Station, geplante vs. ungeplante Pausen.",
+       "date": "2026-10-12"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Easy Run · Verträglichkeit",
+       "dur": "40–50 min",
+       "p": "Erster Lauf nach dem Rennen. Rein diagnostisch: Läuft es rund, oder zieht irgendwo etwas?",
+       "prompt": "ROXFIT · POST-RACE EASY · 40–50 MIN\nDurchgehend locker, HF bevorzugt 125–139, Deckel 145.\nKein Tempo, keine Strides.\nLOG · Beingefühl, Waden, Schienbein, Rücken. Bei Schmerz abbrechen und notieren.",
+       "date": "2026-10-14"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-gym",
+       "ti": "Technik · leicht",
+       "dur": "40 min",
+       "p": "Bewegungsqualität zurückholen, ohne Ermüdung zu erzeugen. Lasten deutlich unter Renngewicht.",
+       "prompt": "ROXFIT · TECHNIK LEICHT · 40 MIN\nWARM-UP · 10:00 locker + Mobilität Hüfte/Sprunggelenk/BWS.\nA · Wall Balls 3×15 @ 6 kg · Pause 60 s · Fokus sauberer Catch, kein Reissen.\nB · Lunges 2×25 m @ 20 kg · Pause 90 s · Fokus Knieführung.\nC · Ski Erg 2×500 m @ RPE 5 · Pause 2:00.\nRPE-DECKEL · 5/10. Einheit endet mit Reserve.",
+       "date": "2026-10-16"
+      },
+      {
+       "tag": "WE",
+       "cls": "d-opt",
+       "ti": "Optional · locker",
+       "dur": "45–70 min",
+       "p": "Nur wenn die Erholung stimmt. Kein zweiter Reiz in dieser Woche.",
+       "prompt": "ROXFIT · OPTIONAL EASY\n45–70 min locker laufen oder Bike Z2.\nHF bevorzugt <139.\nAuslassen, wenn Beine oder Motivation nicht stimmen — diese Woche ist zum Absorbieren da.",
+       "date": "2026-10-17"
+      }
+     ]
+    },
+    {
+     "n": "2",
+     "t": "Sled Push · Hauptbaustelle",
+     "d": "19.–25. Okt",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Sled-Push-Block · schwer",
+       "dur": "70 min",
+       "p": "Aus Benchmark 1: Push mit ~200 kg war der Wendepunkt — alle Runs danach über 5:00. PRO-Last ist 202 kg. Ziel ist nicht schneller schieben, sondern schwer schieben ohne dass der Folgelauf zerfällt. Deshalb jeder Push mit Run gekoppelt.",
+       "prompt": "ROXFIT · BLOCK 3 W2 · SLED PUSH UNTER LAUF\nWARM-UP · 12:00 locker + Mobilität + 2 leichte Push-Sätze.\nHAUPTTEIL · Genau 4 Runden:\n1. Sled Push 12,5 m @ 185–195 kg gesamt\n2. Run 400 m @ 4:30–4:40/km, direkt im Anschluss\nRUNDENPAUSE · 2:30 reine Erholung.\nB · Sandbag Lunges 2×50 m @ 30 kg · Pause 2:00.\nGATE · Run 4 nicht mehr als 10 s/km langsamer als Run 1. Wird das gerissen, Last in der Folgewoche nicht erhöhen.\nLOG · Push-Zeit, Folgelauf-Pace je Runde, RPE.",
+       "date": "2026-10-19"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "8×1000 · 90 s Pause",
+       "dur": "65–70 min",
+       "p": "Die offene Progression aus Block 2: gleiche Pace, kürzere Erholung. Nicht schneller laufen wollen.",
+       "prompt": "ROXFIT · BLOCK 3 W2 · 8×1000 M\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 8×1000 m @ 3:55–4:00/km. Reps 1–2 bei 4:00 deckeln.\nERHOLUNG · 90 s lockerer Trab nach Rep 1–7.\nCOOL-DOWN · 10:00 locker.\nGATE · Reps 1–6 ≤4:00, Reps 7–8 höchstens 4:02.\nLOG · Pace/HF je Rep.",
+       "date": "2026-10-21"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Bike Z2 oder Easy",
+       "dur": "70–80 km / 45–55 min",
+       "p": "Aerobe Zeit ohne Lauf-Impact. Nur eine Option, nicht beides.",
+       "prompt": "ROXFIT · FREITAG AEROB\nOPTION A · Bike Commute 70–80 km total, RPE 2–3/10.\nOPTION B · Easy Run 45–55 min, HF bevorzugt 125–139.\nKein Tempo, kein Kraft-Finisher.",
+       "date": "2026-10-23"
+      }
+     ]
+    },
+    {
+     "n": "3",
+     "t": "Roxzone · Übergänge",
+     "d": "26. Okt–1. Nov",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Übergangs-Training · Roxzone",
+       "dur": "70 min",
+       "p": "Roxzone lag in St. Gallen bei 5:05 gegen ein Ziel von 3:00 — über zwei Minuten liegen auf den Wegen, nicht auf den Stationen. Das ist der billigste Zeitgewinn im ganzen Rennen und wurde bisher nie geübt. Jeder Übergang wird hier separat gestoppt.",
+       "prompt": "ROXFIT · BLOCK 3 W3 · ROXZONE\nWARM-UP · 12:00 locker.\nHAUPTTEIL · Genau 4 Runden, Übergänge bewusst zügig und separat gestoppt:\n1. Run 600 m @ 4:30/km\n2. Übergang: Sandbag holen, positionieren\n3. Sandbag Lunges 40 m @ 30 kg\n4. Übergang: Sandbag ablegen, zur Wall\n5. Wall Balls 20 @ 9 kg\n6. Übergang: zurück auf die Laufstrecke\nRUNDENPAUSE · 2:00.\nLOG · Stationszeit UND Übergangszeit getrennt. Ziel: Übergang unter 20 s.\nKein Zusatzvolumen — die Übung ist die Zeitmessung, nicht die Last.",
+       "date": "2026-10-26"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Schwelle · 3×3 km",
+       "dur": "70 min",
+       "p": "Volle Schwellenarbeit. Referenz aus dem 10k vom 8.7.: ~4:17/km bei HF 157.",
+       "prompt": "ROXFIT · BLOCK 3 W3 · 3×3 KM SCHWELLE\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 3×3000 m @ 4:08–4:13/km.\nERHOLUNG · 2:00 lockerer Trab nach Rep 1–2.\nCOOL-DOWN · 10:00 locker.\nHF · 158–162 als Orientierung, nicht als Vorgabe.\nLOG · Pace/HF je Rep, Drift innerhalb der Reps.",
+       "date": "2026-10-28"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Easy + 4 Strides",
+       "dur": "45–55 min",
+       "p": "Frische halten.",
+       "prompt": "ROXFIT · EASY + STRIDES · 45–55 MIN\n40:00 locker, HF bevorzugt <139.\nDanach genau 4×20 s Strides, je 70 s locker.\nAuslaufen bis Gesamtzeit.\nKein Test.",
+       "date": "2026-10-30"
+      }
+     ]
+    },
+    {
+     "n": "4",
+     "t": "Deload + Benchmark 3",
+     "d": "2.–8. Nov",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-gym",
+       "ti": "Deload · Volumen −40 %",
+       "dur": "45–50 min",
+       "p": "Beine für das Wochenende freihalten. Lasten bleiben, Volumen runter.",
+       "prompt": "ROXFIT · DELOAD · 45–50 MIN\nWARM-UP · 10:00 locker.\nA · Lunges 2×30 m @ 30 kg · gepaced · Pause 2:00.\nB · Sled Push 2×12,5 m @ RPE 7 · Pause 2:00.\nC · Wall Balls 2×20 @ 9 kg · Pause 75 s.\nKein Finisher, kein Core mit schwerer axialer Last.\nEinheit endet mit deutlicher Reserve.",
+       "date": "2026-11-02"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Easy + Strides",
+       "dur": "40–45 min",
+       "p": "Spannung halten, keine Ermüdung.",
+       "prompt": "ROXFIT · TAPER-EASY · 40–45 MIN\n30:00 locker, HF <139.\n4×20 s Strides, je 90 s Gehen/Trab.\nAuslaufen. Kein Tempoblock.",
+       "date": "2026-11-04"
+      },
+      {
+       "tag": "WE",
+       "cls": "d-sim",
+       "ti": "★ Benchmark 3 · Rennsegment 70 %",
+       "dur": "50–60 min",
+       "p": "Kein Vollrennen. Die zweite Rennhälfte am Stück — genau die Stelle, an der Genf und Benchmark 1 gekippt sind. Mit vollem Fueling-Protokoll, das ist Teil des Tests.",
+       "prompt": "ROXFIT · BENCHMARK 3 · ZWEITE RENNHÄLFTE\nVORHER · Frühstück mit mindestens 100 g Kohlenhydraten, 2,5–3 h vorher. Während des Tests 30–40 g KH nachführen. Beides protokollieren.\nWARM-UP · 12:00 locker + je 1 leichter Stationssatz.\nHAUPTTEIL · 1 Durchgang, Übergänge direkt und gestoppt:\n1. Run 1000 m @ 4:35/km\n2. Row 1000 m\n3. Run 1000 m @ 4:35/km\n4. Farmers Carry 200 m @ 2×32 kg\n5. Run 1000 m @ 4:35/km\n6. Sandbag Lunges 100 m @ 30 kg\n7. Run 1000 m kontrolliert\n8. Wall Balls 100 @ 9 kg in geplanten Sätzen\nPACING · Keine Station erzwingen. Ziel ist ein vollständiger Durchgang ohne Bruch, nicht eine Bestzeit.\nLOG · alle Splits, Übergänge, RPE, Fueling, Zeitpunkt eines eventuellen Einbruchs.",
+       "date": "2026-11-07"
+      }
+     ]
+    },
+    {
+     "n": "5",
+     "t": "Volumen · PRO-Lasten",
+     "d": "9.–15. Nov",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Stationen auf PRO-Last",
+       "dur": "70–75 min",
+       "p": "Nach der Benchmark-Auswertung. Alle vier Kraftstationen auf oder nahe Renngewicht: Push 202, Pull 153, Farmers 2×32, Lunges 30.",
+       "prompt": "ROXFIT · BLOCK 3 W5 · PRO-LASTEN\nWARM-UP · 12:00 locker + je 1 leichter Vorbereitungssatz.\nHAUPTTEIL · Genau 3 Runden:\n1. Sled Push 12,5 m @ 195–202 kg gesamt\n2. Sled Pull 12,5 m @ 148–153 kg gesamt\n3. Run 600 m @ 4:30–4:40/km\n4. Farmers Carry 50 m @ 2×32 kg\nRUNDENPAUSE · 2:30.\nB · Sandbag Lunges 2×50 m @ 30 kg · Pause 2:00.\nSTOP · Bei Technikverlust am Sled Last reduzieren statt Runde abbrechen.\nLOG · Zeit je Station, Folgelauf-Pace, RPE.",
+       "date": "2026-11-09"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "VO₂ · 6×800 m",
+       "dur": "60–65 min",
+       "p": "Kurzer scharfer Reiz, in Block 2 nicht gefahren. Spitze für die Rennwochen.",
+       "prompt": "ROXFIT · BLOCK 3 W5 · 6×800 M\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 6×800 m @ 3:45–3:52/km.\nERHOLUNG · 90 s lockerer Trab nach Rep 1–5.\nCOOL-DOWN · 10:00 locker.\nSTOP · Wenn zwei Reps hintereinander mehr als 5 s/km einbrechen, Einheit beenden.\nLOG · Pace/HF je Rep.",
+       "date": "2026-11-11"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Bike Z2 oder frei",
+       "dur": "70–80 km",
+       "p": "Zwei harte Reize sind gesetzt. Freitag bleibt aerob oder frei.",
+       "prompt": "ROXFIT · FREITAG AEROB ODER FREI\nOPTION A · Bike Z2 70–80 km, RPE 2–3/10.\nOPTION B · komplett frei.\nKein Lauf mit Tempoanteil, keine Stationen.",
+       "date": "2026-11-13"
+      }
+     ]
+    },
+    {
+     "n": "6",
+     "t": "Peak · letzte harte Woche",
+     "d": "16.–22. Nov",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Compromised · dichteste Woche",
+       "dur": "75 min",
+       "p": "Letzter grosser HYROX-Reiz vor Mailand. Danach geht es nur noch runter.",
+       "prompt": "ROXFIT · BLOCK 3 W6 · PEAK COMPROMISED\nWARM-UP · 12:00 locker.\nHAUPTTEIL · Genau 4 Runden:\n1. Run 1000 m @ 4:30/km\n2. Sandbag Lunges 50 m @ 30 kg\n3. Wall Balls 25 @ 9 kg\n4. Sled Push 12,5 m @ 195 kg gesamt\nRUNDENPAUSE · 2:00 reine Erholung.\nCOOL-DOWN · 5:00 locker.\nGATE · Run 4 höchstens 15 s/km langsamer als Run 1.\nLOG · alle Splits, Run-Drift, Lunge-Drift, RPE.\nKeine fünfte Runde, auch wenn es gut läuft.",
+       "date": "2026-11-16"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Race Pace · 5×1 km",
+       "dur": "55–60 min",
+       "p": "Spezifisch, nicht all-out. Renntempo einschleifen.",
+       "prompt": "ROXFIT · BLOCK 3 W6 · 5×1000 RACE PACE\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 5×1000 m @ 4:05–4:12/km.\nERHOLUNG · 90 s lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nZIEL · letzter Rep sieht kontrolliert aus, kein Endspurt.\nLOG · Pace/HF je Rep.",
+       "date": "2026-11-18"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Easy",
+       "dur": "45 min",
+       "p": "Regeneration einleiten.",
+       "prompt": "ROXFIT · EASY RUN · 45 MIN\nDurchgehend locker, HF bevorzugt 125–139. Kein Tempo, kein Endspurt.",
+       "date": "2026-11-20"
+      }
+     ]
+    },
+    {
+     "n": "7",
+     "t": "Taper Mailand · Woche 1",
+     "d": "23.–29. Nov",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-gym",
+       "ti": "Volumen −40 %, Intensität halten",
+       "dur": "50 min",
+       "p": "Taper-Prinzip: Umfang runter, Schärfe bleibt. Nichts mehr verbessern wollen.",
+       "prompt": "ROXFIT · TAPER MAILAND W1 · 50 MIN\nWARM-UP · 10:00 locker.\nA · Sled Push 3×12,5 m @ 190 kg · Pause 2:30 · zügig, aber nicht maximal.\nB · Lunges 2×40 m @ 30 kg · Pause 2:00.\nC · Wall Balls 3×20 @ 9 kg · Pause 75 s.\nKein Finisher.\nLOG · Frischegefühl. Die Einheit soll leicht wirken.",
+       "date": "2026-11-23"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Tempo · 4×1 km",
+       "dur": "50 min",
+       "p": "Kurz und knackig.",
+       "prompt": "ROXFIT · TAPER RUN · 4×1000 M\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 4×1000 m @ 4:05–4:12/km.\nERHOLUNG · 2:00 sehr locker.\nCOOL-DOWN · 10:00 locker.\nRPE-DECKEL · 7/10.",
+       "date": "2026-11-25"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Easy oder frei",
+       "dur": "0–45 min",
+       "p": "Nach Gefühl.",
+       "prompt": "ROXFIT · OPTIONAL\nEntweder frei oder 30–45 min sehr locker, HF <135.\nKeine Strides, keine Stationen.",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "n": "8",
+     "t": "Mailand · WM-Qualifier",
+     "d": "30. Nov–6. Dez",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-gym",
+       "ti": "Primer · kurz",
+       "dur": "35–40 min",
+       "p": "Nur Systeme wecken. AG-Wechsel auf 40–44 ist ab 03.12. wirksam — dieses Rennen zählt bereits in der neuen Klasse.",
+       "prompt": "ROXFIT · MAILAND PRIMER · 35–40 MIN\nWARM-UP · 10:00 locker.\nA · Wall Balls 2×15 @ 9 kg · Pause 90 s.\nB · Lunges 2×20 m @ 30 kg · Pause 2:00.\nC · Sled Push 2×12,5 m @ RPE 6–7 · Pause 2:30.\nD · 4×20 s lockere Strides.\nSTOP · Deutlich mit Reserve enden. Kein Schweiss-Ziel.",
+       "date": "2026-11-30"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Aktivierung",
+       "dur": "30–35 min",
+       "p": "Letzter Reiz vor der Anreise.",
+       "prompt": "ROXFIT · AKTIVIERUNG · 30–35 MIN\n20:00 locker.\nDanach 6×30 s @ Renntempo, je 90 s sehr locker.\nAuslaufen.\nKein Volumen, kein Test.",
+       "date": "2026-12-02"
+      },
+      {
+       "tag": "Sa/So",
+       "cls": "d-sim",
+       "ti": "★ HYROX Mailand · PRO · AG 40–44",
+       "dur": "RACE",
+       "p": "Erster echter WM-Qualifier, FIX gebucht. Ziel 64–67 min. GATE: eine Zeit von 62 oder besser hält Sub-60 für Basel realistisch offen. Wichtiger als die Zeit ist, dass keine Station kippt. Die Splits bestimmen den Inhalt von Block 4.",
+       "prompt": "HYROX MAILAND · PRO · RACE LOG\nVORHER · Schlaf, Ruhepuls, HRV notieren. Frühstück mit mindestens 100 g Kohlenhydraten, 3 h vorher. Fueling-Plan aus Benchmark 3 anwenden.\nWÄHREND · Erste zwei Runs bewusst deckeln. Auf keiner einzelnen Station Zeit erzwingen.\nLOG · 8 Run-Splits, 8 Stationssplits, Roxzone gesamt, RPE an Push/Lunges/Wall Balls, geplante vs. ungeplante Pausen, Fueling-Zeitpunkte.\nZWECK · vollständiger PRO-Datensatz für den Taper Richtung St. Gallen.",
+       "date": "2026-12-05"
+      }
+     ]
+    },
+    {
+     "n": "9",
+     "t": "Mailand verdauen",
+     "d": "7.–13. Dez",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-opt",
+       "ti": "Regeneration",
+       "dur": "0–40 min",
+       "p": "Kein Reiz. Splits erfassen, solange sie frisch sind.",
+       "prompt": "ROXFIT · POST-RACE RECOVERY\nFrei oder 30–40 min sehr locker.\nKeine Stationen, kein Tempo.\nAUFGABE · Mailand-Splits vollständig ins Log, inklusive Fueling und Roxzone.",
+       "date": "2026-12-07"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Easy Run",
+       "dur": "40–50 min",
+       "p": "Verträglichkeit prüfen.",
+       "prompt": "ROXFIT · POST-RACE EASY · 40–50 MIN\nDurchgehend locker, HF <145, bevorzugt <139.\nLOG · Beingefühl, Waden, Rücken.",
+       "date": "2026-12-09"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-gym",
+       "ti": "Technik leicht",
+       "dur": "40 min",
+       "p": "Bewegungsqualität, keine Last.",
+       "prompt": "ROXFIT · TECHNIK LEICHT · 40 MIN\nWARM-UP · 10:00 locker + Mobilität.\nA · Wall Balls 3×15 @ 6 kg · Pause 60 s.\nB · Lunges 2×25 m @ 20 kg · Pause 90 s.\nC · Ski Erg 2×500 m @ RPE 5.\nRPE-DECKEL · 5/10.",
+       "date": "2026-12-11"
+      }
+     ]
+    },
+    {
+     "n": "10",
+     "t": "Letzter Aufbau vor dem Taper",
+     "d": "14.–20. Dez",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Qualitäts-Zirkel · Schlussreiz",
+       "dur": "65–70 min",
+       "p": "Letzter substanzieller HYROX-Reiz des Jahres. Ab dem 21.12. läuft der reduzierte Feiertags-Übergang, danach folgt Block 4 auf Basel.",
+       "prompt": "ROXFIT · BLOCK 3 W10 · SCHLUSSREIZ\nWARM-UP · 12:00 locker.\nHAUPTTEIL · Genau 3 Runden:\n1. Run 1000 m @ 4:30/km\n2. Sled Push 12,5 m @ 195 kg gesamt\n3. Sandbag Lunges 50 m @ 30 kg\n4. Wall Balls 25 @ 9 kg\nRUNDENPAUSE · 2:00.\nCOOL-DOWN · 5:00 locker.\nLOG · Splits, Drift, RPE. Werte direkt mit W6 vergleichen.",
+       "date": "2026-12-14"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Schwelle · 2×4 km",
+       "dur": "65 min",
+       "p": "Lange kontrollierte Schwelle als Standortbestimmung vor dem Taper.",
+       "prompt": "ROXFIT · BLOCK 3 W10 · 2×4 KM SCHWELLE\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 2×4000 m @ 4:08–4:13/km.\nERHOLUNG · 3:00 lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace/HF je Block, Drift innerhalb der Blöcke.",
+       "date": "2026-12-16"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Easy · Übergang in den Taper",
+       "dur": "45 min",
+       "p": "Ab hier zählt nur noch Frische.",
+       "prompt": "ROXFIT · EASY · 45 MIN\nDurchgehend locker, HF bevorzugt <139.\nKein Tempo.\nHINWEIS · Ab 21.12. Feiertags-Übergang, danach Block 4 Richtung Basel 12.–14.02.: Volumen runter, Intensität halten.",
+       "date": "2026-12-18"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  {
+   "n": "Wall Balls",
+   "is": "7:09",
+   "tg": "4:00",
+   "k": "weak"
+  },
+  {
+   "n": "Sandbag Lunge",
+   "is": "4:38",
+   "tg": "3:20",
+   "k": "weak"
+  },
+  {
+   "n": "Burpee BJ",
+   "is": "4:34",
+   "tg": "3:30",
+   "k": "weak"
+  },
+  {
+   "n": "Row",
+   "is": "4:32",
+   "tg": "3:50"
+  },
+  {
+   "n": "Ski",
+   "is": "4:23",
+   "tg": "3:40"
+  },
+  {
+   "n": "Sled Pull",
+   "is": "3:34",
+   "tg": "2:55",
+   "k": "strong"
+  },
+  {
+   "n": "Sled Push",
+   "is": "2:33",
+   "tg": "2:10"
+  },
+  {
+   "n": "Farmers Carry",
+   "is": "1:21",
+   "tg": "1:20",
+   "k": "strong"
+  },
+  {
+   "n": "Run Ø (×8)",
+   "is": "4:24",
+   "tg": "3:55"
+  },
+  {
+   "n": "Roxzone",
+   "is": "5:05",
+   "tg": "3:00"
+  }
+ ],
+ "raceSplits": [
+  {
+   "n": "Run 1",
+   "t": "4:45",
+   "run": 1
+  },
+  {
+   "n": "Ski",
+   "t": "4:23"
+  },
+  {
+   "n": "Run 2",
+   "t": "4:02",
+   "run": 1
+  },
+  {
+   "n": "Sled Push",
+   "t": "2:33"
+  },
+  {
+   "n": "Run 3",
+   "t": "4:20",
+   "run": 1
+  },
+  {
+   "n": "Sled Pull",
+   "t": "3:34",
+   "k": "strong"
+  },
+  {
+   "n": "Run 4",
+   "t": "4:28",
+   "run": 1
+  },
+  {
+   "n": "Burpee BJ",
+   "t": "4:34",
+   "k": "weak"
+  },
+  {
+   "n": "Run 5",
+   "t": "4:20",
+   "run": 1
+  },
+  {
+   "n": "Row",
+   "t": "4:32"
+  },
+  {
+   "n": "Run 6",
+   "t": "4:11",
+   "run": 1
+  },
+  {
+   "n": "Farmers",
+   "t": "1:21",
+   "k": "strong"
+  },
+  {
+   "n": "Run 7",
+   "t": "4:16",
+   "run": 1
+  },
+  {
+   "n": "Sandbag Lunge",
+   "t": "4:38",
+   "k": "weak"
+  },
+  {
+   "n": "Run 8",
+   "t": "4:55",
+   "run": 1
+  },
+  {
+   "n": "Wall Balls",
+   "t": "7:09",
+   "k": "weak"
+  },
+  {
+   "n": "Roxzone",
+   "t": "5:05",
+   "run": 1
+  }
+ ],
+ "simSplits": [
+  {
+   "n": "Run",
+   "t": "5:04",
+   "run": 1
+  },
+  {
+   "n": "Ski",
+   "t": "4:16"
+  },
+  {
+   "n": "Run",
+   "t": "5:12",
+   "run": 1
+  },
+  {
+   "n": "Sled Push",
+   "t": "4:04"
+  },
+  {
+   "n": "Run",
+   "t": "5:14",
+   "run": 1
+  },
+  {
+   "n": "Sled Pull",
+   "t": "6:15"
+  },
+  {
+   "n": "Run",
+   "t": "5:31",
+   "run": 1
+  },
+  {
+   "n": "Burpee BJ",
+   "t": "6:12",
+   "k": "weak"
+  },
+  {
+   "n": "Run",
+   "t": "5:31",
+   "run": 1
+  },
+  {
+   "n": "Row",
+   "t": "4:41"
+  },
+  {
+   "n": "Run",
+   "t": "5:21",
+   "run": 1
+  },
+  {
+   "n": "Farmers",
+   "t": "4:04"
+  },
+  {
+   "n": "Run",
+   "t": "5:21",
+   "run": 1
+  },
+  {
+   "n": "Sandbag Lunge",
+   "t": "7:22",
+   "k": "weak"
+  },
+  {
+   "n": "Run",
+   "t": "5:59",
+   "run": 1
+  },
+  {
+   "n": "Wall Ball",
+   "t": "9:36",
+   "k": "weak"
+  }
+ ],
+ "benchmarks": [
+  {
+   "n": "0",
+   "ti": "Quad-Todeszone ✓",
+   "s": "Baseline 14.06.: 13:01 (Lunges 3:17 / Run 4:25 / WB 5:19). Limiter = lokale Muskelermüdung, nicht Cardio.",
+   "w": "erledigt<br>14.06.",
+   "next": 1
+  },
+  {
+   "n": "1",
+   "ti": "100 % Sim ✓ 77:49 (DNF @ WB ~50)",
+   "s": "Lasten über Plan (Push ~200 / Pull 132; Lunges 25 = Plan) + Underfueling → Einbruch ab Min. 70. Ski 4:03 & Pull 3:08 stark. Hochrechnung ~82 @ diesen Lasten",
+   "w": "18.7."
+  },
+  {
+   "n": "2",
+   "ti": "Genf ODER Vollsimulation",
+   "s": "Nicht fix. Genf = echte Renndynamik unter PRO-Lasten. Vollsim = gleiche Datenqualität ohne Reise und mit günstigerer Erholung. Ziel in beiden Fällen 66–69 min, Stretch ≤65",
+   "w": "9.–11.10."
+  },
+  {
+   "n": "3",
+   "ti": "Benchmark 3 · zweite Rennhälfte",
+   "s": "Kein Vollrennen. Genau die Stelle, an der Benchmark 1 gekippt ist — mit vollem Fueling-Protokoll als Teil des Tests",
+   "w": "7.11."
+  },
+  {
+   "n": "4",
+   "ti": "Mailand · Rennen (PRO · AG 40–44)",
+   "s": "FIX. Erster echter WM-Qualifier · Ziel 64–67 min · GATE: ≤62 hält Sub-60 für Basel realistisch offen",
+   "w": "5.–6.12.",
+   "next": 1
+  },
+  {
+   "n": "5",
+   "ti": "Basel · A-Rennen (PRO · AG 40–44)",
+   "s": "Primärziel WM-Slot · Messe Basel, erste HYROX-Ausgabe dort · Leistungsziel 63–66 min · Stretch Sub-60 · Platzierung vor Zeit",
+   "w": "12.–14.02.27"
+  }
+ ],
+ "runbm": [
+  {
+   "n": "8×1000 m · 19.08",
+   "is": "Ø 3:58,7 · ~2:00 P",
+   "tg": "3:55–4:00 · 90 s P",
+   "note": "Reps 3:59 / 3:57 / 3:57 / 3:58 / 3:56 / 3:58 / 4:02 / 4:03. 48 h nach harter HYROX-Session mit 30-kg-Lunges; Beine lokal noch spürbar. Deshalb als mindestens Vor-Kanada-Niveau unter Vorbelastung einordnen. Nächste Progression = gleiche Pace, Pause auf 90 s."
+  },
+  {
+   "n": "8×1000 m · 01.07",
+   "is": "Ø 3:58 / 154 bpm",
+   "tg": "Referenz",
+   "note": "Gedeckelter Start, negativer Split 4:01→3:43 bei 75 s Pause. Frischerer Laufkontext als 19.08.; daher nicht 1:1 vergleichbar."
+  },
+  {
+   "n": "10k-Tempo",
+   "is": "4:17,5 / 157 bpm",
+   "tg": "4:05/km @ HF 160",
+   "note": "08.07.26 · Bahn Uster, 42:55, Splits 4:11–4:25, negativ beendet. Feld-Schwelle neu ~4:17 @ 157 (HM-Referenz 4:45 überholt). Decoupling 7,5 % (Hitze)."
+  },
+  {
+   "n": "5 km TT (all-out)",
+   "is": "~20:30?",
+   "tg": "19:30",
+   "note": "echter Test · nur 2–3× (n. Kanada, Taper)"
+  },
+  {
+   "n": "4×2 km (12.05)",
+   "is": "Ø 4:13 / 147 bpm",
+   "tg": "4:00 / <150",
+   "note": "letzter Referenzlauf"
+  }
+ ],
+ "metrics": [
+  {
+   "k": "lunge30",
+   "n": "Sandbag Lunges 50 m @ 30 kg",
+   "u": "time",
+   "lo": "1:40",
+   "hi": "3:00",
+   "goal": "2:10",
+   "dir": "down",
+   "hint": "Split pro 50 m, gepaced"
+  },
+  {
+   "k": "comprun",
+   "n": "Compromised Run",
+   "u": "pace",
+   "lo": "4:10",
+   "hi": "5:00",
+   "goal": "4:30",
+   "dir": "down",
+   "hint": "Ø Pace/km direkt nach Station"
+  },
+  {
+   "k": "int1k",
+   "n": "Intervall 1000 m · Ø Pace",
+   "u": "pace",
+   "lo": "3:40",
+   "hi": "4:20",
+   "goal": "3:55",
+   "dir": "down",
+   "hint": "Ø über alle Reps"
+  },
+  {
+   "k": "wb9",
+   "n": "Wall Balls 20 @ 9 kg",
+   "u": "time",
+   "lo": "0:35",
+   "hi": "1:15",
+   "goal": "0:45",
+   "dir": "down",
+   "hint": "Satzzeit unbroken"
+  },
+  {
+   "k": "simtotal",
+   "n": "Sim / Rennen gesamt",
+   "u": "time",
+   "lo": "58:00",
+   "hi": "85:00",
+   "goal": "66:00",
+   "dir": "down",
+   "hint": "Gesamtzeit mm:ss"
+  },
+  {
+   "k": "hrv",
+   "n": "HRV morgens",
+   "u": "num",
+   "lo": "30",
+   "hi": "90",
+   "dir": "up",
+   "hint": "ms"
+  },
+  {
+   "k": "rhr",
+   "n": "Ruhepuls morgens",
+   "u": "num",
+   "lo": "38",
+   "hi": "60",
+   "dir": "down",
+   "hint": "bpm"
+  }
+ ],
+ "sessionTypes": [
+  {
+   "v": "sim",
+   "n": "HYROX Quality",
+   "cls": "d-sim"
+  },
+  {
+   "v": "run",
+   "n": "Lauf · Qualität",
+   "cls": "d-run"
+  },
+  {
+   "v": "easy",
+   "n": "Easy / Recovery",
+   "cls": "d-opt"
+  },
+  {
+   "v": "gym",
+   "n": "Kraft / Gym",
+   "cls": "d-gym"
+  },
+  {
+   "v": "bench",
+   "n": "Benchmark / Rennen",
+   "cls": "d-sim"
+  }
+ ]
+}

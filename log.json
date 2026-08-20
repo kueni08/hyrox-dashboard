@@ -1,0 +1,79 @@
+{
+ "entries": [
+  {
+   "id": "2026-08-19-run",
+   "date": "2026-08-19",
+   "type": "run",
+   "title": "8×1000 unter Restermüdung",
+   "rpe": 8,
+   "body": "3:59 / 3:57 / 3:57 / 3:58 / 3:56 / 3:58 / 4:02 / 4:03 · Erholung ~2:00. Beine vom Montag noch belastet, kein Muskelkater.",
+   "metrics": {
+    "int1k": "3:58"
+   }
+  },
+  {
+   "id": "2026-08-17-sim",
+   "date": "2026-08-17",
+   "type": "sim",
+   "title": "HYROX Quality · 30 kg + Compromised Run",
+   "rpe": 8,
+   "body": "Lunges 3×40 m @30 kg 1:52 / 1:57 / 1:46. Runs 600 m 2:42 / 2:45 / 2:54. WB 0:44 / 0:46 / 0:47. Sled Pull 132 kg, Push 152→172 kg.",
+   "metrics": {
+    "lunge30": "2:15",
+    "comprun": "4:38",
+    "wb9": "0:45"
+   }
+  },
+  {
+   "id": "2026-08-12-sim",
+   "date": "2026-08-12",
+   "type": "sim",
+   "title": "Hyrox Re-Entry · voller Reiz",
+   "rpe": 8,
+   "body": "4×50 m Lunges @25 kg 2:05 / 2:07 / 2:12 / 2:15. Compromised-Block wegen Erschöpfung abgebrochen, schmerzfrei.",
+   "metrics": {
+    "wb9": "0:50"
+   }
+  },
+  {
+   "id": "2026-08-11-easy",
+   "date": "2026-08-11",
+   "type": "easy",
+   "title": "Easy Run · Wiedereinstieg",
+   "rpe": 3,
+   "body": "5,01 km · 28:17 · Ø 5:39/km · Ø HF 134. Keine Schmerzreaktion.",
+   "metrics": {}
+  },
+  {
+   "id": "2026-07-18-bench",
+   "date": "2026-07-18",
+   "type": "bench",
+   "title": "Benchmark 1 · 100 % Sim · DNF @ WB",
+   "rpe": 10,
+   "body": "77:49 bei Abbruch. Lasten über Plan (Push ~200, Pull 132). Ski 4:03 und Pull 3:08 stark. Einbruch ab Min. 70 durch Underfueling.",
+   "metrics": {
+    "simtotal": "77:49"
+   }
+  },
+  {
+   "id": "2026-07-08-run",
+   "date": "2026-07-08",
+   "type": "run",
+   "title": "10k Tempo · Bahn Uster",
+   "rpe": 8,
+   "body": "42:55 · Ø 4:17,5/km · Ø HF 157. Neue Feld-Schwelle.",
+   "metrics": {}
+  },
+  {
+   "id": "2026-07-01-run",
+   "date": "2026-07-01",
+   "type": "run",
+   "title": "8×1000",
+   "rpe": 8,
+   "body": "Ø 3:58/km @ 154 bpm, negativer Split 4:01→3:43, 75 s Pause.",
+   "metrics": {
+    "int1k": "3:58"
+   }
+  }
+ ]
+}
