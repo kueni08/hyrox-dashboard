@@ -1,6 +1,18 @@
 {
  "entries": [
   {
+   "id": "2026-08-24-sim",
+   "date": "2026-08-24",
+   "type": "sim",
+   "title": "HYROX Quality · 30 kg + Compromised Run · 4 Runden",
+   "body": "4 Runden: Lunges 40 m @30 kg 2:00 / 1:45 / 1:41 / 1:52. Runs 600 m in ROXFIT 3:07 / 2:58 / 3:00 / 3:04 inkl. Übergängen; effektive Laufpace ca. 4:45/km, R1 bewusst kontrolliert. Wall Balls 20 @9 kg 0:45 / 0:44 / 0:44 / 0:46. Sled Pull 4×13 m @145 kg 0:42 / 0:31 / 0:29 / 0:35. Sled Push 5×13 m @177 kg 0:25 / 0:26 / 0:26 / 0:24 / 0:27.",
+   "metrics": {
+    "lunge30": "2:17",
+    "comprun": "4:45",
+    "wb9": "0:45"
+   }
+  },
+  {
    "id": "2026-08-19-run",
    "date": "2026-08-19",
    "type": "run",
