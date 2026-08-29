@@ -1,6 +1,14 @@
 {
  "entries": [
   {
+   "id": "2026-08-29-run",
+   "date": "2026-08-29",
+   "type": "run",
+   "title": "8×1000 · 90 s Erholung · Garmin",
+   "body": "Garmin Forerunner 170 · Aktivität ‘Volketswil - 8x1/90R Intervall’. Gesamt 13,69 km in 1:13:13 · Ø Pace 5:21/km inkl. Ein-/Auslaufen und Erholungen · Ø HF 135 · max HF 165 · 36 m Anstieg. Exakte Intervall-/Lap-Splits sind über den aktuell verfügbaren Fitness-AI-Connector-Tarif nicht abrufbar; int1k-Metrik deshalb bewusst noch offen.",
+   "metrics": {}
+  },
+  {
    "id": "2026-08-24-sim",
    "date": "2026-08-24",
    "type": "sim",
