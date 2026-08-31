@@ -1,6 +1,17 @@
 {
  "entries": [
   {
+   "id": "2026-08-31-sim",
+   "date": "2026-08-31",
+   "type": "sim",
+   "title": "Compromised 1K · 3×50 m PRO-Lunges + Run",
+   "body": "Rekonstruiert aus Garmin/ROXFIT-Aufzeichnung. 3×50 m Sandbag Lunges @30 kg in 2:17 / 2:13 / 2:13, jeweils direkt gefolgt von 1 km Run in 4:28 / 4:29 / 4:33. Nach R1 und R2 je ~2:00 reine Erholung. Wall Balls 25 @9 kg in R1/R2 je ca. 0:58; R3 ohne Wall Balls. Sled Pull bewusst komplett weggelassen. Sehr geringe Drift: Lunges stabil, Runs nur +5 s von R1 zu R3.",
+   "metrics": {
+    "lunge30": "2:14",
+    "comprun": "4:30"
+   }
+  },
+  {
    "id": "2026-08-29-run",
    "date": "2026-08-29",
    "type": "run",
