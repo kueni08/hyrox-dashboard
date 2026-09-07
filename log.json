@@ -5,7 +5,7 @@
    "date": "2026-09-05",
    "type": "bench",
    "title": "PRO Vollsimulation · Garmin Benchmark",
-   "body": "Vollsimulation nach Warm-up, manuell über Garmin-Laps. Gesamtaufzeichnung 1:32:32,6; Warm-up 11:14,1. Die eigentliche Simulation lief danach ohne aufgezeichnetes Cool-down bis direkt nach dem letzten Wall Ball und beträgt damit exakt 1:21:18,5. Einzelne Lap-Stempel sind in den letzten Abschnitten teilweise verschoben, die Gesamtzeit der Vollsimulation ist aber belastbar. Rekonstruktion: Runs ca. 4:19 / 4:30 / 4:40 / 4:40 / 4:39 / 4:47 / ~4:40 / knapp über 5:00. Der falsch zugeordnete Lauf um die Farmers Carry lag bei ca. 4:40; der echte letzte Run nach den Lunges war deutlich langsamer und knapp über 5:00. Ski 3:59. Sled Push 3:40. Sled Pull 3:23. BBJ 80 m 5:31. Row 4:17. Farmers-Zuordnung durch Lap-Fehler unsauber. Lunges 100 m ca. 6:04 inkl. zwei Pausen von ca. 40–60 s wegen stark ermüdetem Rücken. Wall Balls 100 @9 kg vollständig; Training direkt nach dem letzten Wall Ball beendet. Burpee-HF blieb überwiegend etwa im mittleren bis hohen 150er-Bereich ohne klaren kardialen Redline-Anstieg; aktuell eher Technik/Rhythmus als Herz-Kreislauf-Limit. Running war bis Run 7 relativ stabil, zeigte nach den Lunges im letzten Kilometer aber einen klaren Ermüdungsdrift. Rekonstruiertes Run-Mittel grob ~4:40/km. Vergleich zur Vollsimulation 18.07.: damals 77:49 DNF ungefähr bei 50 Wall Balls, diesmal 81:19 mit kompletter Distanz und 100 Wall Balls. Ski 4:03→3:59 verbessert. Pull 3:08 @132 kg→3:23 @153 kg: nur +15 s trotz +21 kg, relativ starker Fortschritt. Lunges diesmal 30 kg; 6:04 enthält ca. 80–120 s Rückenpausen, reine Arbeitszeit grob 4:05–4:45. Größte aktuelle Hebel: BBJ, Rücken/Rumpf-Ausdauer bei Lunges, Wall-Ball-/Übergangseffizienz sowie Run-Drift nach den Lunges.",
+   "body": "Vollsimulation nach Warm-up, manuell über Garmin-Laps. Gesamtaufzeichnung 1:32:32,6; Warm-up 11:14,1. Die eigentliche Simulation lief danach ohne aufgezeichnetes Cool-down bis direkt nach dem letzten Wall Ball und beträgt damit exakt 1:21:18,5. Einzelne Lap-Stempel sind in den letzten Abschnitten teilweise verschoben, die Gesamtzeit der Vollsimulation ist aber belastbar. Rekonstruktion: Runs ca. 4:19 / 4:30 / 4:40 / 4:40 / 4:39 / 4:47 / ~4:40 / knapp über 5:00. Der falsch zugeordnete Lauf um die Farmers Carry lag bei ca. 4:40; der echte letzte Run nach den Lunges war deutlich langsamer und knapp über 5:00. Ski 3:59. Sled Push 3:40. Sled Pull 3:23. BBJ 80 m 5:31. Row 4:17. Farmers-Zuordnung durch Lap-Fehler unsauber. Lunges 100 m mit Langhantel @30 kg ca. 6:04 inkl. zwei Pausen von ca. 40–60 s wegen stark ermüdetem Rücken. Im Gym steht kein 30-kg-Sandbag zur Verfügung; auch die bisherigen Lunge-Trainingswerte wurden mit Langhantel absolviert. Der Athlet empfindet den echten Sandbag subjektiv als angenehmer, daher ist die Übertragbarkeit der Langhantel-Zeit auf die Rennstation nur eingeschränkt beurteilbar. Wall Balls 100 @9 kg vollständig; Training direkt nach dem letzten Wall Ball beendet. Burpee-HF blieb überwiegend etwa im mittleren bis hohen 150er-Bereich ohne klaren kardialen Redline-Anstieg; aktuell eher Technik/Rhythmus als Herz-Kreislauf-Limit. Running war bis Run 7 relativ stabil, zeigte nach den Lunges im letzten Kilometer aber einen klaren Ermüdungsdrift. Rekonstruiertes Run-Mittel grob ~4:40/km. Vergleich zur Vollsimulation 18.07.: damals 77:49 DNF ungefähr bei 50 Wall Balls, diesmal 81:19 mit kompletter Distanz und 100 Wall Balls. Ski 4:03→3:59 verbessert. Pull 3:08 @132 kg→3:23 @153 kg: nur +15 s trotz +21 kg, relativ starker Fortschritt. Lunges diesmal Langhantel @30 kg; 6:04 enthält ca. 80–120 s Rückenpausen, reine Arbeitszeit grob 4:05–4:45. Größte aktuelle Hebel: BBJ, Rücken/Rumpf-Ausdauer bei Lunges, Wall-Ball-/Übergangseffizienz sowie Run-Drift nach den Lunges.",
    "metrics": {
     "comprun": "4:40",
     "simtotal": "81:19"
@@ -15,8 +15,8 @@
    "id": "2026-08-31-sim",
    "date": "2026-08-31",
    "type": "sim",
-   "title": "Compromised 1K · 3×50 m PRO-Lunges + Run",
-   "body": "Rekonstruiert aus Garmin/ROXFIT-Aufzeichnung. 3×50 m Sandbag Lunges @30 kg in 2:17 / 2:13 / 2:13, jeweils direkt gefolgt von 1 km Run in 4:28 / 4:29 / 4:33. Nach R1 und R2 je ~2:00 reine Erholung. Wall Balls 25 @9 kg in R1/R2 je ca. 0:58; R3 ohne Wall Balls. Sled Pull bewusst komplett weggelassen. Sehr geringe Drift: Lunges stabil, Runs nur +5 s von R1 zu R3.",
+   "title": "Compromised 1K · 3×50 m Lunges + Run",
+   "body": "Rekonstruiert aus Garmin/ROXFIT-Aufzeichnung. 3×50 m Lunges mit Langhantel @30 kg in 2:17 / 2:13 / 2:13, jeweils direkt gefolgt von 1 km Run in 4:28 / 4:29 / 4:33. Nach R1 und R2 je ~2:00 reine Erholung. Wall Balls 25 @9 kg in R1/R2 je ca. 0:58; R3 ohne Wall Balls. Sled Pull bewusst komplett weggelassen. Sehr geringe Drift: Lunges stabil, Runs nur +5 s von R1 zu R3.",
    "metrics": {
     "lunge30": "2:14",
     "comprun": "4:30"
@@ -37,7 +37,7 @@
    "date": "2026-08-24",
    "type": "sim",
    "title": "HYROX Quality · 30 kg + Compromised Run · 4 Runden",
-   "body": "4 Runden: Lunges 40 m @30 kg 2:00 / 1:45 / 1:41 / 1:52. Runs 600 m in ROXFIT 3:07 / 2:58 / 3:00 / 3:04 inkl. Übergängen; effektive Laufpace ca. 4:45/km, R1 bewusst kontrolliert. Wall Balls 20 @9 kg 0:45 / 0:44 / 0:44 / 0:46. Sled Pull 4×13 m @145 kg 0:42 / 0:31 / 0:29 / 0:35. Sled Push 5×13 m @177kg 0:25 / 0:26 / 0:26 / 0:24 / 0:27.",
+   "body": "4 Runden: Lunges 40 m mit Langhantel @30 kg 2:00 / 1:45 / 1:41 / 1:52. Runs 600 m in ROXFIT 3:07 / 2:58 / 3:00 / 3:04 inkl. Übergängen; effektive Laufpace ca. 4:45/km, R1 bewusst kontrolliert. Wall Balls 20 @9 kg 0:45 / 0:44 / 0:44 / 0:46. Sled Pull 4×13 m @145 kg 0:42 / 0:31 / 0:29 / 0:35. Sled Push 5×13 m @177kg 0:25 / 0:26 / 0:26 / 0:24 / 0:27.",
    "metrics": {
     "lunge30": "2:17",
     "comprun": "4:45",
@@ -61,7 +61,7 @@
    "type": "sim",
    "title": "HYROX Quality · 30 kg + Compromised Run",
    "rpe": 8,
-   "body": "Lunges 3×40 m @30 kg 1:52 / 1:57 / 1:46. Runs 600 m 2:42 / 2:45 / 2:54. WB 0:44 / 0:46 / 0:47. Sled Pull 132 kg, Push 152→172 kg.",
+   "body": "Lunges 3×40 m mit Langhantel @30 kg 1:52 / 1:57 / 1:46. Runs 600 m 2:42 / 2:45 / 2:54. WB 0:44 / 0:46 / 0:47. Sled Pull 132 kg, Push 152→172 kg.",
    "metrics": {
     "lunge30": "2:15",
     "comprun": "4:38",
@@ -74,7 +74,7 @@
    "type": "sim",
    "title": "Hyrox Re-Entry · voller Reiz",
    "rpe": 8,
-   "body": "4×50 m Lunges @25 kg 2:05 / 2:07 / 2:12 / 2:15. Compromised-Block wegen Erschöpfung abgebrochen, schmerzfrei.",
+   "body": "4×50 m Lunges mit Langhantel @25 kg 2:05 / 2:07 / 2:12 / 2:15. Compromised-Block wegen Erschöpfung abgebrochen, schmerzfrei.",
    "metrics": {
     "wb9": "0:50"
    }
