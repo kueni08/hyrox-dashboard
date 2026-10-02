@@ -1,52 +1,52 @@
 {
  "meta": {
   "title": "HYROX",
-  "subtitle": "Basel '27",
-  "kicker": "Operation WM-Qualifikation · Block 2 · W1",
-  "raceDate": "2027-02-12T08:00:00",
+  "subtitle": "Genf '26",
+  "kicker": "Operation WM-Qualifikation · Genf PRO · Taper",
+  "raceDate": "2026-10-09",
   "facts": [
-   "Single PRO · AG 40–44 ab 03.12.26",
-   "Ziel <b>63–66</b> · Stretch < 60",
-   "A-Rennen Basel 12.–14.02.27"
+   "Genf PRO · <b>09.10.2026 fix</b> · Startzeit noch nicht hinterlegt",
+   "Genf: <b>Sub-70 als Stretch-Ziel</b>",
+   "A-Rennen bleibt Basel 12.–14.02.27 · WM-Qualifikation"
   ],
   "tiles": [
    {
-    "v": "WM AG40",
-    "l": "Primärziel"
+    "v": "09.10.",
+    "l": "Genf PRO · fix"
    },
    {
-    "v": "Mo·Mi·Fr",
-    "l": "+ kinderfr. WE"
+    "v": "Damper 2",
+    "l": "SkiErg · Genf-Setup"
    }
   ],
-  "stand": "19.08.2026"
+  "stand": "02.10.2026"
  },
  "rhythm": [
   {
    "d": "Mo",
-   "t": "Hyrox<br>Kraft",
+   "t": "Kurz & frisch<br>Race-Pace",
    "fix": 1
   },
   {
+   "d": "Di",
+   "t": "Erholung<br>Alltag"
+  },
+  {
    "d": "Mi",
-   "t": "Lauf<br>Schwelle",
+   "t": "Locker<br>Erholung"
+  },
+  {
+   "d": "Do",
+   "t": "Reise<br>Ruhe",
    "fix": 1
   },
   {
    "d": "Fr",
-   "t": "Lauf<br>Intervall",
+   "t": "Genf PRO<br>09.10.",
    "fix": 1
-  },
-  {
-   "d": "Sa",
-   "t": "Hyrox<br>opt."
-  },
-  {
-   "d": "So",
-   "t": "Run<br>opt."
   }
  ],
- "rhythmNote": "Drei fixe Einheiten unter der Woche, je <b>60–70 min</b>. Pro Woche höchstens <b>zwei harte Reize</b>: 1× Lauf-Qualität und 1× HYROX-Qualität, nie an aufeinanderfolgenden Tagen. Ein Long Row zählt vor Lunges/Sled nicht als Recovery. Optionale Wochenend-Einheiten werden nur ergänzt, wenn die Erholung passt.",
+ "rhythmNote": "Race Week 05.–09.10.: Volumen deutlich reduzieren; nur kurze Race-Pace-Reize, keine harten Intervalle und keine Vollsimulation. Knie/Schienbein bestimmen die Laufbelastung. Alltag bewegen, keine zusätzlichen Schrittziele. 8+ h Schlaf, kein Kaloriendefizit, Kohlenhydrate ab Mi/Do hochhalten und gewohnte Flüssigkeits-/Salzzufuhr. Tageshinweise unten fassen die letzten Chat-Absprachen zusammen; keine neuen festen Intervallumfänge ergänzt.",
  "phases": [
   {
    "h": "Block 1 · Fundament ✓",
@@ -66,13 +66,14 @@
    ]
   },
   {
-   "h": "Block 2 · Intensität",
+   "h": "Block 2 · Abschluss & Genf-Taper",
    "wk": "17.8–11.10 · 8 Wo",
-   "f": "Compromised Running, Lunges jetzt auf PRO-Last 30 kg, Sled Pull progressiv Richtung 153 kg. Wall Balls nur erhalten. Maximal 2 harte Reize/Woche.",
+   "f": "Aufbau abgeschlossen; aktueller Schwerpunkt ist Frische für Genf PRO am 09.10.2026. Knie/Schienbein schonen. Die früheren Aufbauvorgaben sind keine zusätzliche Taper-Aufgabe.",
    "now": 1,
    "tags": [
-    "▶ aktuell",
-    "Stuttgart 14.–21.9"
+    "▶ Taper",
+    "Genf PRO 09.10. · fix",
+    "SkiErg Damper 2"
    ]
   },
   {
@@ -80,7 +81,7 @@
    "wk": "12.10–20.12 · 10 Wo",
    "f": "Mesozyklen 2:1. Schwerpunkte aus den eigenen Befunden: Sled Push unter Laufbelastung, Run-Drift, Roxzone-Übergänge und ein getestetes Fueling-Protokoll.",
    "tags": [
-    "Genf oder Vollsim 9.–11.10",
+    "Genf PRO 09.10. · fix",
     "Mailand 5.–6.12 · fix",
     "Benchmark 3 · 7.11"
    ]
@@ -105,17 +106,21 @@
   }
  ],
  "testRace": {
-  "h": "Genf · PRO · AG 35–39 — oder Vollsimulation",
-  "badge": "9.–11. Okt · offen",
-  "note": "<b>Nicht fix.</b> Beide Wege liefern das, was Block 3 braucht: einen belastbaren Datensatz unter PRO-Lasten am Ende von Block 2.<br><br><b>Genf:</b> echte Renndynamik, fremde Halle, Startdruck, offizielle Splits. Kostet Reisezeit, Startgeld und rund eine Woche Regeneration.<br><br><b>Vollsimulation:</b> volle Kontrolle über Lasten und Fueling, kein Reisetag, günstigere Erholung, du kannst jede Station einzeln stoppen. Fehlt: Renndruck und der Vergleich mit dem Feld — und beides hat in St. Gallen und in Benchmark 1 nachweislich eine Rolle gespielt.<br><br><b>Entscheidungsgrundlage:</b> Da Mailand fix ist und dort AG 40–44 zählt, ist Genf kein notwendiger Qualifier, sondern eine Generalprobe. Wenn Erholung, Kalender oder Budget knapp sind, ist die Vollsimulation die sachlich gleichwertige Wahl."
+  "h": "Genf · PRO · AG 35–39",
+  "badge": "09.10.2026 · fix",
+  "note": "<b>Genf PRO am Freitag, 09.10.2026, fix.</b> Startzeit nicht bestätigt. Bisherige Chat-Schätzung: 70–72 min; <b>Stretch 68:xx–69:59</b>. Kein Sub-70-Nachweis aus einer verkürzten Session.<br><br><b>Aktuelles Pacing aus der Auswertung vom 28.09.:</b> Run1–2 4:15–4:20/km; Run3–5 4:20–4:25 akzeptieren. Nach BBJ/Lunges zuerst Rhythmus finden, keine frühen 4:05–4:10 erzwingen. HF nur als besprochene Orientierung: bis Halbzeit nicht freiwillig dauerhaft über160–162; hinten ca.160–166, kein starres Muss.<br><br><b>SkiErg:</b> Damper2, 1:59–2:02/500 m, ca.25–27SPM, kontrolliert statt Stations-PB. <b>Sub-70-Rechenrahmen:</b> Running + Stationen aus dem Chat grob66:05–67:30; zusätzlich Roxzone. Bei3:30 Roxzone ca.69:35–71:00, bei4:00 ca.70:05–71:30. Transfers in Trainingslaps und lineare Hochrechnung von40m Lunges/40WB machen dies unsicher. Roxzone im Rennen mitzählen; keine exakte Prognose."
  },
  "status": {
-  "h": "Block 2 · W1 läuft",
-  "badge": "PRO-Last erreicht",
+  "h": "Taper vor Genf · Stand 02.10.2026",
+  "badge": "Frische · Knie/Schienbein schonen",
   "notes": [
-   "<b>Mo 17.08. HYROX:</b> 3×40 m Lunges @ <b>30 kg</b> in 1:52 / 1:57 / 1:46, direkt gefolgt von 600-m-Runs in 2:42 / 2:45 / 2:54 (= 4:30 / 4:35 / 4:50/km) und WB 9 kg in 0:44 / 0:46 / 0:47. Lunge-Leistung stabil, Run-Drift bleibt der klare Hebel.",
-   "<b>Mi 19.08. 8×1000:</b> Ø <b>3:58,7/km</b> bei ~2:00 Erholung, unter lokaler Restermüdung aus dem Montagstraining. <b>Nächste Progression:</b> gleiche Pace 3:55–4:00, Pause auf 90 s.",
-   "<b>Steuerung:</b> 30 kg sind ab jetzt Hauptarbeitsgewicht bei Lunges. Progression über Volumen (4×40 → 3×50 → 4×50), nicht über noch mehr Last. Compromised Running bekommt Priorität. <b>Zielrennen neu Basel 12.–14.02.27</b> (St. Gallen findet 2027 nicht statt) — vier Wochen mehr Vorlauf als bisher geplant."
+   "<b>Genf PRO 09.10. fix:</b> bisherige Chat-Schätzung 70–72 min, Stretch 68:xx–69:59. Keine Ergebnisgarantie. Basel bleibt das A-Rennen.",
+   "<b>16.09. Stuttgart:</b> 8×1000 mit 90 s Pause, Ø4:01,6/km aus gerundeten Strava-Laps; wechselnde Steigung, kein flacher Bahnvergleich. <b>10.09. Threshold:</b> 3×10 min, ca.4:07 / 4:11 / 4:07/km. <b>19.09. Longrun:</b> 14,50 km @5:01, ØHF133.",
+   "<b>23.09. Compromised:</b> 5×1 km Ø4:29,2 inkl. Transfers; bei −5 s/Run rechnerisch 4:24,2. BBJ 80 m statt der falsch benannten Row-Station. Vorermüdeter Oberkörper; keine reine Laufpace aus den Brutto-Splits ableiten.",
+   "<b>28.09. letzter spezifischer Reiz:</b> 5×600 m Ø4:30,2 inkl. Transfers, Push/Pull je40 m, BBJ50 m, Lunges40 m, WB40. Gel22 s und Umbau31 s separat. Details und Originalquellen im Log.",
+   "<b>30.09. SkiErg:</b> D5 → D2 → D3 → D1 getestet; Nutzerentscheid <b>Damper2 für Genf</b>. D2 HF129, 25SPM, RPE7. Rennrhythmus 1:59–2:02/500 m, ca.25–27SPM.",
+   "<b>Taper / Beschwerden:</b> 30.09. Schienbein minimal spürbar, bewusst ohne Laufen. Knie/Schienbein schonen; keinen harten Reiz nachholen. Fr/Sa nur kurzer Laufreiz bei praktisch 0/10, sonst locker ohne Stossbelastung. Race Week nur kurze Race-Pace-Reize, viel Erholung, keine Vollsimulation.",
+   "<b>Quellenstand 02.10.:</b> Originalchat inkl. Nutzerkorrekturen und Strava geprüft; gemessene Bruttozeiten und geschätzte Nettopaces sind getrennt. Garmin-Gerätequelle: Forerunner170."
   ]
  },
  "blocks": [
@@ -384,7 +389,7 @@
   },
   {
    "id": "b2",
-   "label": "Block 2 · Intensität · 11. Aug → Genf 9.–11. Okt · Prompts antippen zum Kopieren",
+   "label": "Block 2 · Abschluss & Taper → Genf PRO 09.10.2026 · frühere Wochen bleiben als Historie",
    "weeks": [
     {
      "n": "R",
@@ -653,76 +658,171 @@
     },
     {
      "n": "7",
-     "t": "Race Specific · Segment",
+     "t": "Letzter spezifischer Reiz → Taper",
      "d": "28. Sep–4. Okt",
      "days": [
       {
+       "date": "2026-09-28",
        "tag": "Mo",
        "cls": "d-sim",
-       "ti": "70-% Rennsegment",
-       "dur": "65–75 min",
-       "p": "Letzter grosser Hyrox-Reiz vor Genf. Keine 100-%-Sim.",
-       "prompt": "ROXFIT · BLOCK 2 W7 · 70-PROZENT RENNSEGMENT\nWARM-UP · 12:00 locker.\nHAUPTTEIL · 1 Durchgang, Übergänge direkt:\n1. Run 1000 m @ 4:30/km\n2. Sled Push 50 m @ trainingsspezifischer Last RPE 8, nicht Max-Test\n3. Run 1000 m @ 4:35/km\n4. Sled Pull 50 m @ 150–153 kg\n5. Run 1000 m @ 4:35/km\n6. Burpee Broad Jumps 40 m\n7. Run 1000 m @ 4:35–4:40/km\n8. Sandbag Lunges 100 m @ 30 kg\n9. Run 1000 m kontrolliert\n10. Wall Balls 60 @ 9 kg in geplanten Sätzen.\nROXZONE · alle Wege/Übergänge stoppen.\nLOG · sämtliche Splits, RPE, Run-Drift. Kein Zusatzvolumen.",
-       "date": "2026-09-28"
+       "ti": "Final Compromised ✓",
+       "dur": "48:44",
+       "p": "Erledigt: 5×600 m, Push/Pull je40 m, BBJ50 m, Lunges40 m, WB40. Korrigierte Splits im Log. Kein weiterer Volltest.",
+       "prompt": "Erledigt: 5×600 m, Push/Pull je40 m, BBJ50 m, Lunges40 m, WB40. Korrigierte Splits im Log. Kein weiterer Volltest."
       },
       {
+       "date": "2026-09-30",
        "tag": "Mi",
-       "cls": "d-run",
-       "ti": "Race-Pace 5×1 km",
-       "dur": "55–60 min",
-       "p": "Kurzer spezifischer Laufreiz, nicht all-out.",
-       "prompt": "ROXFIT · BLOCK 2 W7 · 5×1000 RACE PACE\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 5×1000 m @ 4:10–4:15/km.\nERHOLUNG · 90 s lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace/HF. Letzter Rep soll kontrolliert aussehen.",
-       "date": "2026-09-30"
+       "cls": "d-gym",
+       "ti": "Mixed Erg + Damper-Test ✓",
+       "dur": "87 min",
+       "p": "Ohne Laufen wegen minimal spürbarem Schienbein. SkiErg-Test D5/D2/D3/D1, Genf-Setup Damper2. Details im Log.",
+       "prompt": "Ohne Laufen wegen minimal spürbarem Schienbein. SkiErg-Test D5/D2/D3/D1, Genf-Setup Damper2. Details im Log."
       },
       {
-       "tag": "Fr",
-       "cls": "d-run",
-       "ti": "Easy",
-       "dur": "40–50 min",
-       "p": "Frische aufbauen.",
-       "prompt": "ROXFIT · EASY RUN · 40–50 MIN\nDurchgehend locker, HF bevorzugt <139. Kein Tempo.",
-       "date": "2026-10-02"
+       "date": "2026-10-02",
+       "tag": "Fr/Sa",
+       "cls": "d-opt",
+       "ti": "Frische / optional kurzer Laufreiz",
+       "dur": "beschwerdeabhängig",
+       "p": "Letzte Absprache vom30.09.: Fr/Sa nur kurzer Laufreiz, wenn Schienbein praktisch0/10; sonst locker ohne Stossbelastung. Keine harten Intervalle nachholen, keine schwere Beinlast. Knie/Schienbein schonen; bei zunehmenden Beschwerden Laufbelastung stoppen.",
+       "prompt": "Letzte Absprache vom30.09.: Fr/Sa nur kurzer Laufreiz, wenn Schienbein praktisch0/10; sonst locker ohne Stossbelastung. Keine harten Intervalle nachholen, keine schwere Beinlast. Knie/Schienbein schonen; bei zunehmenden Beschwerden Laufbelastung stoppen."
       }
      ]
     },
     {
      "n": "8",
-     "t": "Mini-Taper + Genf oder Vollsim",
+     "t": "Race Week · Genf PRO Freitag 09.10. fix",
      "d": "5.–11. Okt",
      "days": [
       {
+       "date": "2026-10-05",
        "tag": "Mo",
-       "cls": "d-gym",
-       "ti": "Primer · kurz",
-       "dur": "40–45 min",
-       "p": "Volumen deutlich runter, Intensität fühlen. Nichts mehr verbessern wollen.",
-       "prompt": "ROXFIT · GENF TAPER · HYROX PRIMER 40–45 MIN\nWARM-UP · 10:00 locker.\nA · Wall Balls 2×20 @ 9 kg · 60 s Pause.\nB · Lunges 2×25 m @ 30 kg · 90 s Pause.\nC · Sled Pull 2×12,5 m @ 140–150 kg · 2:00 Pause.\nD · Sled Push 2×12,5 m @ RPE 7 · 2:00 Pause.\nE · 4×20 s lockere Strides / 70 s easy.\nSTOP · Einheit soll mit Reserve enden.",
-       "date": "2026-10-05"
+       "cls": "d-opt",
+       "ti": "Taper · nur kurzer Race-Pace-Reiz",
+       "dur": "kurz, mit Reserve",
+       "p": "Race Week: kurze Race-Pace-Reize nur bei ruhigem Knie/Schienbein; keine harten Intervalle, keine zusätzliche schwere Kraft-/Lunge-Einheit. Im letzten Chat ist kein fixer Satzumfang bestätigt. Alltag normal, keine Extra-Schritte fürs Konto.",
+       "prompt": "Race Week: kurze Race-Pace-Reize nur bei ruhigem Knie/Schienbein; keine harten Intervalle, keine zusätzliche schwere Kraft-/Lunge-Einheit. Im letzten Chat ist kein fixer Satzumfang bestätigt. Alltag normal, keine Extra-Schritte fürs Konto."
       },
       {
+       "date": "2026-10-06",
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Erholung & normaler Alltag",
+       "dur": "locker",
+       "p": "Erholung priorisieren. Mo/Di im bisherigen Chat grob6000–9000 Alltagsschritte als Orientierung, kein zu erreichendes Ziel. Kein Kaloriendefizit, gut schlafen.",
+       "prompt": "Erholung priorisieren. Mo/Di im bisherigen Chat grob6000–9000 Alltagsschritte als Orientierung, kein zu erreichendes Ziel. Kein Kaloriendefizit, gut schlafen."
+      },
+      {
+       "date": "2026-10-07",
        "tag": "Mi",
-       "cls": "d-run",
-       "ti": "Race-Pace Primer",
-       "dur": "35–45 min",
-       "p": "Kurz, knackig, frisch.",
-       "prompt": "ROXFIT · GENF TAPER · RUN PRIMER\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 4×1000 m @ 4:10–4:15/km, je 2:00 sehr locker.\nCOOL-DOWN · 8–10:00 locker.\nRPE · 7/10, kein letzter harter Rep.",
-       "date": "2026-10-07"
+       "cls": "d-opt",
+       "ti": "Locker bewegen · Erholung",
+       "dur": "kurz",
+       "p": "Keine alte4×1000-Vorgabe mehr. Laut letzter Absprache eher5000–7000 Alltagsschritte ohne Sammelziel; optional kurz/entspannt Sauna wie besprochen, keine zusätzliche Belastung. Kohlenhydrate hochhalten, Flüssigkeit/Salz und Schlaf priorisieren.",
+       "prompt": "Keine alte4×1000-Vorgabe mehr. Laut letzter Absprache eher5000–7000 Alltagsschritte ohne Sammelziel; optional kurz/entspannt Sauna wie besprochen, keine zusätzliche Belastung. Kohlenhydrate hochhalten, Flüssigkeit/Salz und Schlaf priorisieren."
       },
       {
-       "tag": "Fr/Sa/So",
+       "date": "2026-10-08",
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Reise-/Ruhetag",
+       "dur": "Erholung",
+       "p": "Reisetag, keine Stadtbesichtigung oder Extra-Spaziergänge. Bisherige Orientierung3000–6000 Schritte, kein Mindestziel. Keine Sauna mehr; Erholung und gewohnte Verpflegung.",
+       "prompt": "Reisetag, keine Stadtbesichtigung oder Extra-Spaziergänge. Bisherige Orientierung3000–6000 Schritte, kein Mindestziel. Keine Sauna mehr; Erholung und gewohnte Verpflegung."
+      },
+      {
+       "date": "2026-10-09",
+       "tag": "Fr",
        "cls": "d-sim",
-       "ti": "★ Genf PRO oder Vollsimulation",
+       "ti": "★ Genf PRO · fix",
        "dur": "RACE",
-       "p": "ENTSCHEIDUNG SPÄTESTENS 25.09. (Anmeldeschluss und Reiseplanung). Genf: B-Rennen, AG 35–39, echte Renndynamik. Vollsim: gleiche Datenqualität, keine Reise, günstigere Erholung. Da Mailand fix ist, ist Genf kein Pflicht-Qualifier. Primärziel in beiden Fällen: saubere Splits, keine Station sprengen. Stretch ≤65, Plan 66–69.",
-       "prompt": "HYROX GENF ODER VOLLSIMULATION · RACE LOG\\nVARIANTE A · GENF PRO\\nVor dem Start Fueling, Schlaf, Ruhepuls und HRV notieren.\\nWährend/nach dem Rennen loggen: 8 Run-Splits, 8 Stationssplits, Roxzone gesamt, RPE an Push/Lunges/Wall Balls, geplante vs. ungeplante Pausen.\\n\\nVARIANTE B · VOLLSIMULATION SOLO\\nGleicher Ablauf, PRO-Lasten: Sled Push 202 kg gesamt, Sled Pull 153 kg gesamt, Farmers 2×32 kg, Lunges 30 kg, Wall Balls 9 kg.\\nJeden Übergang separat stoppen — die Roxzone ist Teil des Tests.\\nFueling wie im Rennen: mindestens 100 g KH 3 h vorher, 30–40 g während.\\n\\nPACING · beide Varianten: erste zwei Runs bewusst deckeln, auf keiner Station Zeit erzwingen.\\nZIEL · vollständiger PRO-Datensatz für Block 3.",
-       "date": "2026-10-09"
+       "p": "Normales Gehen + gewohntes Warm-up. Run1–2 4:15–4:20, Run3–5 4:20–4:25 akzeptieren; nach BBJ/Lunges Rhythmus zurückholen. SkiErg Damper2, 1:59–2:02/500 m. Stretch Sub70; Chat-Schätzung70–72min. Alle8 Runs,8 Stationen und Roxzone erfassen.",
+       "prompt": "Normales Gehen + gewohntes Warm-up. Run1–2 4:15–4:20, Run3–5 4:20–4:25 akzeptieren; nach BBJ/Lunges Rhythmus zurückholen. SkiErg Damper2, 1:59–2:02/500 m. Stretch Sub70; Chat-Schätzung70–72min. Alle8 Runs,8 Stationen und Roxzone erfassen."
       }
      ]
     }
    ],
    "short": "B2",
    "from": "2026-08-11",
-   "to": "2026-10-11"
+   "to": "2026-10-11",
+   "planHistory": [
+    {
+     "asOf": "2026-08-19",
+     "supersededOn": "2026-10-02",
+     "note": "Vorherige W7/W8-Planung; durch aktuellen Taper ersetzt, nicht als absolvierte Einheiten zu verstehen.",
+     "weeks": [
+      {
+       "n": "7",
+       "t": "Race Specific · Segment",
+       "d": "28. Sep–4. Okt",
+       "days": [
+        {
+         "tag": "Mo",
+         "cls": "d-sim",
+         "ti": "70-% Rennsegment",
+         "dur": "65–75 min",
+         "p": "Letzter grosser Hyrox-Reiz vor Genf. Keine 100-%-Sim.",
+         "prompt": "ROXFIT · BLOCK 2 W7 · 70-PROZENT RENNSEGMENT\nWARM-UP · 12:00 locker.\nHAUPTTEIL · 1 Durchgang, Übergänge direkt:\n1. Run 1000 m @ 4:30/km\n2. Sled Push 50 m @ trainingsspezifischer Last RPE 8, nicht Max-Test\n3. Run 1000 m @ 4:35/km\n4. Sled Pull 50 m @ 150–153 kg\n5. Run 1000 m @ 4:35/km\n6. Burpee Broad Jumps 40 m\n7. Run 1000 m @ 4:35–4:40/km\n8. Sandbag Lunges 100 m @ 30 kg\n9. Run 1000 m kontrolliert\n10. Wall Balls 60 @ 9 kg in geplanten Sätzen.\nROXZONE · alle Wege/Übergänge stoppen.\nLOG · sämtliche Splits, RPE, Run-Drift. Kein Zusatzvolumen.",
+         "date": "2026-09-28"
+        },
+        {
+         "tag": "Mi",
+         "cls": "d-run",
+         "ti": "Race-Pace 5×1 km",
+         "dur": "55–60 min",
+         "p": "Kurzer spezifischer Laufreiz, nicht all-out.",
+         "prompt": "ROXFIT · BLOCK 2 W7 · 5×1000 RACE PACE\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 5×1000 m @ 4:10–4:15/km.\nERHOLUNG · 90 s lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace/HF. Letzter Rep soll kontrolliert aussehen.",
+         "date": "2026-09-30"
+        },
+        {
+         "tag": "Fr",
+         "cls": "d-run",
+         "ti": "Easy",
+         "dur": "40–50 min",
+         "p": "Frische aufbauen.",
+         "prompt": "ROXFIT · EASY RUN · 40–50 MIN\nDurchgehend locker, HF bevorzugt <139. Kein Tempo.",
+         "date": "2026-10-02"
+        }
+       ]
+      },
+      {
+       "n": "8",
+       "t": "Mini-Taper + Genf oder Vollsim",
+       "d": "5.–11. Okt",
+       "days": [
+        {
+         "tag": "Mo",
+         "cls": "d-gym",
+         "ti": "Primer · kurz",
+         "dur": "40–45 min",
+         "p": "Volumen deutlich runter, Intensität fühlen. Nichts mehr verbessern wollen.",
+         "prompt": "ROXFIT · GENF TAPER · HYROX PRIMER 40–45 MIN\nWARM-UP · 10:00 locker.\nA · Wall Balls 2×20 @ 9 kg · 60 s Pause.\nB · Lunges 2×25 m @ 30 kg · 90 s Pause.\nC · Sled Pull 2×12,5 m @ 140–150 kg · 2:00 Pause.\nD · Sled Push 2×12,5 m @ RPE 7 · 2:00 Pause.\nE · 4×20 s lockere Strides / 70 s easy.\nSTOP · Einheit soll mit Reserve enden.",
+         "date": "2026-10-05"
+        },
+        {
+         "tag": "Mi",
+         "cls": "d-run",
+         "ti": "Race-Pace Primer",
+         "dur": "35–45 min",
+         "p": "Kurz, knackig, frisch.",
+         "prompt": "ROXFIT · GENF TAPER · RUN PRIMER\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 4×1000 m @ 4:10–4:15/km, je 2:00 sehr locker.\nCOOL-DOWN · 8–10:00 locker.\nRPE · 7/10, kein letzter harter Rep.",
+         "date": "2026-10-07"
+        },
+        {
+         "tag": "Fr/Sa/So",
+         "cls": "d-sim",
+         "ti": "★ Genf PRO oder Vollsimulation",
+         "dur": "RACE",
+         "p": "ENTSCHEIDUNG SPÄTESTENS 25.09. (Anmeldeschluss und Reiseplanung). Genf: B-Rennen, AG 35–39, echte Renndynamik. Vollsim: gleiche Datenqualität, keine Reise, günstigere Erholung. Da Mailand fix ist, ist Genf kein Pflicht-Qualifier. Primärziel in beiden Fällen: saubere Splits, keine Station sprengen. Stretch ≤65, Plan 66–69.",
+         "prompt": "HYROX GENF ODER VOLLSIMULATION · RACE LOG\\nVARIANTE A · GENF PRO\\nVor dem Start Fueling, Schlaf, Ruhepuls und HRV notieren.\\nWährend/nach dem Rennen loggen: 8 Run-Splits, 8 Stationssplits, Roxzone gesamt, RPE an Push/Lunges/Wall Balls, geplante vs. ungeplante Pausen.\\n\\nVARIANTE B · VOLLSIMULATION SOLO\\nGleicher Ablauf, PRO-Lasten: Sled Push 202 kg gesamt, Sled Pull 153 kg gesamt, Farmers 2×32 kg, Lunges 30 kg, Wall Balls 9 kg.\\nJeden Übergang separat stoppen — die Roxzone ist Teil des Tests.\\nFueling wie im Rennen: mindestens 100 g KH 3 h vorher, 30–40 g während.\\n\\nPACING · beide Varianten: erste zwei Runs bewusst deckeln, auf keiner Station Zeit erzwingen.\\nZIEL · vollständiger PRO-Datensatz für Block 3.",
+         "date": "2026-10-09"
+        }
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "b3",
@@ -741,7 +841,7 @@
        "cls": "d-opt",
        "ti": "Regeneration · kein Reiz",
        "dur": "0–40 min",
-       "p": "Direkt nach Genf oder der Vollsimulation. Kein Krafttraining, keine Stationen. Nur Bewegung, wenn sie sich gut anfühlt. Splits ins Log eintragen, solange die Erinnerung frisch ist.",
+       "p": "Direkt nach Genf. Kein Krafttraining, keine Stationen. Nur Bewegung, wenn sie sich gut anfühlt. Splits ins Log eintragen, solange die Erinnerung frisch ist.",
        "prompt": "ROXFIT · POST-RACE RECOVERY\nEntweder komplett frei oder 30–40 min sehr locker Bike/Walk.\nKein Lauf mit Tempoanteil, keine Stationen, kein Core mit Last.\nAUFGABE · Genf-Splits erfassen: 8 Runs, 8 Stationen, Roxzone, RPE je Station, geplante vs. ungeplante Pausen.",
        "date": "2026-10-12"
       },
@@ -870,7 +970,7 @@
        "cls": "d-sim",
        "ti": "★ Benchmark 3 · Rennsegment 70 %",
        "dur": "50–60 min",
-       "p": "Kein Vollrennen. Die zweite Rennhälfte am Stück — genau die Stelle, an der Genf und Benchmark 1 gekippt sind. Mit vollem Fueling-Protokoll, das ist Teil des Tests.",
+       "p": "Kein Vollrennen. Die zweite Rennhälfte am Stück — genau die zweite Rennhälfte, angepasst an die dann vorliegenden Genf-Splits. Mit vollem Fueling-Protokoll, das ist Teil des Tests.",
        "prompt": "ROXFIT · BENCHMARK 3 · ZWEITE RENNHÄLFTE\nVORHER · Frühstück mit mindestens 100 g Kohlenhydraten, 2,5–3 h vorher. Während des Tests 30–40 g KH nachführen. Beides protokollieren.\nWARM-UP · 12:00 locker + je 1 leichter Stationssatz.\nHAUPTTEIL · 1 Durchgang, Übergänge direkt und gestoppt:\n1. Run 1000 m @ 4:35/km\n2. Row 1000 m\n3. Run 1000 m @ 4:35/km\n4. Farmers Carry 200 m @ 2×32 kg\n5. Run 1000 m @ 4:35/km\n6. Sandbag Lunges 100 m @ 30 kg\n7. Run 1000 m kontrolliert\n8. Wall Balls 100 @ 9 kg in geplanten Sätzen\nPACING · Keine Station erzwingen. Ziel ist ein vollständiger Durchgang ohne Bruch, nicht eine Bestzeit.\nLOG · alle Splits, Übergänge, RPE, Fueling, Zeitpunkt eines eventuellen Einbruchs.",
        "date": "2026-11-07"
       }
@@ -1317,9 +1417,10 @@
   },
   {
    "n": "2",
-   "ti": "Genf ODER Vollsimulation",
-   "s": "Nicht fix. Genf = echte Renndynamik unter PRO-Lasten. Vollsim = gleiche Datenqualität ohne Reise und mit günstigerer Erholung. Ziel in beiden Fällen 66–69 min, Stretch ≤65",
-   "w": "9.–11.10."
+   "ti": "Genf PRO · fix",
+   "s": "FIX09.10. · Bisherige Schätzung70–72min, Stretch68:xx–69:59. Damper2. Vollständige Splits inkl.Roxzone; keine Garantie aus verkürzten Simulationen.",
+   "w": "09.10.",
+   "next": 1
   },
   {
    "n": "3",
@@ -1342,6 +1443,24 @@
   }
  ],
  "runbm": [
+  {
+   "n": "8×1000 Stuttgart · 16.09.",
+   "is": "Ø4:01,6 · 90 s P",
+   "tg": "Erhalten bis Genf",
+   "note": "Alle8 Reps; wechselnde Steigung. Bruttozeiten aus Strava, keine flache Bahnreferenz."
+  },
+  {
+   "n": "Threshold · 10.09.",
+   "is": "3×10min · ~4:07–4:11/km",
+   "tg": "Keine weitere Steigerung im Taper",
+   "note": "Je2min Pause. Aus gerundeten Strava-Runden rekonstruiert, kein neuer Schwellenwert."
+  },
+  {
+   "n": "Longrun · 19.09.",
+   "is": "14,50km · 5:01/km · HF133",
+   "tg": "Basis erhalten, Frische sammeln",
+   "note": "09.09.:12,13km@5:57;14.09.:14,17km@5:40 mit Unterbrechungen. Verschiedene Profile begrenzen den direkten Vergleich."
+  },
   {
    "n": "8×1000 m · 19.08",
    "is": "Ø 3:58,7 · ~2:00 P",

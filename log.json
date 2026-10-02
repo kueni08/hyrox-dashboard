@@ -1,6 +1,84 @@
 {
  "entries": [
   {
+   "id": "2026-09-30-ski-damper-test",
+   "date": "2026-09-30",
+   "type": "bench",
+   "title": "SkiErg-Damper-Test · Genf-Setup Damper 2",
+   "body": "SkiErg-Damper-Test laut Nutzerangaben im Originalchat: 4×4 min in Reihenfolge D5 → D2 → D3 → D1; Vorgabe gleiche Pace 2:06–2:08/500 m, 90 s locker dazwischen. Gemeldet: D5 HF130 / 27 SPM / RPE7; D2 HF129 / 25 SPM / RPE7; D3 HF132 / RPE7 (SPM-Eingabe 126.5 im Chat als 26.5 interpretiert, nicht gesichert); D1 HF140 / 27 SPM / RPE6. Anschliessend 2×500 m Race-Pace zuerst D1, dann D2. Nutzerentscheid: «Damper 2 it is». Genf-Setup Damper2, Ski 1:59–2:02/500 m, ca.25–27 SPM; keine weiteren Tests vor dem Rennen. HF-Vergleich bei 500 m durch Verzögerung/Reihenfolge/Vorbelastung begrenzt. Mixed-Erg-Tag ohne Laufen wegen minimal spürbarem Schienbein. Garmin Forerunner 170: Gesamtaufzeichnung ROXFIT(43), ID24551185289, 1:27:28, ØHF108/max154; Strava zeigt 1:27:27/max153. Gesamtwerte sind keine Testblockwerte. ROXFIT-Export enthält abweichende Soll- und Stempelzeiten, deshalb hat die explizite Nutzerbeschreibung Vorrang. Quelle: https://www.strava.com/activities/20389365344 und Originalchat. 📊 Data from Garmin (Forerunner 170). Insights derived in part from Garmin device-sourced data.",
+   "metrics": {}
+  },
+  {
+   "id": "2026-09-28-sim-update",
+   "date": "2026-09-28",
+   "type": "sim",
+   "title": "Final Compromised · 5×600 m · Sleds je 40 m",
+   "body": "Garmin Forerunner 170; Gesamt 48:44. Zuordnung nach Nutzerkorrekturen im Trainingschat, gegen Strava-Laps geprüft: Warm-up ca.16:23; Runs je 600 m 2:30,6 / 2:35,7 / 2:43,9 / 2:48,3 / 2:52,1. Zusammen 13:30,6 auf 3 km = Ø4:30,2/km inkl. Transfers; bei angenommenen 5 s Transfer je Run ca.4:21,9/km, keine direkt gemessene Nettopace. Push 40 m 2:43,2, Pull 40 m 2:41,0; ausdrücklich je 40 m, nicht 50 m. BBJ 50 m 2:30,8; Lunges 40 m 2:06,4; 40 WB 2:10. Lunges @30 kg / WB @9 kg gemäss Chat-Kontext, Sled-Last nicht nachträglich numerisch ergänzt. Gel-Pause 22 s nach Push und Umbau 31 s separat, Schlussrunde 5:45. Run-HF laut Strava gerundet 132 / 151 / 153 / 156 / 158; erste Runde im Chat 131, deshalb nicht überinterpretieren. Lauf-Drift von Run 2 zu 5 etwa 27 s/km. Verkürzter letzter spezifischer Reiz; lineare Hochrechnung von Lunges/WB auf volle Renndistanz bleibt unsicher. Quellen: Strava-Aktivität und referenzierter Trainingschat; Abgleich 02.10.2026. Strava: https://www.strava.com/activities/20368457581",
+   "metrics": {
+    "comprun": "4:30.2"
+   }
+  },
+  {
+   "id": "2026-09-23-sim-update",
+   "date": "2026-09-23",
+   "type": "sim",
+   "title": "Compromised · 5×1 km + Stationen",
+   "body": "ROXFIT Gesamt 45:34 (Strava-Aktivitätsdauer 45:30). Runs 4:13 / 4:22 / 4:32 / 4:36 / 4:43, Ø 4:29,2/km inklusive Transfers. Ski 1000 m 4:08; Push 50 m 3:21; Pull 50 m 3:33; BBJ 80 m 4:52 (laut Nutzer ausdrücklich statt Row, ROXFIT-Bezeichnung Row ist falsch); Lunges 60 m 3:00; 55 Wall Balls 4:15, Sätze 15/15/15/10. Laut Chat Lunges @30 kg, WB @9 kg; Lunge-Gerät nicht erneut bestätigt, daher keine Umdeutung des bisherigen Langhantel-Trainings zum Sandbag. Garmin beim Ski versehentlich pausiert; ca. 45 s Umbau vor Pull und Pause vor WB separat gestempelt, letzte Runde Cool-down. Nutzer bestätigt mindestens 5 s Transfer in den Run-Splits: bei pauschal −5 s rechnerisch Ø 4:24,2/km; 4:20–4:24 bleibt eine Schätzung, keine gemessene reine Laufpace. Oberkörper/Rücken/Arme noch müde von Erg-Intervallen am 21.09. Strava-Laufband-Aufzeichnung ist die Parallelaufzeichnung derselben Session und wird nicht doppelt als Training gezählt. Quellen: Strava-Aktivität und referenzierter Trainingschat; Abgleich 02.10.2026. Strava: https://www.strava.com/activities/20293188049 ; https://www.strava.com/activities/20293204369",
+   "metrics": {
+    "comprun": "4:29.2"
+   }
+  },
+  {
+   "id": "2026-09-19-easy-update",
+   "date": "2026-09-19",
+   "type": "easy",
+   "title": "Longrun-Fortschritt · 14,50 km @ 5:01",
+   "body": "Garmin Forerunner 170, über Strava: 14,50 km in 1:12:52 Bewegungszeit, 1:12:56 verstrichen, 5:01/km, Ø HF 133, 94 Höhenmeter. Ab km 2 bis km 14 lagen die Runden-HF bei 130–136 bpm; letzte 0,50 km 4:44/km bei 144 bpm. Vergleich: 09.09. 12,13 km @5:57, 14.09. 14,17 km @5:40 mit längeren Unterbrechungen. Mehr Distanz und höhere Pace sind belegt; wegen anderer Strecken/Anstiege keine isolierte Fitnesssteigerung daraus berechnet. Quellen: Strava-Aktivität und referenzierter Trainingschat; Abgleich 02.10.2026. Strava: https://www.strava.com/activities/20245396954",
+   "metrics": {}
+  },
+  {
+   "id": "2026-09-16-run-update",
+   "date": "2026-09-16",
+   "type": "run",
+   "title": "8×1000 Stuttgart · 90 s Erholung",
+   "body": "Garmin Forerunner 170, Strava-Runden: 4:09 / 3:47 / 4:08 / 3:49 / 4:09 / 3:53 / 4:03 / 4:15; Ø 4:01,6/km aus gerundeten Splits. Zwischen den acht Reps jeweils 1:30 Erholung. Höhenunterschied pro Rep +22 / −22 / +22 / −22 / +22 / −22 / +12 / +11 m; deshalb keine flache Bahn-Pace und die Streuung nicht allein Ermüdung. Strava-SAT 3:53 / 3:58 / 3:53 / 4:00 / 3:54 / 4:04 / 3:55 / 4:07. Rep-HF 144 / 149 / 156 / 151 / 157 / 152 / 159 / 158 bpm. Gesamt 12,24 km, 1:00:10 Bewegungszeit, 1:03:04 verstrichen, Ø HF 140. Quellen: Strava-Aktivität und referenzierter Trainingschat; Abgleich 02.10.2026. Strava: https://www.strava.com/activities/20194982830",
+   "metrics": {
+    "int1k": "4:01.6"
+   }
+  },
+  {
+   "id": "2026-09-14-easy-update",
+   "date": "2026-09-14",
+   "type": "easy",
+   "title": "Longrun Stuttgart · 14,17 km",
+   "body": "Garmin Forerunner 170, über Strava: 14,17 km in 1:20:18 Bewegungszeit, 5:40/km, 170 Höhenmeter. Verstrichene Zeit 1:42:48: enthält deutliche Unterbrechungen. Nicht unmittelbar mit einem durchgelaufenen Longrun gleichzusetzen. Quellen: Strava-Aktivität und referenzierter Trainingschat; Abgleich 02.10.2026. Strava: https://www.strava.com/activities/20174966456",
+   "metrics": {}
+  },
+  {
+   "id": "2026-09-12-run-update",
+   "date": "2026-09-12",
+   "type": "run",
+   "title": "Kontinuierlicher Lauf · 8,01 km @ 4:30",
+   "body": "Garmin Forerunner 170, über Strava: 8,01 km in 36:05, 4:30/km. Kilometer-Runden 4:42 / 4:24 / 4:28 / 4:30 / 4:32 / 4:31 / 4:27 / 4:26. Runden-HF 127 → 159 bpm. Solider kontinuierlicher Lauf; nicht als bestätigter Schwellentest eingeordnet. Quellen: Strava-Aktivität und referenzierter Trainingschat; Abgleich 02.10.2026. Strava: https://www.strava.com/activities/20141900433",
+   "metrics": {}
+  },
+  {
+   "id": "2026-09-10-run-update",
+   "date": "2026-09-10",
+   "type": "run",
+   "title": "Threshold · 3×10 min mit 2 min Pause",
+   "body": "Garmin Forerunner 170, über Strava-Runden rekonstruiert: drei Blöcke von jeweils 10:00, ca. 2,43 / 2,39 / 2,43 km; entsprechend ungefähr 4:07 / 4:11 / 4:07/km. Dazwischen jeweils 2:00 Erholung. Die vollen schnellen Kilometer lagen bei 4:06 / 4:07, 4:15 / 4:07 und 4:05 / 4:07. Gesamt 14,25 km, Bewegungszeit 1:14:37, verstrichen 1:17:44. Blockdistanzen aus gerundeten Rundenwerten; kein neuer Schwellentest. Quellen: Strava-Aktivität und referenzierter Trainingschat; Abgleich 02.10.2026. Strava: https://www.strava.com/activities/20121173107",
+   "metrics": {}
+  },
+  {
+   "id": "2026-09-09-easy-update",
+   "date": "2026-09-09",
+   "type": "easy",
+   "title": "Longrun · 12,13 km",
+   "body": "Garmin Forerunner 170, über Strava: 12,13 km in 1:12:17 Bewegungszeit, 5:57/km, 149 Höhenmeter; verstrichen 1:13:06. Ausgangspunkt des September-Longrun-Vergleichs. Quellen: Strava-Aktivität und referenzierter Trainingschat; Abgleich 02.10.2026. Strava: https://www.strava.com/activities/20099708253",
+   "metrics": {}
+  },
+  {
    "id": "2026-09-05-bench",
    "date": "2026-09-05",
    "type": "bench",
