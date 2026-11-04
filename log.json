@@ -1,6 +1,16 @@
 {
  "entries": [
   {
+   "id": "2026-11-04-hyrox-gate",
+   "date": "2026-11-04",
+   "type": "sim",
+   "title": "HYROX Gate · 3 Runden · 6 km compromised",
+   "body": "R1/R2: Run→Push→Run→Pull→Run→Lunges→Run→Wall Balls. R3: Run→Push→Run→Pull→Lunges→Wall Balls. Insgesamt 6,0 km compromised Running. R1: Run 2:37 · Push 0:37 · Run 2:49 · Pull 0:38 · Run 2:47 · Lunges 1:15 · Run 2:46 · WB 0:40. R2: Run 2:42 · Push 0:35 · Run 2:49 · Pull 1:14 · Run 2:52 · Lunges+letzter Run gemeinsam 3:54 gestempelt · WB 0:35. R3: Run 2:45 · Push 0:35 · Run 3:11 · Pull 0:54 · Lunges 1:12 · WB 0:42. Push blieb sehr stabil. Pull variabler, wahrscheinlich inkl. Setup/Seilmanagement. Wall Balls stabil. Deutlicher Laufdrift erst spät in R3. Garmin-Autoerkennung ignorieren; Nutzer-Reihenfolge ist Referenz.",
+   "metrics": {
+    "comprun": "4:40"
+   }
+  },
+  {
    "id": "2026-09-30-ski-damper-test",
    "date": "2026-09-30",
    "type": "bench",
