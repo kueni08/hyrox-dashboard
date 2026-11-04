@@ -1739,6 +1739,7 @@
   ],
   "rules": [
    "<b>Pulsdeckel, nicht Pulsziel:</b> Runs 1–3 ≤155–158, Runs 4–7 bis ~161 (IAAS). Liegt die HF bei Zielpace darüber, Pace um 5–10 s/km zurücknehmen. Handgelenk-HF hinkt bei Stationswechseln nach — die ersten 60 s jedes Laufs nicht bewerten.",
+   "<b>HF-Abgleich Strava:</b> 8×1000 am 18.10. lagen bei 4:02–4:11/km mit Ø HF 148–158 pro Rep. Rennpace 4:25 sollte frisch also deutlich unter 158 liegen — ist sie darüber, ist das Ermüdung, kein Tempoproblem. Achtung: 31.10. zeigte im ersten km 173–184 bpm bei Kadenz ~186 spm (über Labor-HFmax 174) — sehr wahrscheinlich Kadenz-Lock des Handgelenksensors. Einzelne Spitzen ignorieren, Trend über 2–3 min bewerten.",
    "<b>Laufpace in Summe:</b> Ø ~4:28/km (Genf 4:31). Runs 1–7 auf Genf-Niveau halten, Gewinn kommt aus Run 8 (−0:50) — Grundtempo ist nicht der Hebel.",
    "<b>Roxzone:</b> Budget ~0:37 pro Station, gesamt ~5:00 (Genf 5:51). Joggen statt gehen, Gel/Handschuhe vorbereiten, keine Orientierungspausen.",
    "<b>Abbruchregel Stationen:</b> Push/Pull/Lunges — kurze Pausen ≤5 s statt langer Stopps. WB — Satzschema halten, auch wenn Satz 1 leicht wirkt."
@@ -1750,6 +1751,6 @@
    "<b>Im Rennen:</b> Gel 1 nach dem Sled Pull (~Min. 27), Gel 2 optional nach dem Row (~Min. 48). Benchmark 1 (18.07.) brach durch Underfueling ab Min. 70 ein."
   ],
   "check": "<b>Benchmark 3 (07.11.):</b> zweite Rennhälfte mit genau diesen Vorgaben fahren — Run 5–8 Pace + HF, WB-Schema 15-15-15-15-10-10-10-10 und Gel-Timing. Danach Zielzeit und Korridore anpassen.",
-  "src": "Datenbasis: Strava live (Genf-Splits, Aktivitäten 08.10.–04.11., HF-Zonen), data.json/log.json (inkl. bisheriger Garmin-Werte), Labor uVida 28.01. Genf hat in Strava keine HF-Daten; Garmin wurde nicht direkt abgefragt. Laufdistanzen variieren je Venue — Run-Splits sind Richtwerte pro ~1 km."
+  "src": "Datenbasis: Strava live (Genf-Splits, Aktivitäten 08.10.–04.11., HF-Zonen, Runden-HF 18.10. und 31.10.), data.json/log.json (inkl. bisheriger Garmin-Werte), Labor uVida 28.01. Genf hat in Strava keine HF-Daten; Garmin wurde nicht direkt abgefragt. Laufdistanzen variieren je Venue — Run-Splits sind Richtwerte pro ~1 km."
  }
 }
