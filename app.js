@@ -282,6 +282,12 @@ function renderPacing(){
       <div class="ch"><div><h3>Splits · Genf → Mailand</h3><span class="badge b-sim">Σ inkl. Roxzone ${esc(P.rox)}/Station</span></div></div>
       ${rows}
     </div>
+    ${P.open ? `<div class="card"><div class="ch"><div><h3>${esc(P.open.h)}</h3><span class="badge b-int">${esc(P.open.badge||'')}</span></div></div>
+      <p class="note" style="margin-bottom:10px">${P.open.note||''}</p>
+      <div class="prow" style="padding-top:0"><div class="pl"><span class="nm"></span><span class="tm"><span class="g">${(P.open.cols||[]).map(esc).join(' · ')}</span></span></div></div>
+      ${P.open.rows.map(r => `<div class="prow"><div class="pl"><span class="nm"${r.sum?' style="font-weight:700"':''}>${esc(r.n)}${r.k==='weak'?' <span class="flag f-weak">Hebel</span>':''}</span>
+        <span class="tm"><span class="g">${esc(r.o)} · ${esc(r.p)} ·</span> <span class="t">${esc(r.b)}</span></span></div></div>`).join('')}
+      <p class="note" style="margin-top:10px">${P.open.verdict||''}</p></div>` : ''}
     <div class="card"><div class="ch"><div><h3>Regeln im Rennen</h3></div></div>${list(P.rules)}</div>
     <div class="card"><div class="ch"><div><h3>Fueling</h3></div></div>${list(P.fuel)}</div>
     <div class="card"><p class="note" style="margin-bottom:8px">${P.check||''}</p><p class="note" style="font-size:10.5px">${esc(P.src||'')}</p></div>`;
