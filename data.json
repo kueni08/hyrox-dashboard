@@ -41,7 +41,7 @@
    "t": "nur kinderfrei<br>nachholen / Z2"
   }
  ],
- "rhythmNote": "Fixe Tage <b>Mo + Mi</b> (mehr Zeit) · <b>Fr</b> meistens · Wochenende nur wenn kinderfrei (TimeTree). <b>Zwei harte Reize pro Woche:</b> Mo HYROX-spezifisch, Fr Laufqualität. <b>Mi Longrun Z2</b> (HF ≤145) — liegt 48 h nach Mo und 48 h vor Fr, stört keinen der beiden Reize. Fällt Fr aus: am kinderfreien Wochenende nachholen, sonst streichen — nie auf Mi schieben. Wochenende nie als dritter harter Reiz.",
+ "rhythmNote": "Fixe Tage <b>Mo + Mi</b> (mehr Zeit) · <b>Fr</b> meistens · Wochenende nur wenn kinderfrei (TimeTree: frei 14./15.11., 21./22.11., 12./13.12., 26./27.12.; teilweise 9./10.01., 23./24.01.). <b>Zwei harte Reize pro Woche:</b> Mo HYROX-spezifisch, Fr Laufqualität. <b>Mi Longrun Z2</b> (HF ≤145) — liegt 48 h nach Mo und 48 h vor Fr, stört keinen der beiden Reize. Fällt Fr aus: am kinderfreien Wochenende nachholen, sonst streichen — nie auf Mi schieben. Wochenende nie als dritter harter Reiz.",
  "phases": [
   {
    "h": "Block 1 · Fundament ✓",
@@ -1010,12 +1010,12 @@
        "date": "2026-11-13"
       },
       {
-       "tag": "WE*",
+       "tag": "Sa/So",
        "cls": "d-opt",
-       "ti": "Nur wenn kinderfrei · optional",
-       "dur": "45–75 min",
-       "p": "Fr ausgefallen → Freitagseinheit hier nachholen. Fr gemacht → nur Z2 (Bike/Row/Ski) oder frei. Nie ein dritter harter Reiz.",
-       "prompt": "ROXFIT · WOCHENENDE · NUR WENN KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 45–75 min Z2 Bike/Row/Ski, HF <139, oder frei.\nNIE · keine dritte harte Einheit in der Woche."
+       "ti": "14.–15.11. · kinderfrei",
+       "dur": "45–90 min",
+       "p": "Freies Wochenende: Freitag nachholen oder 60–90 min Z2.",
+       "prompt": "ROXFIT · WOCHENENDE KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 60–90 min Z2 Bike/Row/Ski oder Easy Run, HF <139.\nNIE · keine dritte harte Einheit in der Woche."
       }
      ]
     },
@@ -1052,12 +1052,12 @@
        "date": "2026-11-20"
       },
       {
-       "tag": "WE*",
+       "tag": "Sa/So",
        "cls": "d-opt",
-       "ti": "Nur wenn kinderfrei · optional",
-       "dur": "45–75 min",
-       "p": "Fr ausgefallen → Freitagseinheit hier nachholen. Fr gemacht → nur Z2 (Bike/Row/Ski) oder frei. Nie ein dritter harter Reiz.",
-       "prompt": "ROXFIT · WOCHENENDE · NUR WENN KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 45–75 min Z2 Bike/Row/Ski, HF <139, oder frei.\nNIE · keine dritte harte Einheit in der Woche."
+       "ti": "21.–22.11. · kinderfrei",
+       "dur": "45–90 min",
+       "p": "Peak-Woche: nur Z2-Volumen oder Freitag nachholen. Kein Zusatzreiz.",
+       "prompt": "ROXFIT · WOCHENENDE KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 60–90 min Z2 Bike/Row/Ski oder Easy Run, HF <139.\nNIE · keine dritte harte Einheit in der Woche."
       }
      ]
     },
@@ -1094,12 +1094,12 @@
        "date": "2026-11-27"
       },
       {
-       "tag": "WE*",
+       "tag": "Sa/So",
        "cls": "d-opt",
-       "ti": "Nur wenn kinderfrei · optional",
-       "dur": "45–75 min",
-       "p": "Fr ausgefallen → Freitagseinheit hier nachholen. Fr gemacht → nur Z2 (Bike/Row/Ski) oder frei. Nie ein dritter harter Reiz.",
-       "prompt": "ROXFIT · WOCHENENDE · NUR WENN KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 45–75 min Z2 Bike/Row/Ski, HF <139, oder frei.\nNIE · keine dritte harte Einheit in der Woche."
+       "ti": "28.–29.11. · Kinder da",
+       "dur": "0 min",
+       "p": "Taper: frei. Nichts nachholen.",
+       "prompt": ""
       }
      ]
     },
@@ -1177,6 +1177,14 @@
        "p": "Bewegungsqualität, keine Last.",
        "prompt": "ROXFIT · TECHNIK LEICHT · 40 MIN\nWARM-UP · 10:00 locker + Mobilität.\nA · Wall Balls 3×15 @ 6 kg · Pause 60 s.\nB · Lunges 2×25 m @ 20 kg · Pause 90 s.\nC · Ski Erg 2×500 m @ RPE 5.\nRPE-DECKEL · 5/10.",
        "date": "2026-12-11"
+      },
+      {
+       "tag": "Sa/So",
+       "cls": "d-opt",
+       "ti": "12.–13.12. · kinderfrei",
+       "dur": "45–90 min",
+       "p": "Erholungswoche: optional 60 min Z2 locker, sonst frei.",
+       "prompt": "ROXFIT · WOCHENENDE KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 60–90 min Z2 Bike/Row/Ski oder Easy Run, HF <139.\nNIE · keine dritte harte Einheit in der Woche."
       }
      ]
     },
@@ -1213,12 +1221,12 @@
        "date": "2026-12-18"
       },
       {
-       "tag": "WE*",
+       "tag": "Sa/So",
        "cls": "d-opt",
-       "ti": "Nur wenn kinderfrei · optional",
-       "dur": "45–75 min",
-       "p": "Fr ausgefallen → Freitagseinheit hier nachholen. Fr gemacht → nur Z2 (Bike/Row/Ski) oder frei. Nie ein dritter harter Reiz.",
-       "prompt": "ROXFIT · WOCHENENDE · NUR WENN KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 45–75 min Z2 Bike/Row/Ski, HF <139, oder frei.\nNIE · keine dritte harte Einheit in der Woche."
+       "ti": "19.–20.12. · Kinder da",
+       "dur": "0 min",
+       "p": "Frei. Ab Mo 21.12. Ferien-Volumenwoche.",
+       "prompt": ""
       }
      ]
     }
@@ -1348,6 +1356,14 @@
        "p": "Laufgeschwindigkeit halten.",
        "prompt": "ROXFIT · 8×1000\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 8×1000 m @ 4:00–4:05/km · 90 s Trab.\nCOOL-DOWN · 10:00.\nLOG · Pace/HF je Rep.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
        "date": "2027-01-08"
+      },
+      {
+       "tag": "Sa/So",
+       "cls": "d-opt",
+       "ti": "09.–10.01. · ein Kind da",
+       "dur": "45–90 min",
+       "p": "Nur wenn es passt: Freitag nachholen oder Z2.",
+       "prompt": "ROXFIT · WOCHENENDE · EIN KIND DA\nNur wenn es reinpasst: 45–60 min Z2 oder Freitag nachholen. Sonst frei."
       }
      ]
     },
@@ -1382,6 +1398,14 @@
        "p": "Schwelle knapp unter IAAS 161.",
        "prompt": "ROXFIT · SCHWELLE 3×3 KM\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 3×3000 m @ 4:10–4:15/km · 2:30 Trab.\nCOOL-DOWN · 10:00.\nHF-DECKEL · 161.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
        "date": "2027-01-15"
+      },
+      {
+       "tag": "Sa/So",
+       "cls": "d-opt",
+       "ti": "16.–17.01. · eher kinderfrei",
+       "dur": "45–90 min",
+       "p": "Kalender: «Kids bei Nadine» + «NiLou bei NiMa» — prüfen. Wenn frei: Freitag nachholen oder Z2 vor Benchmark 4 (Mo 18.01.) — dann nur locker.",
+       "prompt": "ROXFIT · WOCHENENDE KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 60–90 min Z2 Bike/Row/Ski oder Easy Run, HF <139.\nNIE · keine dritte harte Einheit in der Woche."
       }
      ]
     },
@@ -1416,6 +1440,14 @@
        "p": "Renntempo einschleifen, nicht all-out.",
        "prompt": "ROXFIT · 5×1000 RACE PACE\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 5×1000 m @ 4:10–4:15/km · 90 s Trab.\nCOOL-DOWN · 10:00.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
        "date": "2027-01-22"
+      },
+      {
+       "tag": "Sa/So",
+       "cls": "d-opt",
+       "ti": "23.–24.01. · ein Kind da",
+       "dur": "45–90 min",
+       "p": "Nach Benchmark 4: nur Z2 oder frei.",
+       "prompt": "ROXFIT · WOCHENENDE · EIN KIND DA\nNur wenn es reinpasst: 45–60 min Z2 oder Freitag nachholen. Sonst frei."
       }
      ]
     },
@@ -1450,6 +1482,14 @@
        "p": "Kurzer, scharfer Reiz vor dem Taper.",
        "prompt": "ROXFIT · 6×800\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 6×800 m @ 3:45–3:50/km · 90 s Trab.\nCOOL-DOWN · 10:00.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
        "date": "2027-01-29"
+      },
+      {
+       "tag": "Sa/So",
+       "cls": "d-opt",
+       "ti": "30.–31.01. · Kinder da",
+       "dur": "0 min",
+       "p": "Frei.",
+       "prompt": ""
       }
      ]
     },
