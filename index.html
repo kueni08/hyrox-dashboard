@@ -124,6 +124,19 @@
   .f-weak{background:rgba(255,69,51,.16);color:var(--red);}
   .f-strong{background:rgba(84,227,106,.16);color:var(--green);}
 
+  .prow{padding:9px 0;border-bottom:1px solid var(--line);}
+  .prow:last-child{border-bottom:none;}
+  .prow .pl{display:flex;justify-content:space-between;align-items:baseline;gap:8px;}
+  .prow .pl .nm{font-size:12.5px;font-weight:500;}
+  .prow.run .pl .nm{color:var(--mut);}
+  .prow .pl .tm{font-family:'JetBrains Mono';font-size:11.5px;white-space:nowrap;}
+  .prow .pl .tm .g{color:var(--mut2);}
+  .prow .pl .tm .t{color:var(--acid);font-weight:700;}
+  .prow .pm{display:flex;gap:10px;font-family:'JetBrains Mono';font-size:10px;color:var(--mut);margin-top:2px;}
+  .prow .pc{font-size:11px;color:var(--mut);line-height:1.4;margin-top:3px;}
+  .plist{margin:0;padding-left:16px;}
+  .plist li{font-size:11.5px;color:var(--mut);line-height:1.45;margin-bottom:6px;}
+  .plist li b{color:var(--acid);font-weight:600;}
   .split{margin-bottom:8px;}
   .split .sl{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:3px;}
   .split .sl .nm{font-size:12px;}.split .sl .nm.run{color:var(--mut);}
@@ -370,6 +383,7 @@
 <section class="page" id="p-data">
   <div class="seg" id="segData">
     <button class="on" data-s="da-prog">Fortschritt</button>
+    <button data-s="da-pace">Pacing</button>
     <button data-s="da-split">Splits</button>
     <button data-s="da-ref">Referenz</button>
   </div>
@@ -379,20 +393,24 @@
     <div class="chartwrap">
       <h3>Projektion Gesamtzeit</h3>
       <svg id="proj" viewBox="0 0 320 165" width="100%"></svg>
-      <div class="leg"><span><i style="background:var(--red)"></i>Open-Basis 73:06</span><span><i style="background:var(--acid)"></i>PRO-Ziel 63–66</span><span><i style="background:var(--mut2)"></i>Stretch 60</span></div>
+      <div class="leg"><span><i style="background:var(--red)"></i>PRO real (Sim 05.09., Genf)</span><span><i style="background:var(--acid)"></i>Basel Sub-70</span><span><i style="background:var(--mut2)"></i>Open-Referenz 72:59</span></div>
     </div>
     <div class="secttl">Benchmark-Plan</div>
     <div id="bms"></div>
   </div>
 
+  <div class="subpage" id="s-da-pace">
+    <div id="pacing"></div>
+  </div>
+
   <div class="subpage" id="s-da-split">
     <div class="card" style="margin-top:0">
-      <div class="ch"><div><h3>Stretch-Budget pro Station</h3><span class="badge b-race">Open-Basis → Sub-60 PRO</span></div></div>
+      <div class="ch"><div><h3>Sub-70-Budget pro Station</h3><span class="badge b-race">Genf PRO → Basel Sub-70</span></div></div>
       <div id="gaps"></div>
-      <p class="note" style="margin-top:11px">Ein <b>Stretch-Budget</b>, keine Prognose. Open-Zeiten sind wegen der schwereren PRO-Lasten nicht direkt vergleichbar.</p>
+      <p class="note" style="margin-top:11px">Ein <b>Budget</b> für Sub-70 (Summe 69:57), keine Prognose. Ist-Werte = Genf PRO 09.10.26.</p>
     </div>
     <div class="card">
-      <div class="ch"><div><h3>Renn-Splits St. Gallen</h3><span class="badge b-race">Wettkampf · Jan 26</span></div><div class="meta"><span class="total">73:06</span><br>Single Open</div></div>
+      <div class="ch"><div><h3>Renn-Splits Genf Open</h3><span class="badge b-race">Wettkampf · 11.10.25</span></div><div class="meta"><span class="total">1:12:59</span><br>Single Open</div></div>
       <div id="raceSplits"></div>
     </div>
     <div class="card">
