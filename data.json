@@ -1122,23 +1122,23 @@
        "cls": "d-run",
        "ti": "Aktivierung · kein Longrun",
        "dur": "30–35 min",
-       "p": "Race-Week: kein Longrun. Kurz, locker, ein paar Temposchritte.",
+       "p": "Race-Week: kein Longrun. Kurz, locker, ein paar Temposchritte. Letzte Einheit vor der Anreise am Do.",
        "prompt": "ROXFIT · AKTIVIERUNG · 30–35 MIN\n20:00 locker.\nDanach 6×30 s @ Renntempo, je 90 s sehr locker.\nAuslaufen.\nKein Volumen, kein Test.",
        "date": "2026-12-02"
       },
       {
        "tag": "Fr",
        "cls": "d-opt",
-       "ti": "Shakeout / Anreise",
-       "dur": "0–20 min",
-       "p": "Familienreise nach Mailand. 15–20 min sehr locker + 3 Strides oder frei, je nach Anreise. Am Tag vor dem Rennen Stadtprogramm kurz halten: wenig stehen und gehen, früh essen, früh schlafen.",
+       "ti": "Shakeout in Mailand · Vortag",
+       "dur": "15–20 min",
+       "p": "Anreise Do 03.12. mit der Familie. Fr: 15–20 min sehr locker + 3 Strides, Startunterlagen holen, Halle/Roxzone anschauen. Wenig stehen und gehen, früh essen, früh schlafen.",
        "prompt": "ROXFIT · SHAKEOUT\n15–20 min sehr locker, HF <135, danach 3×15 s Strides.\nAlternativ frei, wenn die Anreise lang ist.\nAbends: kohlenhydratreich, gewohnte Speisen.",
        "date": "2026-12-04"
       },
       {
-       "tag": "Sa/So",
+       "tag": "Sa",
        "cls": "d-sim",
-       "ti": "★ HYROX Mailand · PRO · AG 40–44",
+       "ti": "★ HYROX Mailand · PRO · AG 40–44 · Sa 05.12.",
        "dur": "RACE",
        "p": "Erster echter WM-Qualifier, FIX gebucht. Ziel 76–80 min (Pacing-Plan 78:00, siehe Daten → Pacing). GATE: 76 oder besser hält Sub-70 für Basel realistisch offen. Wichtiger als die Zeit ist, dass keine Station kippt. Die Splits bestimmen den Inhalt von Block 4.",
        "prompt": "HYROX MAILAND · PRO · RACE LOG\nVORHER · Schlaf, Ruhepuls, HRV notieren. Frühstück mit mindestens 100 g Kohlenhydraten, 3 h vorher. Fueling-Plan aus Benchmark 3 anwenden.\nWÄHREND · Erste zwei Runs bewusst deckeln. Auf keiner einzelnen Station Zeit erzwingen.\nLOG · 8 Run-Splits, 8 Stationssplits, Roxzone gesamt, RPE an Push/Lunges/Wall Balls, geplante vs. ungeplante Pausen, Fueling-Zeitpunkte.\nZWECK · vollständiger PRO-Datensatz für Block 4 und den Taper Richtung Basel.",
@@ -1812,7 +1812,7 @@
    "n": "4",
    "ti": "Mailand · Rennen (PRO · AG 40–44)",
    "s": "FIX. Erster echter WM-Qualifier · Ziel 76–80 min (Pacing 78:00) · GATE: ≤76 hält Sub-70 für Basel realistisch offen",
-   "w": "5.–6.12.",
+   "w": "Sa 05.12.",
    "next": 1
   },
   {
@@ -1983,7 +1983,7 @@
  ],
  "pacing": {
   "h": "Pacing-Plan Mailand PRO",
-  "badge": "AG 40–44 · 5.–6.12.2026",
+  "badge": "AG 40–44 · Sa 05.12.2026",
   "target": "78:00",
   "corridor": "76–80 min",
   "rox": "0:37",
