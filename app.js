@@ -599,26 +599,27 @@ function saveCfg(){
 
 /* ---------------- Statische Projektions-Charts ---------------- */
 function renderProjection(){
-  const W=320,H=165,pl=34,pr=10,pt=14,pb=24, yMin=3480, yMax=4560, MON=8;
+  const W=320,H=165,pl=34,pr=10,pt=14,pb=24, yMin=4020, yMax=5040, MON=8.5;
   const x=m=>pl+(m/MON)*(W-pl-pr), y=v=>pt+((v-yMin)/(yMax-yMin))*(H-pt-pb);
+  const T='font-family="JetBrains Mono"';
   let s='';
-  [3600,3900,4200,4500].forEach(v=>{const yy=y(v),lab=Math.floor(v/60)+':'+String(v%60).padStart(2,'0');
+  [4200,4500,4800].forEach(v=>{const yy=y(v),lab=Math.floor(v/60)+':'+String(v%60).padStart(2,'0');
     s+=`<line x1="${pl}" y1="${yy}" x2="${W-pr}" y2="${yy}" stroke="#1c1e19"/>`;
-    s+=`<text x="${pl-6}" y="${yy+3}" fill="#52564e" font-size="8" font-family="JetBrains Mono" text-anchor="end">${lab}</text>`;});
-  s+=`<rect x="${pl}" y="${y(3780)}" width="${W-pl-pr}" height="${y(3960)-y(3780)}" fill="rgba(204,255,0,.10)"/>`;
-  s+=`<line x1="${pl}" y1="${y(3600)}" x2="${W-pr}" y2="${y(3600)}" stroke="#52564e" stroke-width="1.2" stroke-dasharray="4 3"/>`;
-  s+=`<text x="${W-pr}" y="${y(3600)-4}" fill="#7d827a" font-size="8" font-family="JetBrains Mono" text-anchor="end">Stretch 60:00</text>`;
-  s+=`<text x="${W-pr}" y="${y(3960)-4}" fill="#9bbf00" font-size="8" font-family="JetBrains Mono" text-anchor="end">Ziel 63–66</text>`;
-  const x0=x(0),y0=y(4386),x1=x(MON),y1=y(3870);
-  s+=`<line x1="${x0}" y1="${y0}" x2="${x1}" y2="${y1}" stroke="#9bbf00" stroke-width="1.4" stroke-dasharray="5 4" opacity=".55"/>`;
-  [[1.4,'B1'],[4.2,'GEN'],[5.2,'B3'],[6.1,'MIL']].forEach(([m,l])=>{const px=x(m),py=y0+(y1-y0)*(m/MON);
-    s+=`<circle cx="${px}" cy="${py}" r="3.5" fill="#080808" stroke="#52564e" stroke-width="1.5"/>`;
-    s+=`<text x="${px}" y="${py-7}" fill="#7d827a" font-size="7.5" font-family="JetBrains Mono" text-anchor="middle">${l}</text>`;});
-  s+=`<circle cx="${x0}" cy="${y0}" r="4.5" fill="#ff4533"/>`;
-  s+=`<text x="${x0+2}" y="${y0+14}" fill="#ff4533" font-size="8" font-family="JetBrains Mono">73:06</text>`;
-  s+=`<circle cx="${x1}" cy="${y1}" r="4.5" fill="#ccff00"/>`;
+    s+=`<text x="${pl-6}" y="${yy+3}" fill="#52564e" font-size="8" ${T} text-anchor="end">${lab}</text>`;});
+  s+=`<rect x="${pl}" y="${y(4020)}" width="${W-pl-pr}" height="${y(4200)-y(4020)}" fill="rgba(204,255,0,.10)"/>`;
+  s+=`<text x="${pl+4}" y="${y(4200)-4}" fill="#9bbf00" font-size="8" ${T}>Ziel Sub-70</text>`;
+  s+=`<line x1="${pl}" y1="${y(4379)}" x2="${W-pr}" y2="${y(4379)}" stroke="#52564e" stroke-width="1.2" stroke-dasharray="4 3"/>`;
+  s+=`<text x="${pl+4}" y="${y(4379)-4}" fill="#7d827a" font-size="8" ${T}>Open Genf 72:59</text>`;
+  const real=[[3.1,4879,'SIM'],[4.3,4945,'GEN']], plan=[[4.3,4945],[6.1,4680],[8.4,4170]];
+  s+=`<polyline points="${plan.map(([m,v])=>x(m)+','+y(v)).join(' ')}" fill="none" stroke="#9bbf00" stroke-width="1.4" stroke-dasharray="5 4" opacity=".55"/>`;
+  real.forEach(([m,v,l])=>{s+=`<circle cx="${x(m)}" cy="${y(v)}" r="4" fill="#ff4533"/>`;
+    s+=`<text x="${x(m)}" y="${y(v)+14}" fill="#ff4533" font-size="7.5" ${T} text-anchor="middle">${l}</text>`;});
+  s+=`<text x="${x(4.3)+6}" y="${y(4945)+3}" fill="#ff4533" font-size="8" ${T}>82:25</text>`;
+  s+=`<circle cx="${x(6.1)}" cy="${y(4680)}" r="3.5" fill="#080808" stroke="#52564e" stroke-width="1.5"/>`;
+  s+=`<text x="${x(6.1)}" y="${y(4680)-7}" fill="#7d827a" font-size="7.5" ${T} text-anchor="middle">MIL 78</text>`;
+  s+=`<circle cx="${x(8.4)}" cy="${y(4170)}" r="4.5" fill="#ccff00"/>`;
   [['Jun',0],['Aug',2],['Okt',4],['Dez',6],['Feb',8]].forEach(([l,m])=>{
-    s+=`<text x="${x(m)}" y="${H-7}" fill="#52564e" font-size="8" font-family="JetBrains Mono" text-anchor="middle">${l}</text>`;});
+    s+=`<text x="${x(m)}" y="${H-7}" fill="#52564e" font-size="8" ${T} text-anchor="middle">${l}</text>`;});
   $('proj').innerHTML=s;
 }
 

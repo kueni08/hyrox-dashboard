@@ -7,7 +7,7 @@
   "facts": [
    "Genf PRO · <b>1:22:25</b> · echter Race-Benchmark",
    "Mailand · <b>5.–6.12.2026 fix</b> · erster AG40–44 WM-Qualifier",
-   "Basel 12.–14.02.27 bleibt A-Rennen · Ziel 63–66 · Stretch <60"
+   "Basel 12.–14.02.27 bleibt A-Rennen · Ziel <b>Sub-70</b>"
   ],
   "tiles": [
    {
@@ -1105,8 +1105,8 @@
        "cls": "d-sim",
        "ti": "★ HYROX Mailand · PRO · AG 40–44",
        "dur": "RACE",
-       "p": "Erster echter WM-Qualifier, FIX gebucht. Ziel 64–67 min. GATE: eine Zeit von 62 oder besser hält Sub-60 für Basel realistisch offen. Wichtiger als die Zeit ist, dass keine Station kippt. Die Splits bestimmen den Inhalt von Block 4.",
-       "prompt": "HYROX MAILAND · PRO · RACE LOG\nVORHER · Schlaf, Ruhepuls, HRV notieren. Frühstück mit mindestens 100 g Kohlenhydraten, 3 h vorher. Fueling-Plan aus Benchmark 3 anwenden.\nWÄHREND · Erste zwei Runs bewusst deckeln. Auf keiner einzelnen Station Zeit erzwingen.\nLOG · 8 Run-Splits, 8 Stationssplits, Roxzone gesamt, RPE an Push/Lunges/Wall Balls, geplante vs. ungeplante Pausen, Fueling-Zeitpunkte.\nZWECK · vollständiger PRO-Datensatz für den Taper Richtung St. Gallen.",
+       "p": "Erster echter WM-Qualifier, FIX gebucht. Ziel 76–80 min (Pacing-Plan 78:00, siehe Daten → Pacing). GATE: 76 oder besser hält Sub-70 für Basel realistisch offen. Wichtiger als die Zeit ist, dass keine Station kippt. Die Splits bestimmen den Inhalt von Block 4.",
+       "prompt": "HYROX MAILAND · PRO · RACE LOG\nVORHER · Schlaf, Ruhepuls, HRV notieren. Frühstück mit mindestens 100 g Kohlenhydraten, 3 h vorher. Fueling-Plan aus Benchmark 3 anwenden.\nWÄHREND · Erste zwei Runs bewusst deckeln. Auf keiner einzelnen Station Zeit erzwingen.\nLOG · 8 Run-Splits, 8 Stationssplits, Roxzone gesamt, RPE an Push/Lunges/Wall Balls, geplante vs. ungeplante Pausen, Fueling-Zeitpunkte.\nZWECK · vollständiger PRO-Datensatz für Block 4 und den Taper Richtung Basel.",
        "date": "2026-12-05"
       }
      ]
@@ -1185,58 +1185,58 @@
  "gaps": [
   {
    "n": "Wall Balls",
-   "is": "7:09",
-   "tg": "4:00",
+   "is": "8:18",
+   "tg": "5:50",
    "k": "weak"
   },
   {
-   "n": "Sandbag Lunge",
-   "is": "4:38",
-   "tg": "3:20",
-   "k": "weak"
-  },
-  {
-   "n": "Burpee BJ",
-   "is": "4:34",
+   "n": "Sled Push",
+   "is": "5:24",
    "tg": "3:30",
    "k": "weak"
   },
   {
+   "n": "Sled Pull",
+   "is": "4:51",
+   "tg": "3:35",
+   "k": "weak"
+  },
+  {
+   "n": "Sandbag Lunge",
+   "is": "5:40",
+   "tg": "4:30",
+   "k": "weak"
+  },
+  {
+   "n": "Burpee BJ",
+   "is": "5:35",
+   "tg": "4:30"
+  },
+  {
    "n": "Row",
-   "is": "4:32",
-   "tg": "3:50"
+   "is": "4:43",
+   "tg": "4:20"
   },
   {
    "n": "Ski",
-   "is": "4:23",
-   "tg": "3:40"
-  },
-  {
-   "n": "Sled Pull",
-   "is": "3:34",
-   "tg": "2:55",
-   "k": "strong"
-  },
-  {
-   "n": "Sled Push",
-   "is": "2:33",
-   "tg": "2:10"
+   "is": "4:27",
+   "tg": "4:05"
   },
   {
    "n": "Farmers Carry",
-   "is": "1:21",
+   "is": "1:34",
    "tg": "1:20",
    "k": "strong"
   },
   {
    "n": "Run Ø (×8)",
-   "is": "4:24",
-   "tg": "3:55"
+   "is": "4:31",
+   "tg": "4:19"
   },
   {
    "n": "Roxzone",
-   "is": "5:05",
-   "tg": "3:00"
+   "is": "5:51",
+   "tg": "3:45"
   }
  ],
  "raceSplits": [
@@ -1429,14 +1429,14 @@
   {
    "n": "4",
    "ti": "Mailand · Rennen (PRO · AG 40–44)",
-   "s": "FIX. Erster echter WM-Qualifier · Ziel 64–67 min · GATE: ≤62 hält Sub-60 für Basel realistisch offen",
+   "s": "FIX. Erster echter WM-Qualifier · Ziel 76–80 min (Pacing 78:00) · GATE: ≤76 hält Sub-70 für Basel realistisch offen",
    "w": "5.–6.12.",
    "next": 1
   },
   {
    "n": "5",
    "ti": "Basel · A-Rennen (PRO · AG 40–44)",
-   "s": "Primärziel WM-Slot · Messe Basel, erste HYROX-Ausgabe dort · Leistungsziel 63–66 min · Stretch Sub-60 · Platzierung vor Zeit",
+   "s": "Primärziel WM-Slot · Messe Basel, erste HYROX-Ausgabe dort · Leistungsziel Sub-70 · Platzierung vor Zeit",
    "w": "12.–14.02.27"
   }
  ],
@@ -1549,7 +1549,7 @@
    "u": "time",
    "lo": "58:00",
    "hi": "85:00",
-   "goal": "66:00",
+   "goal": "70:00",
    "dir": "down",
    "hint": "Gesamtzeit mm:ss"
   },
@@ -1606,7 +1606,7 @@
   "corridor": "76–80 min",
   "rox": "0:37",
   "intro": "Abgeleitet aus den offiziellen Genf-Splits (Strava/ROXFIT, 1:22:25: Running 36:10, Stationen 40:32, Roxzone 5:51), Vollsim 05.09. (81:19), Gate-Session 04.11. und Laufreferenzen (8×1000 ~4:02, 10k 4:17 @ HF 157). Labor uVida 28.01.: IAAS <b>161</b>, VT1 139, HFmax 174. Kein neuer Lauf- oder Stationsrekord nötig — der Gewinn kommt aus Sled, Wall Balls und Roxzone.",
-  "reality": "<b>Zielabgleich:</b> Das Dashboard nennt für Mailand 64–67 min (Gate ≤62). Das wären 15–20 min schneller als Genf — weder Läufe noch Stationen im Log stützen das für einen Abstand von 4 Wochen. Belastbar sind aktuell <b>76–80 min</b>. Nach Benchmark 3 (07.11.) neu kalibrieren.",
+  "reality": "<b>Zielabgleich:</b> A-Ziel ist <b>Sub-70 in Basel</b>. Mailand ist der Zwischenschritt: belastbar sind aktuell <b>76–80 min</b>; ≤76 hält Sub-70 realistisch offen. Nach Benchmark 3 (07.11.) neu kalibrieren.",
   "rows": [
    {
     "n": "Run 1",
@@ -1834,7 +1834,7 @@
      "sum": 1
     }
    ],
-   "verdict": "<b>Einordnung:</b> 73 in PRO verlangt −9:30 gegenüber Genf, davon −2:40 allein am Sled. Im Training lagen Push 3:40 / Pull 3:23 (Sim 05.09.) bereits im Budget — im Rennen kostete der Venue-Sled je 1–2 min mehr. Für <b>Mailand in 4 Wochen</b> ist 73 nur ein Best Case (Sled läuft wie im Training <i>und</i> WB ≤6:30); realistisch bleiben 76–80. Für <b>Basel (14 Wochen)</b> ist 73 ein belastbares Ziel — klar realistischer als die im Dashboard stehenden 63–66."
+   "verdict": "<b>Einordnung:</b> 73 in PRO verlangt −9:30 gegenüber Genf, davon −2:40 allein am Sled. Im Training lagen Push 3:40 / Pull 3:23 (Sim 05.09.) bereits im Budget — im Rennen kostete der Venue-Sled je 1–2 min mehr. Für <b>Mailand in 4 Wochen</b> ist 73 nur ein Best Case; realistisch 76–80. Das <b>Basel-Ziel Sub-70</b> liegt nochmals ~3 min darunter: ohne Sled ≤3:35, Wall Balls ≤6:00 und Roxzone <4:00 nicht erreichbar (Budget unter Daten → Splits)."
   }
  }
 }

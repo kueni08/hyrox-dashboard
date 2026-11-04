@@ -1,4 +1,4 @@
-# HYROX Dashboard · Sub-60 · Basel 2027
+# HYROX Dashboard · Sub-70 · Basel 2027
 
 Statisches Dashboard, gehostet über GitHub Pages.
 
