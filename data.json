@@ -1598,5 +1598,158 @@
    "n": "Benchmark / Rennen",
    "cls": "d-sim"
   }
- ]
+ ],
+ "pacing": {
+  "h": "Pacing-Plan Mailand PRO",
+  "badge": "AG 40–44 · 5.–6.12.2026",
+  "target": "78:00",
+  "corridor": "76–80 min",
+  "rox": "0:37",
+  "intro": "Abgeleitet aus den offiziellen Genf-Splits (Strava/ROXFIT, 1:22:25: Running 36:10, Stationen 40:32, Roxzone 5:51), Vollsim 05.09. (81:19), Gate-Session 04.11. und Laufreferenzen (8×1000 ~4:02, 10k 4:17 @ HF 157). Labor uVida 28.01.: IAAS <b>161</b>, VT1 139, HFmax 174. Kein neuer Lauf- oder Stationsrekord nötig — der Gewinn kommt aus Sled, Wall Balls und Roxzone.",
+  "reality": "<b>Zielabgleich:</b> Das Dashboard nennt für Mailand 64–67 min (Gate ≤62). Das wären 15–20 min schneller als Genf — weder Läufe noch Stationen im Log stützen das für einen Abstand von 4 Wochen. Belastbar sind aktuell <b>76–80 min</b>. Nach Benchmark 3 (07.11.) neu kalibrieren.",
+  "rows": [
+   {
+    "n": "Run 1",
+    "g": "4:28",
+    "t": "4:25",
+    "c": "4:20–4:30",
+    "hr": "≤155",
+    "run": 1,
+    "cue": "Bewusst bremsen. Erste 300 m langsamer als es sich anfühlt. Nicht schneller als 4:20."
+   },
+   {
+    "n": "SkiErg 1000 m",
+    "g": "4:27",
+    "t": "4:15",
+    "c": "4:10–4:20",
+    "cue": "Damper 2, 2:05–2:08/500 m, 25–27 SPM. Kontrolliert, nicht maximal."
+   },
+   {
+    "n": "Run 2",
+    "g": "3:44*",
+    "t": "4:15",
+    "c": "4:10–4:25",
+    "hr": "≤158",
+    "run": 1,
+    "cue": "Rhythmus finden, Arme locker nach dem Ski. *Genf-Run 2 war streckenbedingt kurz — kein Massstab."
+   },
+   {
+    "n": "Sled Push 50 m",
+    "g": "5:24",
+    "t": "4:45",
+    "c": "4:30–5:00",
+    "cue": "Kurze schnelle Schritte, Arme gestreckt, kein Stopp >5 s. Bei Stillstand: Hüfte tief, aus drei kurzen Schritten wieder anschieben. Teppich vor Ort prüfen."
+   },
+   {
+    "n": "Run 3",
+    "g": "4:40",
+    "t": "4:35",
+    "c": "4:30–4:45",
+    "hr": "≤158",
+    "run": 1,
+    "cue": "Erste 200 m bewusst ruhig, Beine kommen nach dem Push zurück. Hier keine Zeit holen."
+   },
+   {
+    "n": "Sled Pull 50 m",
+    "g": "4:51",
+    "t": "4:20",
+    "c": "4:10–4:35",
+    "cue": "Seil hinter sich ablegen, nicht verheddern (Gate 04.11.: Pull schwankte 0:38–1:14 wegen Setup). Hand über Hand, aus den Beinen ziehen."
+   },
+   {
+    "n": "Run 4",
+    "g": "4:26",
+    "t": "4:25",
+    "c": "4:20–4:35",
+    "hr": "≤160",
+    "run": 1,
+    "cue": "Gel 1 in der Roxzone davor (s. Fueling)."
+   },
+   {
+    "n": "Burpee BJ 80 m",
+    "g": "5:35",
+    "t": "5:20",
+    "c": "5:10–5:30",
+    "cue": "Gleichmässiger Takt (ca. 4 s/Rep), keine Sprints, keine Pausen im Stand. Sim 05.09.: 5:31."
+   },
+   {
+    "n": "Run 5",
+    "g": "4:29",
+    "t": "4:25",
+    "c": "4:20–4:35",
+    "hr": "≤160",
+    "run": 1,
+    "cue": "Halbzeit-Check: Uhr ca. 39–40 min. Wer vorne liegt, nicht erhöhen."
+   },
+   {
+    "n": "Row 1000 m",
+    "g": "4:43",
+    "t": "4:30",
+    "c": "4:25–4:35",
+    "cue": "2:13–2:16/500 m. Atmung runterholen, nicht pushen. Sim 05.09.: 4:17."
+   },
+   {
+    "n": "Run 6",
+    "g": "4:06",
+    "t": "4:15",
+    "c": "4:10–4:25",
+    "hr": "≤161",
+    "run": 1,
+    "cue": "Genf 4:06 war der schnellste Lauf — bewusst 5–10 s langsamer, die Zeit fehlte danach in Run 8."
+   },
+   {
+    "n": "Farmers 200 m",
+    "g": "1:34",
+    "t": "1:30",
+    "c": "1:25–1:35",
+    "cue": "Unbroken, schnell gehen bis leicht joggen. Griff nicht vorher ermüden."
+   },
+   {
+    "n": "Run 7",
+    "g": "4:31",
+    "t": "4:25",
+    "c": "4:20–4:35",
+    "hr": "≤161",
+    "run": 1,
+    "cue": "Kontrolliert. Wer sich hier gut fühlt, spart es für Run 8."
+   },
+   {
+    "n": "Lunges 100 m @ 30 kg",
+    "g": "5:40",
+    "t": "5:20",
+    "c": "5:10–5:35",
+    "cue": "Kurze Schritte, Rumpf fest. Max. eine geplante Pause von 10 s bei 50 m, wenn der Rücken meldet."
+   },
+   {
+    "n": "Run 8",
+    "g": "5:46",
+    "t": "4:55",
+    "c": "4:45–5:05",
+    "hr": "frei",
+    "run": 1,
+    "cue": "Grösster Laufverlust in Genf (+1:25 ggü. Ø Run 1–7). Erste 300 m traben, dann steigern. Ziel: mit Reserve für die WB ankommen."
+   },
+   {
+    "n": "Wall Balls 100 @ 9 kg",
+    "g": "8:18",
+    "t": "7:10",
+    "c": "6:50–7:30",
+    "cue": "Schema 15-15-15-15-10-10-10-10, Pausen strikt 15–20 s mitzählen. Ab Satz 5 Pausen eher kürzen als Sätze verlängern."
+   }
+  ],
+  "rules": [
+   "<b>Pulsdeckel, nicht Pulsziel:</b> Runs 1–3 ≤155–158, Runs 4–7 bis ~161 (IAAS). Liegt die HF bei Zielpace darüber, Pace um 5–10 s/km zurücknehmen. Handgelenk-HF hinkt bei Stationswechseln nach — die ersten 60 s jedes Laufs nicht bewerten.",
+   "<b>Laufpace in Summe:</b> Ø ~4:28/km (Genf 4:31). Runs 1–7 auf Genf-Niveau halten, Gewinn kommt aus Run 8 (−0:50) — Grundtempo ist nicht der Hebel.",
+   "<b>Roxzone:</b> Budget ~0:37 pro Station, gesamt ~5:00 (Genf 5:51). Joggen statt gehen, Gel/Handschuhe vorbereiten, keine Orientierungspausen.",
+   "<b>Abbruchregel Stationen:</b> Push/Pull/Lunges — kurze Pausen ≤5 s statt langer Stopps. WB — Satzschema halten, auch wenn Satz 1 leicht wirkt."
+  ],
+  "fuel": [
+   "<b>2–3 h vorher:</b> kohlenhydratreiche, fett- und faserarme Mahlzeit, ca. 1–2 g KH/kg (82–165 g bei 82 kg).",
+   "<b>45–60 min vorher:</b> Koffein ~3 mg/kg (≈250 mg), nur wenn im Training erprobt.",
+   "<b>10–15 min vorher:</b> 1 Gel (~25 g KH).",
+   "<b>Im Rennen:</b> Gel 1 nach dem Sled Pull (~Min. 27), Gel 2 optional nach dem Row (~Min. 48). Benchmark 1 (18.07.) brach durch Underfueling ab Min. 70 ein."
+  ],
+  "check": "<b>Benchmark 3 (07.11.):</b> zweite Rennhälfte mit genau diesen Vorgaben fahren — Run 5–8 Pace + HF, WB-Schema 15-15-15-15-10-10-10-10 und Gel-Timing. Danach Zielzeit und Korridore anpassen.",
+  "src": "Datenbasis: Strava live (Genf-Splits, Aktivitäten 08.10.–04.11., HF-Zonen), data.json/log.json (inkl. bisheriger Garmin-Werte), Labor uVida 28.01. Genf hat in Strava keine HF-Daten; Garmin wurde nicht direkt abgefragt. Laufdistanzen variieren je Venue — Run-Splits sind Richtwerte pro ~1 km."
+ }
 }

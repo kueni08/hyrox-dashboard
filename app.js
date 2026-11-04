@@ -255,6 +255,38 @@ function renderBenchmarks(){
      <div class="note" style="padding:2px 0 0;font-size:10.5px">${esc(r.note)}</div></div>`).join('');
 }
 
+/* ---------------- Pacing-Plan ---------------- */
+function renderPacing(){
+  const el = $('pacing'), P = DATA.pacing;
+  if(!el) return;
+  if(!P){ el.innerHTML = '<div class="empty">Kein Pacing-Plan in data.json.</div>'; return; }
+  const rox = sec(P.rox || '0:00');
+  let cum = 0, st = 0;
+  const rows = (P.rows || []).map(r => {
+    const t = sec(r.t);
+    if(r.run){ cum += t; } else { cum += t + rox; st++; }
+    return `<div class="prow ${r.run?'run':''}"><div class="pl"><span class="nm">${esc(r.n)}</span>
+      <span class="tm">${r.g?`<span class="g">${esc(r.g)} →</span> `:''}<span class="t">${esc(r.t)}</span></span></div>
+      <div class="pm"><span>Korridor ${esc(r.c||'–')}</span>${r.hr?`<span>HF ${esc(r.hr)}</span>`:''}<span style="margin-left:auto">Σ ${fmt(cum)}</span></div>
+      ${r.cue?`<div class="pc">${esc(r.cue)}</div>`:''}</div>`;
+  }).join('');
+  const list = a => (a && a.length) ? `<ul class="plist">${a.map(x => `<li>${x}</li>`).join('')}</ul>` : '';
+  el.innerHTML = `
+    <div class="card" style="margin-top:0">
+      <div class="ch"><div><h3>${esc(P.h)}</h3><span class="badge b-race">${esc(P.badge)}</span></div>
+        <div class="meta"><span class="total">${esc(P.target)}</span><br>${esc(P.corridor)}</div></div>
+      <p class="note" style="margin-bottom:8px">${P.intro||''}</p>
+      <p class="note">${P.reality||''}</p>
+    </div>
+    <div class="card">
+      <div class="ch"><div><h3>Splits · Genf → Mailand</h3><span class="badge b-sim">Σ inkl. Roxzone ${esc(P.rox)}/Station</span></div></div>
+      ${rows}
+    </div>
+    <div class="card"><div class="ch"><div><h3>Regeln im Rennen</h3></div></div>${list(P.rules)}</div>
+    <div class="card"><div class="ch"><div><h3>Fueling</h3></div></div>${list(P.fuel)}</div>
+    <div class="card"><p class="note" style="margin-bottom:8px">${P.check||''}</p><p class="note" style="font-size:10.5px">${esc(P.src||'')}</p></div>`;
+}
+
 /* ---------------- Fortschritts-Charts aus log.json ---------------- */
 function seriesFor(key){
   return LOG.entries
@@ -617,7 +649,7 @@ function initNav(){
 
   renderHeader(); renderPlan(); renderBlocks();
   renderGaps(); renderSplits('raceSplits', DATA.raceSplits); renderSplits('simSplits', DATA.simSplits);
-  renderBenchmarks(); renderProjection(); renderMetrics(); renderLog(); renderToday();
+  renderBenchmarks(); renderPacing(); renderProjection(); renderMetrics(); renderLog(); renderToday();
   initNav(); initSegs();
 
   $('btnNew').onclick = openForm;

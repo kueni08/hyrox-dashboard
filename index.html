@@ -124,6 +124,19 @@
   .f-weak{background:rgba(255,69,51,.16);color:var(--red);}
   .f-strong{background:rgba(84,227,106,.16);color:var(--green);}
 
+  .prow{padding:9px 0;border-bottom:1px solid var(--line);}
+  .prow:last-child{border-bottom:none;}
+  .prow .pl{display:flex;justify-content:space-between;align-items:baseline;gap:8px;}
+  .prow .pl .nm{font-size:12.5px;font-weight:500;}
+  .prow.run .pl .nm{color:var(--mut);}
+  .prow .pl .tm{font-family:'JetBrains Mono';font-size:11.5px;white-space:nowrap;}
+  .prow .pl .tm .g{color:var(--mut2);}
+  .prow .pl .tm .t{color:var(--acid);font-weight:700;}
+  .prow .pm{display:flex;gap:10px;font-family:'JetBrains Mono';font-size:10px;color:var(--mut);margin-top:2px;}
+  .prow .pc{font-size:11px;color:var(--mut);line-height:1.4;margin-top:3px;}
+  .plist{margin:0;padding-left:16px;}
+  .plist li{font-size:11.5px;color:var(--mut);line-height:1.45;margin-bottom:6px;}
+  .plist li b{color:var(--acid);font-weight:600;}
   .split{margin-bottom:8px;}
   .split .sl{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:3px;}
   .split .sl .nm{font-size:12px;}.split .sl .nm.run{color:var(--mut);}
@@ -370,6 +383,7 @@
 <section class="page" id="p-data">
   <div class="seg" id="segData">
     <button class="on" data-s="da-prog">Fortschritt</button>
+    <button data-s="da-pace">Pacing</button>
     <button data-s="da-split">Splits</button>
     <button data-s="da-ref">Referenz</button>
   </div>
@@ -383,6 +397,10 @@
     </div>
     <div class="secttl">Benchmark-Plan</div>
     <div id="bms"></div>
+  </div>
+
+  <div class="subpage" id="s-da-pace">
+    <div id="pacing"></div>
   </div>
 
   <div class="subpage" id="s-da-split">
