@@ -1,52 +1,51 @@
 {
  "meta": {
   "title": "HYROX",
-  "subtitle": "Genf '26",
-  "kicker": "Operation WM-Qualifikation · Genf PRO · Taper",
-  "raceDate": "2026-10-09",
+  "subtitle": "Mailand '26",
+  "kicker": "Operation WM-Qualifikation · Mailand PRO · Build",
+  "raceDate": "2026-12-05T08:00:00",
   "facts": [
-   "Genf PRO · <b>09.10.2026 fix</b> · Startzeit noch nicht hinterlegt",
-   "Genf: <b>Sub-70 als Stretch-Ziel</b>",
-   "A-Rennen bleibt Basel 12.–14.02.27 · WM-Qualifikation"
+   "Genf PRO · <b>1:22:25</b> · echter Race-Benchmark",
+   "Mailand · <b>5.–6.12.2026 fix</b> · erster AG40–44 WM-Qualifier",
+   "Basel 12.–14.02.27 bleibt A-Rennen · Ziel 63–66 · Stretch <60"
   ],
   "tiles": [
    {
-    "v": "09.10.",
-    "l": "Genf PRO · fix"
+    "v": "1:22:25",
+    "l": "Genf PRO · 09.10."
    },
    {
-    "v": "Damper 2",
-    "l": "SkiErg · Genf-Setup"
+    "v": "5.–6.12.",
+    "l": "Mailand PRO · fix"
    }
   ],
-  "stand": "02.10.2026"
+  "stand": "04.11.2026"
  },
  "rhythm": [
   {
    "d": "Mo",
-   "t": "Kurz & frisch<br>Race-Pace",
+   "t": "HYROX<br>Qualität",
    "fix": 1
   },
   {
-   "d": "Di",
-   "t": "Erholung<br>Alltag"
-  },
-  {
    "d": "Mi",
-   "t": "Locker<br>Erholung"
-  },
-  {
-   "d": "Do",
-   "t": "Reise<br>Ruhe",
+   "t": "Run / Comp.<br>Qualität",
    "fix": 1
   },
   {
    "d": "Fr",
-   "t": "Genf PRO<br>09.10.",
-   "fix": 1
+   "t": "Z2 / Erg<br>oder frei"
+  },
+  {
+   "d": "Sa",
+   "t": "HYROX / Run<br>optional"
+  },
+  {
+   "d": "So",
+   "t": "Longrun Z2<br>optional"
   }
  ],
- "rhythmNote": "Race Week 05.–09.10.: Volumen deutlich reduzieren; nur kurze Race-Pace-Reize, keine harten Intervalle und keine Vollsimulation. Knie/Schienbein bestimmen die Laufbelastung. Alltag bewegen, keine zusätzlichen Schrittziele. 8+ h Schlaf, kein Kaloriendefizit, Kohlenhydrate ab Mi/Do hochhalten und gewohnte Flüssigkeits-/Salzzufuhr. Tageshinweise unten fassen die letzten Chat-Absprachen zusammen; keine neuen festen Intervallumfänge ergänzt.",
+ "rhythmNote": "Mailand-Build: maximal <b>zwei harte Reize pro Woche</b> — 1× HYROX-spezifisch (Sled/Wall Balls/Lunges/BBJ + compromised Running) und 1× Laufqualität. Dazwischen 2–3 lockere Z2-Einheiten auf Run/Bike/Ski/Row je nach Erholung. Sled Push/Pull Richtung 100 % PRO robust machen; Wall Balls 9 kg unter Vorermüdung; Laufgeschwindigkeit erhalten statt zusätzlich jagen.",
  "phases": [
   {
    "h": "Block 1 · Fundament ✓",
@@ -69,7 +68,6 @@
    "h": "Block 2 · Abschluss & Genf-Taper",
    "wk": "17.8–11.10 · 8 Wo",
    "f": "Aufbau abgeschlossen; aktueller Schwerpunkt ist Frische für Genf PRO am 09.10.2026. Knie/Schienbein schonen. Die früheren Aufbauvorgaben sind keine zusätzliche Taper-Aufgabe.",
-   "now": 1,
    "tags": [
     "▶ Taper",
     "Genf PRO 09.10. · fix",
@@ -79,12 +77,13 @@
   {
    "h": "Block 3 · Renntempo",
    "wk": "12.10–20.12 · 10 Wo",
-   "f": "Mesozyklen 2:1. Schwerpunkte aus den eigenen Befunden: Sled Push unter Laufbelastung, Run-Drift, Roxzone-Übergänge und ein getestetes Fueling-Protokoll.",
+   "f": "Aktueller Mailand-Build. Genf zeigte die grössten Hebel bei Sled Push/Pull, Wall Balls und Late-Race-Robustheit. Fokus: echte PRO-Lasten technisch stabil, 9-kg-Wall-Balls unter Vorermüdung, Lunges/BBJ regelmässig rotieren und compromised Running bei kontrollierter Race-Pace.",
    "tags": [
-    "Genf PRO 09.10. · fix",
+    "▶ aktuell",
     "Mailand 5.–6.12 · fix",
-    "Benchmark 3 · 7.11"
-   ]
+    "max. 2 harte Reize/Woche"
+   ],
+   "now": 1
   },
   {
    "h": "Feiertage · Übergang",
@@ -106,21 +105,21 @@
   }
  ],
  "testRace": {
-  "h": "Genf · PRO · AG 35–39",
-  "badge": "09.10.2026 · fix",
-  "note": "<b>Genf PRO am Freitag, 09.10.2026, fix.</b> Startzeit nicht bestätigt. Bisherige Chat-Schätzung: 70–72 min; <b>Stretch 68:xx–69:59</b>. Kein Sub-70-Nachweis aus einer verkürzten Session.<br><br><b>Aktuelles Pacing aus der Auswertung vom 28.09.:</b> Run1–2 4:15–4:20/km; Run3–5 4:20–4:25 akzeptieren. Nach BBJ/Lunges zuerst Rhythmus finden, keine frühen 4:05–4:10 erzwingen. HF nur als besprochene Orientierung: bis Halbzeit nicht freiwillig dauerhaft über160–162; hinten ca.160–166, kein starres Muss.<br><br><b>SkiErg:</b> Damper2, 1:59–2:02/500 m, ca.25–27SPM, kontrolliert statt Stations-PB. <b>Sub-70-Rechenrahmen:</b> Running + Stationen aus dem Chat grob66:05–67:30; zusätzlich Roxzone. Bei3:30 Roxzone ca.69:35–71:00, bei4:00 ca.70:05–71:30. Transfers in Trainingslaps und lineare Hochrechnung von40m Lunges/40WB machen dies unsicher. Roxzone im Rennen mitzählen; keine exakte Prognose."
+  "h": "Genf · PRO · AG 35–39 · Ergebnis",
+  "badge": "09.10.2026 · 1:22:25",
+  "note": "<b>Offizieller Race-Benchmark: 1:22:25.</b> Rekonstruktion: Running ca. 36:15, Stationen 40:29, Roxzone/Transitions ca. 5:41. Stationen: Ski 4:27 · Push 5:23 · Pull 4:51 · BBJ 5:34 · Row 4:42 · Farmers 1:34 · Lunges 5:40 · Wall Balls 8:18. Wichtigster Befund: kardial blieb das Rennen relativ kontrolliert; der grössere Limiter war lokale muskuläre Ermüdung. Der Wettkampf-Sled war subjektiv deutlich schwerer/anders als im Training; Push-Geometrie erforderte mehr Hand-/Schulterstabilisation, beim Pull entstand trotz gestreckter Arme starker isometrischer Schulter-/Arm-Stress. Mailand-Fokus deshalb: Sled-Robustheit, Wall Balls unter Vorermüdung und stabiler Lauf nach schweren Stationen."
  },
  "status": {
-  "h": "Taper vor Genf · Stand 02.10.2026",
-  "badge": "Frische · Knie/Schienbein schonen",
+  "h": "Mailand Build · Stand 04.11.2026",
+  "badge": "Sled/WB + compromised robustness",
   "notes": [
-   "<b>Genf PRO 09.10. fix:</b> bisherige Chat-Schätzung 70–72 min, Stretch 68:xx–69:59. Keine Ergebnisgarantie. Basel bleibt das A-Rennen.",
-   "<b>16.09. Stuttgart:</b> 8×1000 mit 90 s Pause, Ø4:01,6/km aus gerundeten Strava-Laps; wechselnde Steigung, kein flacher Bahnvergleich. <b>10.09. Threshold:</b> 3×10 min, ca.4:07 / 4:11 / 4:07/km. <b>19.09. Longrun:</b> 14,50 km @5:01, ØHF133.",
-   "<b>23.09. Compromised:</b> 5×1 km Ø4:29,2 inkl. Transfers; bei −5 s/Run rechnerisch 4:24,2. BBJ 80 m statt der falsch benannten Row-Station. Vorermüdeter Oberkörper; keine reine Laufpace aus den Brutto-Splits ableiten.",
-   "<b>28.09. letzter spezifischer Reiz:</b> 5×600 m Ø4:30,2 inkl. Transfers, Push/Pull je40 m, BBJ50 m, Lunges40 m, WB40. Gel22 s und Umbau31 s separat. Details und Originalquellen im Log.",
-   "<b>30.09. SkiErg:</b> D5 → D2 → D3 → D1 getestet; Nutzerentscheid <b>Damper2 für Genf</b>. D2 HF129, 25SPM, RPE7. Rennrhythmus 1:59–2:02/500 m, ca.25–27SPM.",
-   "<b>Taper / Beschwerden:</b> 30.09. Schienbein minimal spürbar, bewusst ohne Laufen. Knie/Schienbein schonen; keinen harten Reiz nachholen. Fr/Sa nur kurzer Laufreiz bei praktisch 0/10, sonst locker ohne Stossbelastung. Race Week nur kurze Race-Pace-Reize, viel Erholung, keine Vollsimulation.",
-   "<b>Quellenstand 02.10.:</b> Originalchat inkl. Nutzerkorrekturen und Strava geprüft; gemessene Bruttozeiten und geschätzte Nettopaces sind getrennt. Garmin-Gerätequelle: Forerunner170."
+   "<b>Genf PRO 09.10.:</b> 1:22:25. Stationen 40:29 und Roxzone ca.5:41 waren der grössere Zeitblock; Sled und Wall Balls bleiben Haupthebel.",
+   "<b>18.10. 8×1000:</b> 4:02,5 / 4:02,4 / 4:03,2 / 4:07,5 / 4:03,7 / 3:59,3 / 4:02,1 / 4:12,8. Letzter Rep durch Schikane/Hosen-Hänger verfälscht; real bis dahin ~4:00–4:03. 90-s-Erholung diesmal aktiv getrabt (1,69 km gesamt, Ø6:13/km) statt nahezu Gehpause wie 29.08.",
+   "<b>21.10. Bergsprints:</b> 7 kurze Reps am Burghügel Uster, hohe Qualität und stabile Distanz; als Sled-orientierter Kraft-/Abdruckreiz gewertet.",
+   "<b>28.10. Longrun:</b> 1:36:53 kontrolliert; Pace grob 5:15–5:40/km und HF überwiegend 135–145 ohne auffälligen Drift.",
+   "<b>30.10. Sled + WB:</b> schwere Sled-Pyramide nahe PRO-Last; statt Finisher 3×20 Wall Balls @9 kg mit nur 30–40 s Pause. Dritter Satz nahe Limit — guter, aber harter Finish-Reiz.",
+   "<b>31.10. Compromised:</b> 5×(1 km + 20 m BBJ) mit kurzen Pausen; Run-Pace und Kadenz stabil. Intervall 1+2 ohne zusätzliche Pause.",
+   "<b>04.11. HYROX Gate Session:</b> 3 Runden statt geplanter 4; R1/R2 jeweils Run→Push→Run→Pull→Run→Lunges→Run→WB, R3 Run→Push→Run→Pull→Lunges→WB. Dadurch 6,0 km compromised Running bei 37,5 m Push + 37,5 m Pull + 60 m Lunges + 45 WB. Details im Log."
   ]
  },
  "blocks": [
@@ -1417,10 +1416,9 @@
   },
   {
    "n": "2",
-   "ti": "Genf PRO · fix",
-   "s": "FIX09.10. · Bisherige Schätzung70–72min, Stretch68:xx–69:59. Damper2. Vollständige Splits inkl.Roxzone; keine Garantie aus verkürzten Simulationen.",
-   "w": "09.10.",
-   "next": 1
+   "ti": "Genf PRO ✓ 1:22:25",
+   "s": "Echter PRO-Benchmark: Stationen 40:29, Running ca.36:15, Roxzone ca.5:41. Haupthebel Sled Push/Pull, Wall Balls und Late-Race-Robustheit.",
+   "w": "09.10."
   },
   {
    "n": "3",
@@ -1443,6 +1441,18 @@
   }
  ],
  "runbm": [
+  {
+   "n": "Compromised 5×1k + BBJ · 31.10.",
+   "is": "5×(1 km + 20 m BBJ)",
+   "tg": "Race-Pace nach BBJ stabil halten",
+   "note": "Runs grob 4:15–4:20/km, Kadenz/Bodenkontakt stabil; Intervall 1+2 ohne zusätzliche Pause. Spezifischer Mailand-Reiz."
+  },
+  {
+   "n": "8×1000 Bahn · 18.10.",
+   "is": "~4:03/km · 90 s aktiver Trab",
+   "tg": "Erhalten, nicht forcieren",
+   "note": "Offizielle Reps 4:02,5 / 4:02,4 / 4:03,2 / 4:07,5 / 4:03,7 / 3:59,3 / 4:02,1 / 4:12,8. Letzter Rep extern gestört; 90-s-Pausen diesmal Ø6:13/km statt Gehpause."
+  },
   {
    "n": "8×1000 Stuttgart · 16.09.",
    "is": "Ø4:01,6 · 90 s P",
