@@ -29,23 +29,19 @@
   },
   {
    "d": "Mi",
-   "t": "Run / Comp.<br>Qualität",
+   "t": "Longrun<br>Z2 · lang",
    "fix": 1
   },
   {
    "d": "Fr",
-   "t": "Z2 / Erg<br>oder frei"
+   "t": "Lauf-<br>qualität"
   },
   {
-   "d": "Sa",
-   "t": "HYROX / Run<br>optional"
-  },
-  {
-   "d": "So",
-   "t": "Longrun Z2<br>optional"
+   "d": "WE",
+   "t": "nur kinderfrei<br>nachholen / Z2"
   }
  ],
- "rhythmNote": "Mailand-Build: maximal <b>zwei harte Reize pro Woche</b> — 1× HYROX-spezifisch (Sled/Wall Balls/Lunges/BBJ + compromised Running) und 1× Laufqualität. Dazwischen 2–3 lockere Z2-Einheiten auf Run/Bike/Ski/Row je nach Erholung. Sled Push/Pull Richtung 100 % PRO robust machen; Wall Balls 9 kg unter Vorermüdung; Laufgeschwindigkeit erhalten statt zusätzlich jagen.",
+ "rhythmNote": "Fixe Tage <b>Mo + Mi</b> (mehr Zeit) · <b>Fr</b> meistens · Wochenende nur wenn kinderfrei (TimeTree). <b>Zwei harte Reize pro Woche:</b> Mo HYROX-spezifisch, Fr Laufqualität. <b>Mi Longrun Z2</b> (HF ≤145) — liegt 48 h nach Mo und 48 h vor Fr, stört keinen der beiden Reize. Fällt Fr aus: am kinderfreien Wochenende nachholen, sonst streichen — nie auf Mi schieben. Wochenende nie als dritter harter Reiz.",
  "phases": [
   {
    "h": "Block 1 · Fundament ✓",
@@ -77,7 +73,7 @@
   {
    "h": "Block 3 · Renntempo",
    "wk": "12.10–20.12 · 10 Wo",
-   "f": "Aktueller Mailand-Build. Genf zeigte die grössten Hebel bei Sled Push/Pull, Wall Balls und Late-Race-Robustheit. Fokus: echte PRO-Lasten technisch stabil, 9-kg-Wall-Balls unter Vorermüdung, Lunges/BBJ regelmässig rotieren und compromised Running bei kontrollierter Race-Pace.",
+   "f": "Aktueller Mailand-Build. Genf zeigte die grössten Hebel bei Sled Push/Pull, Wall Balls und Late-Race-Robustheit. Fokus: echte PRO-Lasten technisch stabil, 9-kg-Wall-Balls unter Vorermüdung, Lunges/BBJ regelmässig rotieren und compromised Running bei kontrollierter Race-Pace. Ab W5 Rhythmus Mo HYROX · Mi Longrun · Fr Laufqualität.",
    "tags": [
     "▶ aktuell",
     "Mailand 5.–6.12 · fix",
@@ -88,20 +84,22 @@
   {
    "h": "Feiertage · Übergang",
    "wk": "21.12–3.1 · 2 Wo",
-   "f": "Weihnachten und Neujahr. Volumen reduziert, Intensität punktuell. Kein Formaufbau, aber auch kein Loch — Ziel ist, mit intakter Basis in den letzten Block zu starten."
+   "f": "Weihnachten und Neujahr. Mo moderat + Mi Longrun halten, Fr (25.12./01.01.) frei. Kinderfreie Feiertage für Z2 nutzen. Kein Formaufbau, aber kein Loch."
   },
   {
    "h": "Block 4 · Basel-Spezifik",
    "wk": "4.1–31.1 · 4 Wo",
-   "f": "Letzter Aufbau. Inhalt richtet sich nach den Mailand-Splits: die zwei teuersten Stationen bekommen das Volumen, der Rest wird nur gehalten.",
+   "f": "W13–W14: die zwei teuersten Mailand-Stationen bekommen das Volumen (Ist vs. Sub-70-Budget). W15: ★ Benchmark 4 · PRO-Vollsim am Mo 18.01. (Gate ≤74). W16: Peak-Woche. Mi Longrun bis 100 min, Fr 8×1000 / Schwelle / Race Pace / VO₂.",
    "tags": [
-    "noch nicht ausformuliert"
+    "grob geplant",
+    "Benchmark 4 · 18.01.",
+    "Ziel Sub-70"
    ]
   },
   {
    "h": "Taper Basel",
    "wk": "1.2–14.2 · 2 Wo",
-   "f": "Volumen deutlich runter, Intensität halten. Nichts mehr verbessern wollen."
+   "f": "W17: Volumen −40 %, Intensität halten, Longrun 50–60 min. W18: Primer Mo, Aktivierung Mi, Rennen 12.–14.02. Nichts mehr verbessern wollen."
   }
  ],
  "testRace": {
@@ -828,7 +826,7 @@
    "short": "B3",
    "from": "2026-10-12",
    "to": "2026-12-20",
-   "label": "Block 3 · Renntempo · 12. Okt → Mailand 5.–6. Dez · Mesozyklen 2:1",
+   "label": "Block 3 · Renntempo · 12. Okt → Mailand 5.–6. Dez · Rhythmus ab W5: Mo HYROX · Mi Longrun · Fr Laufqualität",
    "weeks": [
     {
      "n": "1",
@@ -969,7 +967,7 @@
        "cls": "d-sim",
        "ti": "★ Benchmark 3 · Rennsegment 70 %",
        "dur": "50–60 min",
-       "p": "Kein Vollrennen. Die zweite Rennhälfte am Stück — genau die zweite Rennhälfte, angepasst an die dann vorliegenden Genf-Splits. Mit vollem Fueling-Protokoll, das ist Teil des Tests.",
+       "p": "Nur wenn das Wochenende kinderfrei ist. Sonst auf Mo 09.11. verschieben (ersetzt dann die W5-Montagseinheit). Zweite Rennhälfte am Stück nach Pacing-Plan (Daten → Pacing) mit vollem Fueling-Protokoll.",
        "prompt": "ROXFIT · BENCHMARK 3 · ZWEITE RENNHÄLFTE\nVORHER · Frühstück mit mindestens 100 g Kohlenhydraten, 2,5–3 h vorher. Während des Tests 30–40 g KH nachführen. Beides protokollieren.\nWARM-UP · 12:00 locker + je 1 leichter Stationssatz.\nHAUPTTEIL · 1 Durchgang, Übergänge direkt und gestoppt:\n1. Run 1000 m @ 4:35/km\n2. Row 1000 m\n3. Run 1000 m @ 4:35/km\n4. Farmers Carry 200 m @ 2×32 kg\n5. Run 1000 m @ 4:35/km\n6. Sandbag Lunges 100 m @ 30 kg\n7. Run 1000 m kontrolliert\n8. Wall Balls 100 @ 9 kg in geplanten Sätzen\nPACING · Keine Station erzwingen. Ziel ist ein vollständiger Durchgang ohne Bruch, nicht eine Bestzeit.\nLOG · alle Splits, Übergänge, RPE, Fueling, Zeitpunkt eines eventuellen Einbruchs.",
        "date": "2026-11-07"
       }
@@ -991,21 +989,29 @@
       },
       {
        "tag": "Mi",
-       "cls": "d-run",
-       "ti": "VO₂ · 6×800 m",
-       "dur": "60–65 min",
-       "p": "Kurzer scharfer Reiz, in Block 2 nicht gefahren. Spitze für die Rennwochen.",
-       "prompt": "ROXFIT · BLOCK 3 W5 · 6×800 M\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 6×800 m @ 3:45–3:52/km.\nERHOLUNG · 90 s lockerer Trab nach Rep 1–5.\nCOOL-DOWN · 10:00 locker.\nSTOP · Wenn zwei Reps hintereinander mehr als 5 s/km einbrechen, Einheit beenden.\nLOG · Pace/HF je Rep.",
+       "cls": "d-opt",
+       "ti": "Longrun Z2",
+       "dur": "80–90 min",
+       "p": "Mittwoch hat am meisten Zeit → langer, ruhiger Lauf. Aerobe Basis und Late-Race-Robustheit, ohne den Montag- und Freitagsreiz zu stören.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 80–90 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 80–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2026-11-11"
       },
       {
        "tag": "Fr",
-       "cls": "d-opt",
-       "ti": "Bike Z2 oder frei",
-       "dur": "70–80 km",
-       "p": "Zwei harte Reize sind gesetzt. Freitag bleibt aerob oder frei.",
-       "prompt": "ROXFIT · FREITAG AEROB ODER FREI\nOPTION A · Bike Z2 70–80 km, RPE 2–3/10.\nOPTION B · komplett frei.\nKein Lauf mit Tempoanteil, keine Stationen.",
+       "cls": "d-run",
+       "ti": "VO₂ · 6×800 m",
+       "dur": "60–65 min",
+       "p": "Kurzer scharfer Reiz, in Block 2 nicht gefahren. Spitze für die Rennwochen. Fällt der Freitag aus: am kinderfreien Wochenende nachholen, sonst streichen — nicht auf Mittwoch legen.",
+       "prompt": "ROXFIT · BLOCK 3 W5 · 6×800 M\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 6×800 m @ 3:45–3:52/km.\nERHOLUNG · 90 s lockerer Trab nach Rep 1–5.\nCOOL-DOWN · 10:00 locker.\nSTOP · Wenn zwei Reps hintereinander mehr als 5 s/km einbrechen, Einheit beenden.\nLOG · Pace/HF je Rep.",
        "date": "2026-11-13"
+      },
+      {
+       "tag": "WE*",
+       "cls": "d-opt",
+       "ti": "Nur wenn kinderfrei · optional",
+       "dur": "45–75 min",
+       "p": "Fr ausgefallen → Freitagseinheit hier nachholen. Fr gemacht → nur Z2 (Bike/Row/Ski) oder frei. Nie ein dritter harter Reiz.",
+       "prompt": "ROXFIT · WOCHENENDE · NUR WENN KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 45–75 min Z2 Bike/Row/Ski, HF <139, oder frei.\nNIE · keine dritte harte Einheit in der Woche."
       }
      ]
     },
@@ -1025,21 +1031,29 @@
       },
       {
        "tag": "Mi",
-       "cls": "d-run",
-       "ti": "Race Pace · 5×1 km",
-       "dur": "55–60 min",
-       "p": "Spezifisch, nicht all-out. Renntempo einschleifen.",
-       "prompt": "ROXFIT · BLOCK 3 W6 · 5×1000 RACE PACE\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 5×1000 m @ 4:05–4:12/km.\nERHOLUNG · 90 s lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nZIEL · letzter Rep sieht kontrolliert aus, kein Endspurt.\nLOG · Pace/HF je Rep.",
+       "cls": "d-opt",
+       "ti": "Longrun Z2 · längster vor Mailand",
+       "dur": "90–100 min",
+       "p": "Mittwoch hat am meisten Zeit → langer, ruhiger Lauf. Aerobe Basis und Late-Race-Robustheit, ohne den Montag- und Freitagsreiz zu stören.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · LÄNGSTER VOR MAILAND · 90–100 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 90–100 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2026-11-18"
       },
       {
        "tag": "Fr",
        "cls": "d-run",
-       "ti": "Easy",
-       "dur": "45 min",
-       "p": "Regeneration einleiten.",
-       "prompt": "ROXFIT · EASY RUN · 45 MIN\nDurchgehend locker, HF bevorzugt 125–139. Kein Tempo, kein Endspurt.",
+       "ti": "Race Pace · 5×1 km",
+       "dur": "55–60 min",
+       "p": "Spezifisch, nicht all-out. Renntempo einschleifen. Fällt der Freitag aus: am kinderfreien Wochenende nachholen, sonst streichen — nicht auf Mittwoch legen.",
+       "prompt": "ROXFIT · BLOCK 3 W6 · 5×1000 RACE PACE\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 5×1000 m @ 4:05–4:12/km.\nERHOLUNG · 90 s lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nZIEL · letzter Rep sieht kontrolliert aus, kein Endspurt.\nLOG · Pace/HF je Rep.",
        "date": "2026-11-20"
+      },
+      {
+       "tag": "WE*",
+       "cls": "d-opt",
+       "ti": "Nur wenn kinderfrei · optional",
+       "dur": "45–75 min",
+       "p": "Fr ausgefallen → Freitagseinheit hier nachholen. Fr gemacht → nur Z2 (Bike/Row/Ski) oder frei. Nie ein dritter harter Reiz.",
+       "prompt": "ROXFIT · WOCHENENDE · NUR WENN KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 45–75 min Z2 Bike/Row/Ski, HF <139, oder frei.\nNIE · keine dritte harte Einheit in der Woche."
       }
      ]
     },
@@ -1059,21 +1073,29 @@
       },
       {
        "tag": "Mi",
-       "cls": "d-run",
-       "ti": "Tempo · 4×1 km",
-       "dur": "50 min",
-       "p": "Kurz und knackig.",
-       "prompt": "ROXFIT · TAPER RUN · 4×1000 M\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 4×1000 m @ 4:05–4:12/km.\nERHOLUNG · 2:00 sehr locker.\nCOOL-DOWN · 10:00 locker.\nRPE-DECKEL · 7/10.",
+       "cls": "d-opt",
+       "ti": "Longrun Z2 · Taper",
+       "dur": "60–70 min",
+       "p": "Mittwoch hat am meisten Zeit → langer, ruhiger Lauf. Aerobe Basis und Late-Race-Robustheit, ohne den Montag- und Freitagsreiz zu stören.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · TAPER · 60–70 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 60–70 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nTAPER · bewusst kürzer als die Vorwochen.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2026-11-25"
       },
       {
        "tag": "Fr",
-       "cls": "d-opt",
-       "ti": "Easy oder frei",
-       "dur": "0–45 min",
-       "p": "Nach Gefühl.",
-       "prompt": "ROXFIT · OPTIONAL\nEntweder frei oder 30–45 min sehr locker, HF <135.\nKeine Strides, keine Stationen.",
+       "cls": "d-run",
+       "ti": "Tempo · 4×1 km",
+       "dur": "50 min",
+       "p": "Kurz und knackig. Fällt der Freitag aus: am kinderfreien Wochenende nachholen, sonst streichen — nicht auf Mittwoch legen.",
+       "prompt": "ROXFIT · TAPER RUN · 4×1000 M\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 4×1000 m @ 4:05–4:12/km.\nERHOLUNG · 2:00 sehr locker.\nCOOL-DOWN · 10:00 locker.\nRPE-DECKEL · 7/10.",
        "date": "2026-11-27"
+      },
+      {
+       "tag": "WE*",
+       "cls": "d-opt",
+       "ti": "Nur wenn kinderfrei · optional",
+       "dur": "45–75 min",
+       "p": "Fr ausgefallen → Freitagseinheit hier nachholen. Fr gemacht → nur Z2 (Bike/Row/Ski) oder frei. Nie ein dritter harter Reiz.",
+       "prompt": "ROXFIT · WOCHENENDE · NUR WENN KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 45–75 min Z2 Bike/Row/Ski, HF <139, oder frei.\nNIE · keine dritte harte Einheit in der Woche."
       }
      ]
     },
@@ -1094,11 +1116,20 @@
       {
        "tag": "Mi",
        "cls": "d-run",
-       "ti": "Aktivierung",
+       "ti": "Aktivierung · kein Longrun",
        "dur": "30–35 min",
-       "p": "Letzter Reiz vor der Anreise.",
+       "p": "Race-Week: kein Longrun. Kurz, locker, ein paar Temposchritte.",
        "prompt": "ROXFIT · AKTIVIERUNG · 30–35 MIN\n20:00 locker.\nDanach 6×30 s @ Renntempo, je 90 s sehr locker.\nAuslaufen.\nKein Volumen, kein Test.",
        "date": "2026-12-02"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Shakeout / Anreise",
+       "dur": "0–20 min",
+       "p": "Je nach Anreise. 15–20 min sehr locker + 3 Strides oder komplett frei.",
+       "prompt": "ROXFIT · SHAKEOUT\n15–20 min sehr locker, HF <135, danach 3×15 s Strides.\nAlternativ frei, wenn die Anreise lang ist.\nAbends: kohlenhydratreich, gewohnte Speisen.",
+       "date": "2026-12-04"
       },
       {
        "tag": "Sa/So",
@@ -1128,9 +1159,9 @@
       {
        "tag": "Mi",
        "cls": "d-run",
-       "ti": "Easy Run",
-       "dur": "40–50 min",
-       "p": "Verträglichkeit prüfen.",
+       "ti": "Easy Longrun · Verträglichkeit",
+       "dur": "45–60 min",
+       "p": "Erster längerer Lauf nach Mailand. Nur verlängern, wenn Waden/Rücken ruhig sind.",
        "prompt": "ROXFIT · POST-RACE EASY · 40–50 MIN\nDurchgehend locker, HF <145, bevorzugt <139.\nLOG · Beingefühl, Waden, Rücken.",
        "date": "2026-12-09"
       },
@@ -1161,21 +1192,310 @@
       },
       {
        "tag": "Mi",
-       "cls": "d-run",
-       "ti": "Schwelle · 2×4 km",
-       "dur": "65 min",
-       "p": "Lange kontrollierte Schwelle als Standortbestimmung vor dem Taper.",
-       "prompt": "ROXFIT · BLOCK 3 W10 · 2×4 KM SCHWELLE\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 2×4000 m @ 4:08–4:13/km.\nERHOLUNG · 3:00 lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace/HF je Block, Drift innerhalb der Blöcke.",
+       "cls": "d-opt",
+       "ti": "Longrun Z2",
+       "dur": "80–90 min",
+       "p": "Mittwoch hat am meisten Zeit → langer, ruhiger Lauf. Aerobe Basis und Late-Race-Robustheit, ohne den Montag- und Freitagsreiz zu stören.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 80–90 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 80–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2026-12-16"
       },
       {
        "tag": "Fr",
-       "cls": "d-opt",
-       "ti": "Easy · Übergang in den Taper",
-       "dur": "45 min",
-       "p": "Ab hier zählt nur noch Frische.",
-       "prompt": "ROXFIT · EASY · 45 MIN\nDurchgehend locker, HF bevorzugt <139.\nKein Tempo.\nHINWEIS · Ab 21.12. Feiertags-Übergang, danach Block 4 Richtung Basel 12.–14.02.: Volumen runter, Intensität halten.",
+       "cls": "d-run",
+       "ti": "Schwelle · 2×4 km",
+       "dur": "65 min",
+       "p": "Lange kontrollierte Schwelle als Standortbestimmung vor dem Taper. Fällt der Freitag aus: am kinderfreien Wochenende nachholen, sonst streichen — nicht auf Mittwoch legen.",
+       "prompt": "ROXFIT · BLOCK 3 W10 · 2×4 KM SCHWELLE\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 2×4000 m @ 4:08–4:13/km.\nERHOLUNG · 3:00 lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace/HF je Block, Drift innerhalb der Blöcke.",
        "date": "2026-12-18"
+      },
+      {
+       "tag": "WE*",
+       "cls": "d-opt",
+       "ti": "Nur wenn kinderfrei · optional",
+       "dur": "45–75 min",
+       "p": "Fr ausgefallen → Freitagseinheit hier nachholen. Fr gemacht → nur Z2 (Bike/Row/Ski) oder frei. Nie ein dritter harter Reiz.",
+       "prompt": "ROXFIT · WOCHENENDE · NUR WENN KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 45–75 min Z2 Bike/Row/Ski, HF <139, oder frei.\nNIE · keine dritte harte Einheit in der Woche."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "short": "B4",
+   "from": "2026-12-21",
+   "to": "2027-02-14",
+   "label": "Block 4 · Feiertage → Basel-Spezifik → Taper · Basel 12.–14.02.27 · Ziel Sub-70",
+   "weeks": [
+    {
+     "n": "11",
+     "t": "Feiertage · Übergang 1",
+     "d": "21.–27. Dez",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "HYROX moderat · Erhalt",
+       "dur": "60 min",
+       "p": "Lasten halten, Volumen ~70 %. Kein Formaufbau, aber kein Loch.",
+       "prompt": "ROXFIT · FEIERTAGE · ERHALT\nWARM-UP · 10:00 locker.\nHAUPTTEIL · 3 Runden ruhig: Run 800 m @ 4:35 · Sled Push 12,5 m @ 190 kg · Wall Balls 20 @ 9 kg · Lunges 30 m @ 30 kg.\nRUNDENPAUSE · 2:30.\nRPE-DECKEL · 7/10.",
+       "date": "2026-12-21"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-opt",
+       "ti": "Longrun Z2 · Feiertage",
+       "dur": "75–90 min",
+       "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · FEIERTAGE · 75–90 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 75–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "date": "2026-12-23"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Weihnachten · frei",
+       "dur": "0 min",
+       "p": "25.12. frei. Wenn kinderfreie Tage anstehen: dort 45 min Z2 oder Erg.",
+       "prompt": "ROXFIT · FREI\nKein Training geplant. Optional an einem kinderfreien Tag 45 min Z2 (Bike/Row/Ski), HF <139.",
+       "date": "2026-12-25"
+      }
+     ]
+    },
+    {
+     "n": "12",
+     "t": "Feiertage · Übergang 2",
+     "d": "28. Dez–3. Jan",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Erg + Stationen · locker",
+       "dur": "60 min",
+       "p": "Ski/Row-Intervalle + Technik an Sled/WB. Frisch ins neue Jahr.",
+       "prompt": "ROXFIT · FEIERTAGE · ERG + TECHNIK\nWARM-UP · 10:00 locker.\nA · 4×500 m Ski @ 2:02–2:06/500 · Pause 90 s.\nB · 4×500 m Row @ 1:55–2:00/500 · Pause 90 s.\nC · Wall Balls 3×15 @ 9 kg · Sled Push 3×12,5 m @ 180 kg.\nRPE-DECKEL · 7/10.",
+       "date": "2026-12-28"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-opt",
+       "ti": "Longrun Z2 · Feiertage",
+       "dur": "75–90 min",
+       "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · FEIERTAGE · 75–90 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 75–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "date": "2026-12-30"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-opt",
+       "ti": "Neujahr · frei",
+       "dur": "0 min",
+       "p": "01.01. frei. Kinderfreies Wochenende → 8×400 m locker-zügig oder Z2.",
+       "prompt": "ROXFIT · FREI / OPTIONAL\nWenn kinderfrei: 15:00 locker + 8×400 m @ 3:55–4:00/km, 60 s Trab. Sonst frei.",
+       "date": "2027-01-01"
+      }
+     ]
+    },
+    {
+     "n": "13",
+     "t": "Basel-Spezifik · Station A",
+     "d": "4.–10. Jan",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Teuerste Station A + compromised",
+       "dur": "75–85 min",
+       "p": "Inhalt richtet sich nach den Mailand-Splits: die zwei teuersten Stationen (Ist vs. Sub-70-Budget unter Daten → Splits) bekommen das Volumen.",
+       "prompt": "ROXFIT · BLOCK 4 W13 · STATION A\nWARM-UP · 12:00 locker.\nHAUPTTEIL · 4 Runden: Run 1000 m @ 4:20–4:25 → teuerste Mailand-Station (Push/Pull: 25 m @ PRO · WB: 30 @ 9 kg · Lunges: 50 m @ 30 kg).\nRUNDENPAUSE · 2:00.\nB · 3×20 Wall Balls @ 9 kg · 30 s Pause.\nLOG · Stationszeit, Folgelauf, RPE.",
+       "date": "2027-01-04"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-opt",
+       "ti": "Longrun Z2",
+       "dur": "85–95 min",
+       "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 85–95 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 85–95 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "date": "2027-01-06"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "8×1000 · 90 s",
+       "dur": "65–70 min",
+       "p": "Laufgeschwindigkeit halten.",
+       "prompt": "ROXFIT · 8×1000\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 8×1000 m @ 4:00–4:05/km · 90 s Trab.\nCOOL-DOWN · 10:00.\nLOG · Pace/HF je Rep.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
+       "date": "2027-01-08"
+      }
+     ]
+    },
+    {
+     "n": "14",
+     "t": "Basel-Spezifik · Station B",
+     "d": "11.–17. Jan",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Zweitteuerste Station B + Sled",
+       "dur": "75–85 min",
+       "p": "Inhalt richtet sich nach den Mailand-Splits: die zwei teuersten Stationen (Ist vs. Sub-70-Budget unter Daten → Splits) bekommen das Volumen.",
+       "prompt": "ROXFIT · BLOCK 4 W14 · STATION B\nWARM-UP · 12:00 locker.\nHAUPTTEIL · 4 Runden: Sled Push 12,5 m @ 202 kg → Run 600 m @ 4:25 → zweitteuerste Mailand-Station → Run 600 m @ 4:25.\nRUNDENPAUSE · 2:00.\nLOG · Splits, Run-Drift nach Sled.",
+       "date": "2027-01-11"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-opt",
+       "ti": "Longrun Z2 · längster Lauf",
+       "dur": "90–100 min",
+       "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · LÄNGSTER LAUF · 90–100 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 90–100 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nOPTIONAL · letzte 15 min @ 4:45–4:55, nur bei stabiler HF.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "date": "2027-01-13"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Schwelle · 3×3 km",
+       "dur": "65–70 min",
+       "p": "Schwelle knapp unter IAAS 161.",
+       "prompt": "ROXFIT · SCHWELLE 3×3 KM\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 3×3000 m @ 4:10–4:15/km · 2:30 Trab.\nCOOL-DOWN · 10:00.\nHF-DECKEL · 161.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
+       "date": "2027-01-15"
+      }
+     ]
+    },
+    {
+     "n": "15",
+     "t": "Benchmark 4 · Vollsim",
+     "d": "18.–24. Jan",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "★ Benchmark 4 · PRO-Vollsimulation",
+       "dur": "90 min",
+       "p": "Letzte Vollsim vor Basel, mit Sub-70-Pacing und vollem Fueling. Gate: ≤74 Sim hält Sub-70 im Rennen realistisch (Rennumgebung + Frische).",
+       "prompt": "ROXFIT · BENCHMARK 4 · PRO-VOLLSIM\nWARM-UP · 12:00 + Stationen kurz anfahren.\nHAUPTTEIL · 8×1 km + alle 8 Stationen auf PRO-Last, Pacing nach Sub-70-Budget (Daten → Splits).\nFUELING · Renn-Protokoll 1:1.\nLOG · alle 16 Splits, Roxzone, HF je Run, RPE je Station.",
+       "date": "2027-01-18"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-opt",
+       "ti": "Longrun Z2 · kurz",
+       "dur": "60–70 min",
+       "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · KURZ · 60–70 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 60–70 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nERHOLUNG · nach der Vollsim bewusst kürzer.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "date": "2027-01-20"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Race Pace · 5×1 km",
+       "dur": "55–60 min",
+       "p": "Renntempo einschleifen, nicht all-out.",
+       "prompt": "ROXFIT · 5×1000 RACE PACE\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 5×1000 m @ 4:10–4:15/km · 90 s Trab.\nCOOL-DOWN · 10:00.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
+       "date": "2027-01-22"
+      }
+     ]
+    },
+    {
+     "n": "16",
+     "t": "Peak · dichteste Woche",
+     "d": "25.–31. Jan",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Compromised · Peak",
+       "dur": "80 min",
+       "p": "Letzter grosser HYROX-Reiz. Schwerpunkte aus Benchmark 4.",
+       "prompt": "ROXFIT · BLOCK 4 W16 · PEAK COMPROMISED\nWARM-UP · 12:00.\nHAUPTTEIL · 4 Runden: Run 1000 m @ 4:20 → Sled Push 12,5 m @ 202 kg → Sled Pull 12,5 m @ 153 kg → Lunges 50 m @ 30 kg → Wall Balls 25 @ 9 kg.\nRUNDENPAUSE · 2:00.\nGATE · Run 4 ≤10 s/km langsamer als Run 1.",
+       "date": "2027-01-25"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-opt",
+       "ti": "Longrun Z2",
+       "dur": "80–90 min",
+       "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 80–90 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 80–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "date": "2027-01-27"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "VO₂ · 6×800 m",
+       "dur": "60 min",
+       "p": "Kurzer, scharfer Reiz vor dem Taper.",
+       "prompt": "ROXFIT · 6×800\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 6×800 m @ 3:45–3:50/km · 90 s Trab.\nCOOL-DOWN · 10:00.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
+       "date": "2027-01-29"
+      }
+     ]
+    },
+    {
+     "n": "17",
+     "t": "Taper Basel · Woche 1",
+     "d": "1.–7. Feb",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Volumen −40 %, Intensität halten",
+       "dur": "50 min",
+       "p": "Nichts mehr verbessern wollen.",
+       "prompt": "ROXFIT · TAPER BASEL W1\nWARM-UP · 10:00.\nA · Sled Push 3×12,5 m @ 195 kg · Pause 2:30.\nB · Lunges 2×40 m @ 30 kg · Pause 2:00.\nC · Wall Balls 3×20 @ 9 kg · Pause 75 s.\nKein Finisher.",
+       "date": "2027-02-01"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-opt",
+       "ti": "Longrun Z2 · Taper",
+       "dur": "50–60 min",
+       "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · TAPER · 50–60 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 50–60 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nTAPER · deutlich kürzer.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "date": "2027-02-03"
+      },
+      {
+       "tag": "Fr",
+       "cls": "d-run",
+       "ti": "Tempo · 4×1 km",
+       "dur": "50 min",
+       "p": "Kurz und knackig.",
+       "prompt": "ROXFIT · 4×1000\nWARM-UP · 15:00.\nHAUPTTEIL · 4×1000 m @ 4:05–4:10/km · 2:00 locker.\nRPE-DECKEL · 7/10.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
+       "date": "2027-02-05"
+      }
+     ]
+    },
+    {
+     "n": "18",
+     "t": "Basel · WM-Qualifier",
+     "d": "8.–14. Feb",
+     "days": [
+      {
+       "tag": "Mo",
+       "cls": "d-sim",
+       "ti": "Primer · kurz",
+       "dur": "35–40 min",
+       "p": "Nur Systeme wecken.",
+       "prompt": "ROXFIT · BASEL PRIMER\nWARM-UP · 10:00.\nA · Wall Balls 2×15 @ 9 kg · B · Lunges 2×20 m @ 30 kg · C · Sled Push 2×12,5 m @ RPE 6–7 · D · 4×20 s Strides.\nMit Reserve enden.",
+       "date": "2027-02-08"
+      },
+      {
+       "tag": "Mi",
+       "cls": "d-run",
+       "ti": "Aktivierung · kein Longrun",
+       "dur": "30 min",
+       "p": "Race-Week: kurz, locker, 6×30 s Renntempo.",
+       "prompt": "ROXFIT · AKTIVIERUNG\n20:00 locker + 6×30 s @ Renntempo, je 90 s locker. Auslaufen.",
+       "date": "2027-02-10"
+      },
+      {
+       "tag": "Fr–So",
+       "cls": "d-sim",
+       "ti": "★ HYROX Basel · PRO · AG 40–44",
+       "dur": "RACE",
+       "p": "A-Rennen, WM-Slot. Ziel Sub-70. Pacing-Plan nach Mailand + Benchmark 4 neu rechnen.",
+       "prompt": "HYROX BASEL · PRO · RACE LOG\nVORHER · Schlaf, Ruhepuls, HRV. Frühstück 1–2 g KH/kg 2–3 h vorher. Koffein nur wie erprobt.\nWÄHREND · Pacing-Plan Basel (Daten → Pacing, nach Benchmark 4 aktualisiert).\nLOG · 8 Run-Splits, 8 Stationen, Roxzone, Fueling.",
+       "date": "2027-02-12"
       }
      ]
     }
