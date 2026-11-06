@@ -1,6 +1,17 @@
 {
  "entries": [
   {
+   "id": "2026-11-06-thr",
+   "date": "2026-11-06",
+   "type": "run",
+   "title": "Schwelle · 5×1000 m · Rapperswil-Jona",
+   "rpe": 7,
+   "body": "10,9 km · 52:24. EL 3 km (5:09 / 4:49 / 5:10 — 2. km zu schnell, HF 154). 5×1000: 4:04 / 4:03 / 4:05 / 4:05 / 4:05 · Ø HF 154 / 154 / 157 / 158 / 159 · max 163–164. Pause ~200 m Trab, 75–81 s. AL 2 km. Bodenkontakt/vertikales Verhältnis über alle Wdh. flach — kein Formzerfall. 2 Tage nach HYROX Gate, 3 Tage vor Benchmark 3. Vergleich 01.07.: 8×1000 Ø 3:58 @ 154 — etwa gleiches Niveau.",
+   "metrics": {
+    "int1k": "4:04"
+   }
+  },
+  {
    "id": "2026-11-04-hyrox-gate",
    "date": "2026-11-04",
    "type": "sim",
