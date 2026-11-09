@@ -1,6 +1,16 @@
 {
  "entries": [
   {
+   "id": "2026-11-09-bench3",
+   "date": "2026-11-09",
+   "type": "bench",
+   "title": "Benchmark 3 · zweite Rennhälfte · 51:33",
+   "body": "Laufband + Stationen, alles am Stück. Splits (ROXFIT-Laps um 1 verschoben, korrigiert über Garmin-Distanzen): Run 4:15 · BBJ 80 m 4:23 · Run 4:35 · Row 1000 m 4:23 · Run 4:46 · Farmers 150 m (10-m-Shuttles, Kurzhanteln) 2:03 · Run 4:46 · Lunges 80 m Langhantel @ 30 kg 5:44 · Run 5:30 · Wall Balls 80 @ 9 kg 5:30. For Time 51:33. Ø HF je Abschnitt 142/154/155/145/153/156/157/155. ABWEICHUNGEN vom Plan: Lunges + WB 80 statt 100, Farmers 150 statt 200 m in Shuttles, Lunges Langhantel statt Sandbag. BEFUND: Runs driften 4:15 → 4:35 → 4:46 → 4:46 → 5:30 (Run 1 zu schnell vs. 4:35-Vorgabe; grösster Einbruch nach Lunges). BBJ und Row über Genf-Niveau (ohne Vorermüdung 1. Hälfte). Lunges hochgerechnet ~7:10/100 m = schwächste Station relativ zum Ziel. WB 80 in 5:30 (hochgerechnet ~6:50/100). FUELING: Frühstück 05:30, danach bis zum Training nichts; 45 min vorher 1 Gel, 10 min vorher Winforce (fettlastig), vor Row 30 g KH-Gel. Protokoll (≥100 g KH 2,5–3 h vorher) NICHT umgesetzt → Fueling für Mailand weiterhin ungetestet.",
+   "metrics": {
+    "comprun": "4:54"
+   }
+  },
+  {
    "id": "2026-11-06-thr",
    "date": "2026-11-06",
    "type": "run",
