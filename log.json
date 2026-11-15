@@ -1,6 +1,14 @@
 {
  "entries": [
   {
+   "id": "2026-11-15-longrun",
+   "date": "2026-11-15",
+   "type": "easy",
+   "title": "Longrun Z2 · 19,0 km @ 5:20",
+   "body": "Volketswil · 19,01 km · 1:41:17 Bewegungszeit · Ø 5:20/km · 158 Hm · 6 °C. km-Splits 5:42 / 5:26 / 5:19 / 5:14 / 5:21 / 5:24 / 5:06 / 5:19 / 6:02 / 5:18 / 5:12 / 5:13 / 5:10 / 5:17 / 5:13 / 5:10 / 5:09 / 5:37 (+23 Hm) / 5:03. HF km 2–9 Ø ~129, km 10–19 Ø ~139, max ~144 — durchgehend ≤145. Pace:HF-Entkopplung 2. vs. 1. Hälfte ca. 4 % (km 1 als Warm-up ausgenommen). Zwei kurze Stopps (~45 min, ~68 min). Ersatz für den ausgefallenen Mi-Longrun; länger als empfohlen (60–75 min), Tag vor Peak-Compromised. Vergleich 28.10.: 18 km @ 5:21, HF 135–145 — ähnliches Niveau.",
+   "metrics": {}
+  },
+  {
    "id": "2026-11-14-rp-sled",
    "date": "2026-11-14",
    "type": "sim",
