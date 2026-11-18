@@ -1,6 +1,14 @@
 {
  "entries": [
   {
+   "id": "2026-11-18-row-damper",
+   "date": "2026-11-18",
+   "type": "bench",
+   "title": "RowErg-Damper-Test · 4×1000 m @ ~2:01/500",
+   "body": "Ersatz für Longrun (Knie gereizt nach Sa Sled / So 19 km / Mo Lunges). WU 2000 m Damper 6 @ ~2:00/500. Danach je 1000 m mit ~2:00 Pause (Garmin-Laps): Damper 5 4:06 · Damper 3 4:02 · Damper 4 4:03 · Damper 2 4:05. Ø 23 spm (max 34), Ø HF 134; HF in den Intervallen ~145–152, steigt über die Session (Reihenfolge-Drift, daher Unterschiede zwischen Dampern nicht sauber trennbar; HF-Spitzen 170/178 an Übergängen = Artefakte). Subjektiv Damper 3 = Sweetspot. Drag Factor noch nicht notiert — für Mailand Drag Factor statt Damper-Zahl übernehmen. Danach 30 min Bike geplant. Vergleich Genf: Row 4:42 = 2:21/500 → Testpace war schneller als Renn-Ist.",
+   "metrics": {}
+  },
+  {
    "id": "2026-11-16-peak-comp",
    "date": "2026-11-16",
    "type": "sim",
