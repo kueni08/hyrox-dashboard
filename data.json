@@ -29,6 +29,10 @@
    "fix": 1
   },
   {
+   "d": "Di/Do",
+   "t": "Bike Z2<br>zu Hause"
+  },
+  {
    "d": "Mi",
    "t": "Longrun<br>Z2 · lang",
    "fix": 1
@@ -42,7 +46,7 @@
    "t": "ISO<br>Patellasehne"
   }
  ],
- "rhythmNote": "Ab 07.12.: <b>Mo Kraft A + HYROX</b> (Kraft zuerst, Sehne frisch) · <b>Mi Longrun Z2</b> (HF ≤145) · <b>Fr Laufqualität + Kraft B</b> (Lauf zuerst). Weiter <b>zwei harte Tage pro Woche</b> — die Kraft liegt auf denselben Tagen wie die harten Reize, damit Mi und das Wochenende locker bleiben. <b>ISO Patellasehne</b> (5×45 s) täglich bzw. 3×45 s im Warm-up. Knie-Regel: Schmerz ≤3/10, am Morgen danach nicht schlechter. Wochenende nur wenn kinderfrei (TimeTree: frei 12./13.12., 26./27.12.; teilweise 9./10.01., 23./24.01.). Fällt Fr aus: am kinderfreien Wochenende nachholen, sonst Kraft B streichen — nie auf Mi schieben.",
+ "rhythmNote": "Ab 07.12.: <b>Mo Kraft A + HYROX</b> (Kraft zuerst, Sehne frisch) · <b>Di/Do Bike Z2 zu Hause</b> (40–60 min, HF 115–135, auch wenn die Kids da sind) · <b>Mi Longrun Z2</b> (HF ≤145) · <b>Fr Laufqualität + Kraft B</b> (Lauf zuerst). Weiter <b>zwei harte Tage pro Woche</b> — die Kraft liegt auf denselben Tagen wie die harten Reize, damit Di, Mi, Do und das Wochenende locker bleiben. Die Bike-Einheiten sind reines Zusatzvolumen: nie als Intervalle, nie als Ersatz für einen ausgefallenen harten Tag. <b>ISO Patellasehne</b> (5×45 s) täglich bzw. 3×45 s im Warm-up. Knie-Regel: Schmerz ≤3/10, am Morgen danach nicht schlechter. Wochenende nur wenn kinderfrei (TimeTree: frei 12./13.12., 26./27.12.; teilweise 9./10.01., 23./24.01.). Fällt Fr aus: am kinderfreien Wochenende nachholen, sonst Kraft B streichen — nie auf Mi schieben.",
  "phases": [
   {
    "h": "Block 1 · Fundament ✓",
@@ -94,7 +98,7 @@
   {
    "h": "Block 4 · Basel-Spezifik",
    "wk": "4.1–31.1 · 4 Wo",
-   "f": "NEU ab 07.12.: 2× pro Woche schweres Krafttraining (Heavy Slow Resistance, Tempo 3 s/3 s) — Mo Kraft A vor dem HYROX-Teil, Fr Kraft B nach der Laufqualität. Progression 15 → 12 → 10 → 8 → 6 Wdh. ISO (5×45 s) vor jeder Einheit bzw. an freien Tagen. W13–W14: die zwei teuersten Mailand-Stationen. W15: ★ Benchmark 4 (nur 1× Kraft). W16: Peak, Kraft auf Erhalt.",
+   "f": "NEU ab 07.12.: Di/Do Bike Z2 zu Hause (Zusatzvolumen, 40–60 min) und 2× pro Woche schweres Krafttraining (Heavy Slow Resistance, Tempo 3 s/3 s) — Mo Kraft A vor dem HYROX-Teil, Fr Kraft B nach der Laufqualität. Progression 15 → 12 → 10 → 8 → 6 Wdh. ISO (5×45 s) vor jeder Einheit bzw. an freien Tagen. W13–W14: die zwei teuersten Mailand-Stationen. W15: ★ Benchmark 4 (nur 1× Kraft). W16: Peak, Kraft auf Erhalt.",
    "tags": [
     "Kraft 2×/Woche",
     "Benchmark 4 · 18.01.",
@@ -1136,6 +1140,15 @@
        "date": "2026-11-30"
       },
       {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 20–30 min",
+       "dur": "20–30 min",
+       "date": "2026-12-01",
+       "p": "Race Week: nur Beine lockern, wenn das Bike schon steht. Optional. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 20–30 min\nINTENSITÄT · HF <120 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Mi",
        "cls": "d-run",
        "ti": "Aktivierung · kein Longrun",
@@ -1187,6 +1200,15 @@
        "date": "2026-12-07"
       },
       {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30–40 min",
+       "dur": "30–40 min",
+       "date": "2026-12-08",
+       "p": "Erholung nach Mailand: Durchblutung, keine Belastung. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30–40 min\nINTENSITÄT · HF <125 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Mi",
        "cls": "d-run",
        "ti": "Easy Longrun · Verträglichkeit",
@@ -1194,6 +1216,15 @@
        "p": "Erster längerer Lauf nach Mailand. Nur verlängern, wenn Waden/Rücken ruhig sind.",
        "prompt": "ROXFIT · POST-RACE EASY · 40–50 MIN\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nDurchgehend locker, HF <145, bevorzugt <139.\nLOG · Beingefühl, Waden, Rücken, Knie 0–10.",
        "date": "2026-12-09"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30–45 min",
+       "dur": "30–45 min",
+       "date": "2026-12-10",
+       "p": "Lockeres Zusatzvolumen vor dem Kraft-Einstieg am Fr. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30–45 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
@@ -1237,6 +1268,15 @@
        "date": "2026-12-14"
       },
       {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 40–50 min",
+       "dur": "40–50 min",
+       "date": "2026-12-15",
+       "p": "Tag nach Kraft A + HYROX: lockere Durchblutung. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 40–50 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Mi",
        "cls": "d-opt",
        "ti": "Longrun Z2",
@@ -1244,6 +1284,15 @@
        "p": "Mittwoch hat am meisten Zeit → langer, ruhiger Lauf. Aerobe Basis und Late-Race-Robustheit, ohne den Montag- und Freitagsreiz zu stören.",
        "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 80–90 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 80–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2026-12-16"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2026-12-17",
+       "p": "Zusätzliches aerobes Volumen ohne Laufbelastung. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
@@ -1288,6 +1337,15 @@
        "date": "2026-12-21"
       },
       {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2026-12-22",
+       "p": "Ferienwoche: optional, nur wenn die Beine frisch sind — die Woche hat bereits 5 Einheiten. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Mi",
        "cls": "d-opt",
        "ti": "Longrun Z2 · lang",
@@ -1295,6 +1353,15 @@
        "p": "Mehr Zeit in den Ferien → längster Lauf des Blocks.",
        "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 90–100 MIN\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 90–100 min durchgehend, HF ≤145. Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel.\nNICHT · kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2026-12-23"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30–45 min",
+       "dur": "30–45 min",
+       "date": "2026-12-24",
+       "p": "Optional, sehr locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30–45 min\nINTENSITÄT · HF <130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
@@ -1340,6 +1407,15 @@
        "date": "2026-12-28"
       },
       {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 40–50 min",
+       "dur": "40–50 min",
+       "date": "2026-12-29",
+       "p": "Entlastungswoche: locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 40–50 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Mi",
        "cls": "d-opt",
        "ti": "Longrun Z2 · kurz",
@@ -1347,6 +1423,15 @@
        "p": "Reduziert nach der Volumenwoche.",
        "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 60–70 MIN\nDurchgehend locker, HF ≤145.\nLOG · Distanz, Ø HF.",
        "date": "2026-12-30"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 40–60 min",
+       "dur": "40–60 min",
+       "date": "2026-12-31",
+       "p": "Locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 40–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
@@ -1374,6 +1459,15 @@
        "date": "2027-01-04"
       },
       {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2027-01-05",
+       "p": "Tag nach Kraft A + Station: lockere Durchblutung. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Mi",
        "cls": "d-opt",
        "ti": "Longrun Z2",
@@ -1381,6 +1475,15 @@
        "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
        "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 85–95 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 85–95 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2027-01-06"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2027-01-07",
+       "p": "Zusätzliches aerobes Volumen. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nOPTIONAL · letzte 10 min Kadenz 100–110 (locker, nicht schwer).\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
@@ -1416,6 +1519,15 @@
        "date": "2027-01-11"
       },
       {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2027-01-12",
+       "p": "Tag nach Kraft A + Station B. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Mi",
        "cls": "d-opt",
        "ti": "Longrun Z2 · längster Lauf",
@@ -1423,6 +1535,15 @@
        "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
        "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · LÄNGSTER LAUF · 90–100 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 90–100 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nOPTIONAL · letzte 15 min @ 4:45–4:55, nur bei stabiler HF.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2027-01-13"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2027-01-14",
+       "p": "Zusätzliches aerobes Volumen. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
@@ -1458,6 +1579,15 @@
        "date": "2027-01-18"
       },
       {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30–40 min",
+       "dur": "30–40 min",
+       "date": "2027-01-19",
+       "p": "Tag nach Benchmark 4: nur Erholung. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30–40 min\nINTENSITÄT · HF <120 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Mi",
        "cls": "d-opt",
        "ti": "Longrun Z2 · kurz",
@@ -1465,6 +1595,15 @@
        "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
        "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · KURZ · 60–70 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 60–70 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nERHOLUNG · nach der Vollsim bewusst kürzer.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2027-01-20"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45 min",
+       "dur": "45 min",
+       "date": "2027-01-21",
+       "p": "Locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
@@ -1500,6 +1639,15 @@
        "date": "2027-01-25"
       },
       {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 40–50 min",
+       "dur": "40–50 min",
+       "date": "2027-01-26",
+       "p": "Peak-Woche: Tag nach Kraft A + Compromised, nur locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 40–50 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Mi",
        "cls": "d-opt",
        "ti": "Longrun Z2",
@@ -1507,6 +1655,15 @@
        "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
        "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 80–90 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 80–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2027-01-27"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2027-01-28",
+       "p": "Locker, letzte Volumen-Einheit vor dem Taper. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
@@ -1542,6 +1699,15 @@
        "date": "2027-02-01"
       },
       {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30–40 min",
+       "dur": "30–40 min",
+       "date": "2027-02-02",
+       "p": "Taper: kürzer. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30–40 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Mi",
        "cls": "d-opt",
        "ti": "Longrun Z2 · Taper",
@@ -1549,6 +1715,15 @@
        "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
        "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · TAPER · 50–60 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 50–60 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nTAPER · deutlich kürzer.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2027-02-03"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30 min",
+       "dur": "30 min",
+       "date": "2027-02-04",
+       "p": "Taper: kurz und locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30 min\nINTENSITÄT · HF <125 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
@@ -1582,6 +1757,15 @@
        "p": "Nur Systeme wecken.",
        "prompt": "ROXFIT · BASEL PRIMER\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 10:00.\nA · Wall Balls 2×15 @ 9 kg · B · Lunges 2×20 m @ 30 kg · C · Sled Push 2×12,5 m @ RPE 6–7 · D · 4×20 s Strides.\nMit Reserve enden.",
        "date": "2027-02-08"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 20–30 min",
+       "dur": "20–30 min",
+       "date": "2027-02-09",
+       "p": "Race Week: nur Beine lockern. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 20–30 min\nINTENSITÄT · HF <120 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
