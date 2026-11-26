@@ -7,7 +7,8 @@
   "facts": [
    "Genf PRO · <b>1:22:25</b> · echter Race-Benchmark",
    "Mailand · <b>5.–6.12.2026 fix</b> · erster AG40–44 WM-Qualifier",
-   "Basel 12.–14.02.27 bleibt A-Rennen · Ziel <b>Sub-70</b>"
+   "Basel 12.–14.02.27 bleibt A-Rennen · Ziel <b>Sub-70</b>",
+   "Knie · beginnendes Jumper's Knee (Physio 26.11.) · ISO täglich, Kraft 2×/Wo ab 07.12."
   ],
   "tiles": [
    {
@@ -19,13 +20,17 @@
     "l": "Mailand PRO · fix"
    }
   ],
-  "stand": "04.11.2026"
+  "stand": "26.11.2026"
  },
  "rhythm": [
   {
    "d": "Mo",
-   "t": "HYROX<br>Qualität",
+   "t": "Kraft A<br>+ HYROX",
    "fix": 1
+  },
+  {
+   "d": "Di/Do",
+   "t": "Bike Z2<br>zu Hause"
   },
   {
    "d": "Mi",
@@ -34,14 +39,14 @@
   },
   {
    "d": "Fr",
-   "t": "Lauf-<br>qualität"
+   "t": "Lauf-<br>qualität + Kraft B"
   },
   {
-   "d": "WE",
-   "t": "nur kinderfrei<br>nachholen / Z2"
+   "d": "tägl.",
+   "t": "ISO<br>Patellasehne"
   }
  ],
- "rhythmNote": "Fixe Tage <b>Mo + Mi</b> (mehr Zeit) · <b>Fr</b> meistens · Wochenende nur wenn kinderfrei (TimeTree: frei 14./15.11., 21./22.11., 12./13.12., 26./27.12.; teilweise 9./10.01., 23./24.01.). <b>Zwei harte Reize pro Woche:</b> Mo HYROX-spezifisch, Fr Laufqualität. <b>Mi Longrun Z2</b> (HF ≤145) — liegt 48 h nach Mo und 48 h vor Fr, stört keinen der beiden Reize. Fällt Fr aus: am kinderfreien Wochenende nachholen, sonst streichen — nie auf Mi schieben. Wochenende nie als dritter harter Reiz.",
+ "rhythmNote": "Ab 07.12.: <b>Mo Kraft A + HYROX</b> (Kraft zuerst, Sehne frisch) · <b>Di/Do Bike Z2 zu Hause</b> (40–60 min, HF 115–135, auch wenn die Kids da sind) · <b>Mi Longrun Z2</b> (HF ≤145) · <b>Fr Laufqualität + Kraft B</b> (Lauf zuerst). Weiter <b>zwei harte Tage pro Woche</b> — die Kraft liegt auf denselben Tagen wie die harten Reize, damit Di, Mi, Do und das Wochenende locker bleiben. Die Bike-Einheiten sind reines Zusatzvolumen: nie als Intervalle, nie als Ersatz für einen ausgefallenen harten Tag. <b>ISO Patellasehne</b> (5×45 s) täglich bzw. 3×45 s im Warm-up. Knie-Regel: Schmerz ≤3/10, am Morgen danach nicht schlechter. Wochenende nur wenn kinderfrei (TimeTree: frei 12./13.12., 26./27.12.; teilweise 9./10.01., 23./24.01.). Fällt Fr aus: am kinderfreien Wochenende nachholen, sonst Kraft B streichen — nie auf Mi schieben.",
  "phases": [
   {
    "h": "Block 1 · Fundament ✓",
@@ -73,7 +78,7 @@
   {
    "h": "Block 3 · Renntempo",
    "wk": "12.10–20.12 · 10 Wo",
-   "f": "Aktueller Mailand-Build. Genf zeigte die grössten Hebel bei Sled Push/Pull, Wall Balls und Late-Race-Robustheit. Fokus: echte PRO-Lasten technisch stabil, 9-kg-Wall-Balls unter Vorermüdung, Lunges/BBJ regelmässig rotieren und compromised Running bei kontrollierter Race-Pace. Ab W5 Rhythmus Mo HYROX · Mi Longrun · Fr Laufqualität.",
+   "f": "Aktueller Mailand-Build. Genf zeigte die grössten Hebel bei Sled Push/Pull, Wall Balls und Late-Race-Robustheit. Fokus: echte PRO-Lasten technisch stabil, 9-kg-Wall-Balls unter Vorermüdung, Lunges/BBJ regelmässig rotieren und compromised Running bei kontrollierter Race-Pace. Ab W5 Rhythmus Mo HYROX · Mi Longrun · Fr Laufqualität. Knie (Physio 26.11.): beginnendes Jumper's Knee, Mailand freigegeben — ISO täglich, ab 07.12. schweres Krafttraining.",
    "tags": [
     "▶ aktuell",
     "Mailand 5.–6.12 · fix",
@@ -84,7 +89,7 @@
   {
    "h": "Ferien · Weihnachten/Silvester",
    "wk": "21.12–3.1 · 2 Wo",
-   "f": "Keine Pause. W11 (21.–27.12.) kinderfrei → Volumenwoche: Mo HYROX voll, Mi Longrun 90–100, Fr 8×1000, Sa Erg Z2 + Technik, So easy. Weiter max. 2 harte Reize — das Mehr kommt aus Z2-Volumen. W12 (28.12.–3.1.) kürzere Sessions über Silvester, wirkt als Entlastung vor Block 4.",
+   "f": "Keine Pause. W11 (21.–27.12.) kinderfrei → Volumenwoche: Mo Kraft A + HYROX, Mi Longrun 90–100, Fr 6×1000 + Kraft B, Sa Erg Z2 + Technik, So easy. W12 (28.12.–3.1.) kürzere Sessions, Kraft mit 3 Sätzen.",
    "tags": [
     "W11 kinderfrei",
     "W12 reduziert"
@@ -93,9 +98,9 @@
   {
    "h": "Block 4 · Basel-Spezifik",
    "wk": "4.1–31.1 · 4 Wo",
-   "f": "W13–W14: die zwei teuersten Mailand-Stationen bekommen das Volumen (Ist vs. Sub-70-Budget). W15: ★ Benchmark 4 · PRO-Vollsim am Mo 18.01. (Gate ≤74). W16: Peak-Woche. Mi Longrun bis 100 min, Fr 8×1000 / Schwelle / Race Pace / VO₂.",
+   "f": "NEU ab 07.12.: Di/Do Bike Z2 zu Hause (Zusatzvolumen, 40–60 min) und 2× pro Woche schweres Krafttraining (Heavy Slow Resistance, Tempo 3 s/3 s) — Mo Kraft A vor dem HYROX-Teil, Fr Kraft B nach der Laufqualität. Progression 15 → 12 → 10 → 8 → 6 Wdh. ISO (5×45 s) vor jeder Einheit bzw. an freien Tagen. W13–W14: die zwei teuersten Mailand-Stationen. W15: ★ Benchmark 4 (nur 1× Kraft). W16: Peak, Kraft auf Erhalt.",
    "tags": [
-    "grob geplant",
+    "Kraft 2×/Woche",
     "Benchmark 4 · 18.01.",
     "Ziel Sub-70"
    ]
@@ -103,7 +108,7 @@
   {
    "h": "Taper Basel",
    "wk": "1.2–14.2 · 2 Wo",
-   "f": "W17: Volumen −40 %, Intensität halten, Longrun 50–60 min. W18: Primer Mo, Aktivierung Mi, Rennen 12.–14.02. Nichts mehr verbessern wollen."
+   "f": "W17: Volumen −40 %, Intensität halten, Kraft nur 2 schwere Sätze am Mo, Longrun 50–60 min. W18: keine schwere Kraft, ISO täglich, Primer Mo, Aktivierung Mi, Rennen 12.–14.02."
   },
   {
    "h": "HM-Block · Grand Prix Winterthur",
@@ -1098,8 +1103,8 @@
        "cls": "d-run",
        "ti": "Tempo · 4×1 km",
        "dur": "50 min",
-       "p": "Kurz und knackig. Fällt der Freitag aus: am kinderfreien Wochenende nachholen, sonst streichen — nicht auf Mittwoch legen.",
-       "prompt": "ROXFIT · TAPER RUN · 4×1000 M\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 4×1000 m @ 4:05–4:12/km.\nERHOLUNG · 2:00 sehr locker.\nCOOL-DOWN · 10:00 locker.\nRPE-DECKEL · 7/10.",
+       "p": "Kurz und knackig. KNIE (Physio 26.11.: beginnendes Jumper's Knee, Mailand freigegeben): nur laufen, wenn keine Schwellung und Schmerz ≤2/10 — sonst Bike 40 min mit 5×2 min @ 90–110 rpm. Fällt der Freitag aus: am Wochenende nicht hart nachholen.",
+       "prompt": "ROXFIT · TAPER RUN · 4×1000 M\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 15:00 locker.\nHAUPTTEIL · Genau 4×1000 m @ 4:05–4:12/km, flach.\nERHOLUNG · 2:00 sehr locker.\nCOOL-DOWN · 10:00 locker.\nRPE-DECKEL · 7/10.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\nALTERNATIVE · Knie geschwollen oder >2/10 → Bike 40 min: 15:00 Z2, 5×2:00 hart @ 90–110 rpm, 2:00 locker.",
        "date": "2026-11-27"
       },
       {
@@ -1118,13 +1123,30 @@
      "d": "30. Nov–6. Dez",
      "days": [
       {
+       "tag": "tägl.",
+       "cls": "d-gym",
+       "ti": "ISO Patellasehne · täglich",
+       "dur": "12 min",
+       "p": "Race Week: täglich, ausser am Renntag (dort nur im Warm-up). Senkt den Sehnenschmerz, ohne zu ermüden.",
+       "prompt": "ROXFIT · ISO PATELLASEHNE · TÄGLICH\nISO PATELLASEHNE · Spanish Squat (Band hinter den Knien) oder Wandsitz, Knie ~60–70° gebeugt · 5×45 s · 2:00 Pause · deutlich anstrengend, Schmerz ≤3/10. Physio-Vorgabe hat Vorrang.\nWANN · an Tagen ohne Training jederzeit; an Trainingstagen als Warm-up (3×45 s reichen).\nZWECK · Sehnenschmerz senken, Sehne belastbar halten. Isometrie allein heilt nicht — der Aufbau läuft über das schwere Krafttraining."
+      },
+      {
        "tag": "Mo",
        "cls": "d-gym",
        "ti": "Primer · kurz",
        "dur": "35–40 min",
-       "p": "Nur Systeme wecken. AG-Wechsel auf 40–44 ist ab 03.12. wirksam — dieses Rennen zählt bereits in der neuen Klasse.",
-       "prompt": "ROXFIT · MAILAND PRIMER · 35–40 MIN\nWARM-UP · 10:00 locker.\nA · Wall Balls 2×15 @ 9 kg · Pause 90 s.\nB · Lunges 2×20 m @ 30 kg · Pause 2:00.\nC · Sled Push 2×12,5 m @ RPE 6–7 · Pause 2:30.\nD · 4×20 s lockere Strides.\nSTOP · Deutlich mit Reserve enden. Kein Schweiss-Ziel.",
+       "p": "Nur Systeme wecken. AG-Wechsel auf 40–44 ist ab 03.12. wirksam — dieses Rennen zählt bereits in der neuen Klasse. KNIE: Lunges nur 1×20 m und nur bei ≤3/10.",
+       "prompt": "ROXFIT · MAILAND PRIMER · 35–40 MIN\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 10:00 locker.\nA · Wall Balls 2×15 @ 9 kg · Pause 90 s.\nB · Lunges 1×20 m @ 30 kg · nur bei Knie ≤3/10, sonst weglassen.\nC · Sled Push 2×12,5 m @ RPE 6–7 · Pause 2:30.\nD · 4×20 s lockere Strides.\nSTOP · Deutlich mit Reserve enden. Kein Schweiss-Ziel.",
        "date": "2026-11-30"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 20–30 min",
+       "dur": "20–30 min",
+       "date": "2026-12-01",
+       "p": "Race Week: nur Beine lockern, wenn das Bike schon steht. Optional. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 20–30 min\nINTENSITÄT · HF <120 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1132,7 +1154,7 @@
        "ti": "Aktivierung · kein Longrun",
        "dur": "30–35 min",
        "p": "Race-Week: kein Longrun. Kurz, locker, ein paar Temposchritte. Letzte Einheit vor der Anreise am Do.",
-       "prompt": "ROXFIT · AKTIVIERUNG · 30–35 MIN\n20:00 locker.\nDanach 6×30 s @ Renntempo, je 90 s sehr locker.\nAuslaufen.\nKein Volumen, kein Test.",
+       "prompt": "ROXFIT · AKTIVIERUNG · 30–35 MIN\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n20:00 locker.\nDanach 6×30 s @ Renntempo, je 90 s sehr locker.\nAuslaufen.\nKein Volumen, kein Test.",
        "date": "2026-12-02"
       },
       {
@@ -1141,7 +1163,7 @@
        "ti": "Shakeout in Mailand · Vortag",
        "dur": "15–20 min",
        "p": "Anreise Do 03.12. mit der Familie. Fr: 15–20 min sehr locker + 3 Strides, Startunterlagen holen, Halle/Roxzone anschauen. Wenig stehen und gehen, früh essen, früh schlafen.",
-       "prompt": "ROXFIT · SHAKEOUT\n15–20 min sehr locker, HF <135, danach 3×15 s Strides.\nAlternativ frei, wenn die Anreise lang ist.\nAbends: kohlenhydratreich, gewohnte Speisen.",
+       "prompt": "ROXFIT · SHAKEOUT\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n15–20 min sehr locker, HF <135, danach 3×15 s Strides.\nAlternativ frei, wenn die Anreise lang ist.\nAbends: kohlenhydratreich, gewohnte Speisen.",
        "date": "2026-12-04"
       },
       {
@@ -1149,25 +1171,42 @@
        "cls": "d-sim",
        "ti": "★ HYROX Mailand · PRO · AG 40–44 · Sa 05.12.",
        "dur": "RACE",
-       "p": "Erster echter WM-Qualifier, FIX gebucht. Ziel 76–80 min (Pacing-Plan 78:00, siehe Daten → Pacing). GATE: 76 oder besser hält Sub-70 für Basel realistisch offen. Wichtiger als die Zeit ist, dass keine Station kippt. Die Splits bestimmen den Inhalt von Block 4.",
-       "prompt": "HYROX MAILAND · PRO · RACE LOG\nVORHER · Schlaf, Ruhepuls, HRV notieren. Frühstück mit mindestens 100 g Kohlenhydraten, 3 h vorher. Fueling-Plan aus Benchmark 3 anwenden.\nWÄHREND · Erste zwei Runs bewusst deckeln. Auf keiner einzelnen Station Zeit erzwingen.\nLOG · 8 Run-Splits, 8 Stationssplits, Roxzone gesamt, RPE an Push/Lunges/Wall Balls, geplante vs. ungeplante Pausen, Fueling-Zeitpunkte.\nZWECK · vollständiger PRO-Datensatz für Block 4 und den Taper Richtung Basel.",
+       "p": "Erster echter WM-Qualifier, FIX gebucht. Ziel 76–80 min (Pacing-Plan 78:00, siehe Daten → Pacing). GATE: 76 oder besser hält Sub-70 für Basel realistisch offen. Wichtiger als die Zeit ist, dass keine Station kippt. Die Splits bestimmen den Inhalt von Block 4. KNIE: Physio-Freigabe 26.11. (beginnendes Jumper's Knee). Isometrie ins Warm-up, Lunges gleichmässig statt schnell.",
+       "prompt": "HYROX MAILAND · PRO · RACE LOG\nVORHER · Schlaf, Ruhepuls, HRV notieren. Frühstück mit mindestens 100 g Kohlenhydraten, 3 h vorher. Fueling-Plan aus Benchmark 3 anwenden.\nWARM-UP · 15–20 min locker + Mobilität. 30–45 min vor dem Start: Wandsitz oder Spanish Squat 2×45 s (vorher im Training getestet).\nWÄHREND · Erste zwei Runs bewusst deckeln. Auf keiner einzelnen Station Zeit erzwingen. Lunges gleichmässig, Wall Balls in geplanten Sätzen.\nKNIE · steigt der Schmerz während des Rennens deutlich über 5/10 oder knickt das Knie weg → Tempo raus; Gesundheit vor Zeit, Basel ist das A-Rennen.\nLOG · 8 Run-Splits, 8 Stationssplits, Roxzone gesamt, RPE an Push/Lunges/Wall Balls, geplante vs. ungeplante Pausen, Fueling-Zeitpunkte, Knie-Schmerz 0–10 nach Lunges und nach dem Rennen.\nZWECK · vollständiger PRO-Datensatz für Block 4 und den Taper Richtung Basel.",
        "date": "2026-12-05"
       }
      ]
     },
     {
      "n": "9",
-     "t": "Mailand verdauen",
+     "t": "Mailand verdauen · Kraft-Einstieg",
      "d": "7.–13. Dez",
      "days": [
+      {
+       "tag": "tägl.",
+       "cls": "d-gym",
+       "ti": "ISO Patellasehne · täglich",
+       "dur": "12 min",
+       "p": "Ab Mo 07.12. täglich 5×45 s. Basis für das Krafttraining ab Fr.",
+       "prompt": "ROXFIT · ISO PATELLASEHNE · TÄGLICH\nISO PATELLASEHNE · Spanish Squat (Band hinter den Knien) oder Wandsitz, Knie ~60–70° gebeugt · 5×45 s · 2:00 Pause · deutlich anstrengend, Schmerz ≤3/10. Physio-Vorgabe hat Vorrang.\nWANN · an Tagen ohne Training jederzeit; an Trainingstagen als Warm-up (3×45 s reichen).\nZWECK · Sehnenschmerz senken, Sehne belastbar halten. Isometrie allein heilt nicht — der Aufbau läuft über das schwere Krafttraining."
+      },
       {
        "tag": "Mo",
        "cls": "d-opt",
        "ti": "Regeneration",
        "dur": "0–40 min",
        "p": "Kein Reiz. Splits erfassen, solange sie frisch sind.",
-       "prompt": "ROXFIT · POST-RACE RECOVERY\nFrei oder 30–40 min sehr locker.\nKeine Stationen, kein Tempo.\nAUFGABE · Mailand-Splits vollständig ins Log, inklusive Fueling und Roxzone.",
+       "prompt": "ROXFIT · POST-RACE RECOVERY\nFrei oder 30–40 min sehr locker.\nKeine Stationen, kein Tempo.\nAUFGABE · Mailand-Splits vollständig ins Log, inklusive Fueling und Roxzone.\nISO PATELLASEHNE · Spanish Squat (Band hinter den Knien) oder Wandsitz, Knie ~60–70° gebeugt · 5×45 s · 2:00 Pause · deutlich anstrengend, Schmerz ≤3/10. Physio-Vorgabe hat Vorrang.",
        "date": "2026-12-07"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30–40 min",
+       "dur": "30–40 min",
+       "date": "2026-12-08",
+       "p": "Erholung nach Mailand: Durchblutung, keine Belastung. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30–40 min\nINTENSITÄT · HF <125 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1175,25 +1214,34 @@
        "ti": "Easy Longrun · Verträglichkeit",
        "dur": "45–60 min",
        "p": "Erster längerer Lauf nach Mailand. Nur verlängern, wenn Waden/Rücken ruhig sind.",
-       "prompt": "ROXFIT · POST-RACE EASY · 40–50 MIN\nDurchgehend locker, HF <145, bevorzugt <139.\nLOG · Beingefühl, Waden, Rücken.",
+       "prompt": "ROXFIT · POST-RACE EASY · 40–50 MIN\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nDurchgehend locker, HF <145, bevorzugt <139.\nLOG · Beingefühl, Waden, Rücken, Knie 0–10.",
        "date": "2026-12-09"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30–45 min",
+       "dur": "30–45 min",
+       "date": "2026-12-10",
+       "p": "Lockeres Zusatzvolumen vor dem Kraft-Einstieg am Fr. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30–45 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
        "cls": "d-gym",
-       "ti": "Technik leicht",
+       "ti": "Kraft A · Einstieg",
        "dur": "40 min",
-       "p": "Bewegungsqualität, keine Last.",
-       "prompt": "ROXFIT · TECHNIK LEICHT · 40 MIN\nWARM-UP · 10:00 locker + Mobilität.\nA · Wall Balls 3×15 @ 6 kg · Pause 60 s.\nB · Lunges 2×25 m @ 20 kg · Pause 90 s.\nC · Ski Erg 2×500 m @ RPE 5.\nRPE-DECKEL · 5/10.",
+       "p": "Start Heavy Slow Resistance (Patellasehne + fehlende Beinkraft). Erste Einheit bewusst leicht: Gewichte finden, Technik und Tempo sitzen. Letzter Stand im Kraft-Tracker (Nov 2025): Kniebeuge 70×6, Kreuzheben 130×4 — aktuell deutlich tiefer ansetzen.",
+       "prompt": "ROXFIT · KRAFT A · EINSTIEG · 40 MIN\nWARM-UP · 8:00 Bike locker.\nKRAFT A · SCHWER (HSR) · ~35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Hack Squat oder Kniebeuge · 3×15 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Rumänisches Kreuzheben · 3×13 · Pause 2:00\n3. Step-up auf Kasten (Kniehöhe) · 3×8 pro Bein · Pause 90 s\n4. Hip Thrust · 3×10 · Pause 90 s\nLAST · 15RM-Bereich, 1–2 Wdh in Reserve, saubere Technik vor Gewicht.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\nRPE-DECKEL · 6/10 in dieser Woche.",
        "date": "2026-12-11"
       },
       {
        "tag": "Sa/So",
        "cls": "d-opt",
-       "ti": "12.–13.12. · kinderfrei",
-       "dur": "45–90 min",
-       "p": "Erholungswoche: optional 60 min Z2 locker, sonst frei.",
-       "prompt": "ROXFIT · WOCHENENDE KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 60–90 min Z2 Bike/Row/Ski oder Easy Run, HF <139.\nNIE · keine dritte harte Einheit in der Woche."
+       "ti": "12.–13.12. · kinderfrei · Kraft B Einstieg",
+       "dur": "60–90 min",
+       "p": "Zweite Krafteinheit der Woche plus lockeres Volumen. Kraft B mindestens 48 h nach Kraft A.",
+       "prompt": "ROXFIT · WOCHENENDE KINDERFREI\nSA oder SO · KRAFT B EINSTIEG · 35 min:\nKRAFT B · SCHWER (HSR) · ~30–35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Beinpresse · 3×15 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Kreuzheben (Trap Bar oder Langhantel) · 3×5 · RPE 7 · Pause 2:30\n3. Step-up auf Kasten (Kniehöhe) · 3×8 pro Bein · Pause 90 s\n4. Latzug oder Rudern · 3×8 (Sled Pull) · Wadenheben 3×12\nLAST · 15RM-Bereich, 1–2 Wdh in Reserve.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\nRPE-DECKEL · 6/10.\nDANACH oder anderer Tag · 45–60 min Z2 Bike/Easy Run, HF <139.\nNIE · keine dritte harte Einheit."
       }
      ]
     },
@@ -1203,13 +1251,30 @@
      "d": "14.–20. Dez",
      "days": [
       {
+       "tag": "tägl.",
+       "cls": "d-gym",
+       "ti": "ISO Patellasehne · täglich",
+       "dur": "12 min",
+       "p": "An Tagen ohne Training 5×45 s; an Trainingstagen 3×45 s im Warm-up.",
+       "prompt": "ROXFIT · ISO PATELLASEHNE · TÄGLICH\nISO PATELLASEHNE · Spanish Squat (Band hinter den Knien) oder Wandsitz, Knie ~60–70° gebeugt · 5×45 s · 2:00 Pause · deutlich anstrengend, Schmerz ≤3/10. Physio-Vorgabe hat Vorrang.\nWANN · an Tagen ohne Training jederzeit; an Trainingstagen als Warm-up (3×45 s reichen).\nZWECK · Sehnenschmerz senken, Sehne belastbar halten. Isometrie allein heilt nicht — der Aufbau läuft über das schwere Krafttraining."
+      },
+      {
        "tag": "Mo",
        "cls": "d-sim",
-       "ti": "Qualitäts-Zirkel · Schlussreiz",
-       "dur": "65–70 min",
-       "p": "Letzter substanzieller HYROX-Reiz des Jahres. Ab dem 21.12. läuft der reduzierte Feiertags-Übergang, danach folgt Block 4 auf Basel.",
-       "prompt": "ROXFIT · BLOCK 3 W10 · SCHLUSSREIZ\nWARM-UP · 12:00 locker.\nHAUPTTEIL · Genau 3 Runden:\n1. Run 1000 m @ 4:30/km\n2. Sled Push 12,5 m @ 195 kg gesamt\n3. Sandbag Lunges 50 m @ 30 kg\n4. Wall Balls 25 @ 9 kg\nRUNDENPAUSE · 2:00.\nCOOL-DOWN · 5:00 locker.\nLOG · Splits, Drift, RPE. Werte direkt mit W6 vergleichen.",
+       "ti": "Kraft A + HYROX · Schlussreiz",
+       "dur": "75–80 min",
+       "p": "Kraft zuerst (Sehne frisch), danach kompakter HYROX-Teil. Lunges noch weglassen — Split-Belastung kommt in der Kraft über Step-ups.",
+       "prompt": "ROXFIT · BLOCK 3 W10 · KRAFT A + HYROX\nWARM-UP · 10:00 locker.\nKRAFT A · SCHWER (HSR) · ~35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Hack Squat oder Kniebeuge · 3×12 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Rumänisches Kreuzheben · 3×10 · Pause 2:00\n3. Step-up auf Kasten (Kniehöhe) · 3×8 pro Bein · Pause 90 s\n4. Hip Thrust · 3×10 · Pause 90 s\nLAST · 12RM-Bereich, 1–2 Wdh in Reserve, saubere Technik vor Gewicht.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\n\nHYROX-TEIL · Genau 2 Runden:\n1. Run 1000 m @ 4:30/km\n2. Sled Push 12,5 m @ 195 kg gesamt\n3. Wall Balls 25 @ 9 kg\nRUNDENPAUSE · 2:00.\nLOG · Kraft-Lasten, HYROX-Splits, Knie 0–10.",
        "date": "2026-12-14"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 40–50 min",
+       "dur": "40–50 min",
+       "date": "2026-12-15",
+       "p": "Tag nach Kraft A + HYROX: lockere Durchblutung. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 40–50 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1217,16 +1282,25 @@
        "ti": "Longrun Z2",
        "dur": "80–90 min",
        "p": "Mittwoch hat am meisten Zeit → langer, ruhiger Lauf. Aerobe Basis und Late-Race-Robustheit, ohne den Montag- und Freitagsreiz zu stören.",
-       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 80–90 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 80–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 80–90 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 80–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2026-12-16"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2026-12-17",
+       "p": "Zusätzliches aerobes Volumen ohne Laufbelastung. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
        "cls": "d-run",
-       "ti": "Schwelle · 2×4 km",
-       "dur": "65 min",
-       "p": "Lange kontrollierte Schwelle als Standortbestimmung vor dem Taper. Fällt der Freitag aus: am kinderfreien Wochenende nachholen, sonst streichen — nicht auf Mittwoch legen.",
-       "prompt": "ROXFIT · BLOCK 3 W10 · 2×4 KM SCHWELLE\nWARM-UP · 15:00 locker + 4 Strides.\nHAUPTTEIL · Genau 2×4000 m @ 4:08–4:13/km.\nERHOLUNG · 3:00 lockerer Trab.\nCOOL-DOWN · 10:00 locker.\nLOG · Pace/HF je Block, Drift innerhalb der Blöcke.",
+       "ti": "Schwelle 2×3 km + Kraft B",
+       "dur": "80 min",
+       "p": "Laufqualität zuerst, danach Kraft B. Schwelle von 2×4 auf 2×3 km gekürzt, damit die Einheit in den Freitag passt. Fällt der Freitag aus: am Wochenende nachholen, sonst Kraft B streichen — nicht auf Mittwoch legen.",
+       "prompt": "ROXFIT · BLOCK 3 W10 · SCHWELLE + KRAFT B\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 15:00 locker + 4 Strides.\nLAUF · Genau 2×3000 m @ 4:08–4:13/km · 3:00 Trab.\nCOOL-DOWN · 5:00 locker.\n\nKRAFT B · SCHWER (HSR) · ~30–35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Beinpresse · 3×12 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Kreuzheben (Trap Bar oder Langhantel) · 3×5 · RPE 7 · Pause 2:30\n3. Step-up auf Kasten (Kniehöhe) · 3×8 pro Bein · Pause 90 s\n4. Latzug oder Rudern · 3×8 (Sled Pull) · Wadenheben 3×12\nLAST · 12RM-Bereich, 1–2 Wdh in Reserve.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\nLOG · Pace/HF je Block, Kraft-Lasten, Knie 0–10.",
        "date": "2026-12-18"
       },
       {
@@ -1256,11 +1330,20 @@
       {
        "tag": "Mo",
        "cls": "d-sim",
-       "ti": "HYROX-Qualität · voll",
-       "dur": "75–85 min",
-       "p": "Kinderfreie Ferienwoche: voller Reiz statt Erhalt. Schwerpunkt Sled + Wall Balls.",
-       "prompt": "ROXFIT · FERIEN W11 · HYROX-QUALITÄT\nWARM-UP · 12:00 locker.\nHAUPTTEIL · 4 Runden: Run 1000 m @ 4:25 → Sled Push 12,5 m @ 202 kg → Sled Pull 12,5 m @ 153 kg → Wall Balls 25 @ 9 kg.\nRUNDENPAUSE · 2:00.\nB · Lunges 2×50 m @ 30 kg · Pause 2:00.\nLOG · Splits, Run-Drift nach Sled, RPE.",
+       "ti": "Kraft A + HYROX-Qualität",
+       "dur": "85–90 min",
+       "p": "Kinderfreie Ferienwoche. Kraft zuerst, danach HYROX auf 3 statt 4 Runden. Lunges zurück, wenn Knie ≤2/10.",
+       "prompt": "ROXFIT · FERIEN W11 · KRAFT A + HYROX\nWARM-UP · 10:00 locker.\nKRAFT A · SCHWER (HSR) · ~35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Hack Squat oder Kniebeuge · 4×10 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Rumänisches Kreuzheben · 3×8 · Pause 2:00\n3. Bulgarian Split Squat · 3×8 pro Bein · Pause 90 s\n4. Hip Thrust · 3×10 · Pause 90 s\nLAST · 10RM-Bereich, 1–2 Wdh in Reserve, saubere Technik vor Gewicht.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\n\nHYROX-TEIL · 3 Runden: Run 1000 m @ 4:25 → Sled Push 12,5 m @ 202 kg → Sled Pull 12,5 m @ 153 kg → Wall Balls 25 @ 9 kg.\nRUNDENPAUSE · 2:00.\nB · Lunges 1×50 m @ 30 kg · nur bei Knie ≤2/10.\nLOG · Kraft-Lasten, Splits, Run-Drift nach Sled, Knie 0–10.",
        "date": "2026-12-21"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2026-12-22",
+       "p": "Ferienwoche: optional, nur wenn die Beine frisch sind — die Woche hat bereits 5 Einheiten. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1268,16 +1351,25 @@
        "ti": "Longrun Z2 · lang",
        "dur": "90–100 min",
        "p": "Mehr Zeit in den Ferien → längster Lauf des Blocks.",
-       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 90–100 MIN\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 90–100 min durchgehend, HF ≤145. Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel.\nNICHT · kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 90–100 MIN\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 90–100 min durchgehend, HF ≤145. Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel.\nNICHT · kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2026-12-23"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30–45 min",
+       "dur": "30–45 min",
+       "date": "2026-12-24",
+       "p": "Optional, sehr locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30–45 min\nINTENSITÄT · HF <130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
        "cls": "d-run",
-       "ti": "8×1000 · 90 s",
-       "dur": "65–70 min",
-       "p": "Keine Pause über Weihnachten. Zeitpunkt am Tag frei wählen.",
-       "prompt": "ROXFIT · 8×1000\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 8×1000 m @ 4:00–4:05/km · 90 s Trab.\nCOOL-DOWN · 10:00.\nLOG · Pace/HF je Rep.",
+       "ti": "6×1000 + Kraft B",
+       "dur": "85 min",
+       "p": "Keine Pause über Weihnachten. Intervalle von 8 auf 6 gekürzt, dafür Kraft B danach.",
+       "prompt": "ROXFIT · 6×1000 + KRAFT B\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 15:00 + 4 Strides.\nLAUF · 6×1000 m @ 4:00–4:05/km · 90 s Trab.\nCOOL-DOWN · 5:00.\n\nKRAFT B · SCHWER (HSR) · ~30–35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Beinpresse · 4×10 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Kreuzheben (Trap Bar oder Langhantel) · 3×5 · RPE 7 · Pause 2:30\n3. Bulgarian Split Squat · 3×8 pro Bein · Pause 90 s\n4. Latzug oder Rudern · 3×8 (Sled Pull) · Wadenheben 3×12\nLAST · 10RM-Bereich, 1–2 Wdh in Reserve.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\nLOG · Pace/HF je Rep, Kraft-Lasten.",
        "date": "2026-12-25"
       },
       {
@@ -1286,7 +1378,7 @@
        "ti": "Erg Z2 + Stationstechnik",
        "dur": "60–75 min",
        "p": "Zusätzliches Volumen, aber kein dritter harter Reiz.",
-       "prompt": "ROXFIT · FERIEN · ERG Z2 + TECHNIK\nA · 3×10 min Erg im Wechsel Ski / Row / Bike, HF 130–145, 2 min locker dazwischen.\nB · Technik: Wall Balls 4×15 @ 9 kg (60 s P) · Farmers 4×50 m @ 2×32 kg · Burpee BJ 2×20 m locker.\nRPE-DECKEL · 6/10. Kein Finisher.",
+       "prompt": "ROXFIT · FERIEN · ERG Z2 + TECHNIK\nA · 3×10 min Erg im Wechsel Ski / Row / Bike, HF 130–145, 2 min locker dazwischen.\nISO · 5×45 s.\nB · Technik: Wall Balls 4×15 @ 9 kg (60 s P) · Farmers 4×50 m @ 2×32 kg · Burpee BJ 2×20 m locker.\nRPE-DECKEL · 6/10. Kein Finisher.",
        "date": "2026-12-26"
       },
       {
@@ -1308,11 +1400,20 @@
       {
        "tag": "Mo",
        "cls": "d-sim",
-       "ti": "HYROX kompakt",
-       "dur": "45–50 min",
-       "p": "Kürzer, aber mit Qualität. Volumen ~60 % der Vorwoche.",
-       "prompt": "ROXFIT · SILVESTER-WOCHE · HYROX KOMPAKT\nWARM-UP · 8:00 locker.\nHAUPTTEIL · 3 Runden: Run 600 m @ 4:25 → Sled Push 12,5 m @ 202 kg → Wall Balls 20 @ 9 kg.\nRUNDENPAUSE · 1:30.\nRPE-DECKEL · 7/10.",
+       "ti": "Kraft A + HYROX kompakt",
+       "dur": "60 min",
+       "p": "Kürzer, aber mit Qualität. Kraft mit 3 statt 4 Sätzen (Entlastungswoche).",
+       "prompt": "ROXFIT · SILVESTER-WOCHE · KRAFT A + HYROX KOMPAKT\nWARM-UP · 8:00 locker.\nKRAFT A · SCHWER (HSR) · ~35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Hack Squat oder Kniebeuge · 3×10 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Rumänisches Kreuzheben · 3×8 · Pause 2:00\n3. Bulgarian Split Squat · 3×8 pro Bein · Pause 90 s\n4. Hip Thrust · 3×10 · Pause 90 s\nLAST · 10RM-Bereich, 1–2 Wdh in Reserve, saubere Technik vor Gewicht.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\n\nHYROX-TEIL · 2 Runden: Run 600 m @ 4:25 → Sled Push 12,5 m @ 202 kg → Wall Balls 20 @ 9 kg.\nRUNDENPAUSE · 1:30.\nRPE-DECKEL · 7/10.",
        "date": "2026-12-28"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 40–50 min",
+       "dur": "40–50 min",
+       "date": "2026-12-29",
+       "p": "Entlastungswoche: locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 40–50 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1324,12 +1425,21 @@
        "date": "2026-12-30"
       },
       {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 40–60 min",
+       "dur": "40–60 min",
+       "date": "2026-12-31",
+       "p": "Locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 40–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Fr",
        "cls": "d-run",
-       "ti": "Kurz & zügig · 6×600 m",
-       "dur": "35–40 min",
-       "p": "Neujahr: kurze Session, Spannung halten.",
-       "prompt": "ROXFIT · 6×600\nWARM-UP · 12:00 locker.\nHAUPTTEIL · 6×600 m @ 3:55–4:00/km · 75 s Trab.\nCOOL-DOWN · 5:00.\nFÄLLT FR AUS · am Wochenende nachholen, sonst streichen.",
+       "ti": "6×600 m + Kraft B",
+       "dur": "60 min",
+       "p": "Neujahr: kurze Session, Spannung halten, Kraft mit 3 Sätzen.",
+       "prompt": "ROXFIT · 6×600 + KRAFT B\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 12:00 locker.\nLAUF · 6×600 m @ 3:55–4:00/km · 75 s Trab.\nCOOL-DOWN · 5:00.\n\nKRAFT B · SCHWER (HSR) · ~30–35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Beinpresse · 3×10 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Kreuzheben (Trap Bar oder Langhantel) · 3×5 · RPE 7 · Pause 2:30\n3. Bulgarian Split Squat · 3×8 pro Bein · Pause 90 s\n4. Latzug oder Rudern · 3×8 (Sled Pull) · Wadenheben 3×12\nLAST · 10RM-Bereich, 1–2 Wdh in Reserve.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\nFÄLLT FR AUS · am Wochenende nachholen, sonst Kraft B streichen.",
        "date": "2027-01-01"
       }
      ]
@@ -1342,11 +1452,20 @@
       {
        "tag": "Mo",
        "cls": "d-sim",
-       "ti": "Teuerste Station A + compromised",
-       "dur": "75–85 min",
-       "p": "Inhalt richtet sich nach den Mailand-Splits: die zwei teuersten Stationen (Ist vs. Sub-70-Budget unter Daten → Splits) bekommen das Volumen.",
-       "prompt": "ROXFIT · BLOCK 4 W13 · STATION A\nWARM-UP · 12:00 locker.\nHAUPTTEIL · 4 Runden: Run 1000 m @ 4:20–4:25 → teuerste Mailand-Station (Push/Pull: 25 m @ PRO · WB: 30 @ 9 kg · Lunges: 50 m @ 30 kg).\nRUNDENPAUSE · 2:00.\nB · 3×20 Wall Balls @ 9 kg · 30 s Pause.\nLOG · Stationszeit, Folgelauf, RPE.",
+       "ti": "Kraft A + Station A",
+       "dur": "85–90 min",
+       "p": "Kraft zuerst, danach die teuerste Mailand-Station (Ist vs. Sub-70-Budget unter Daten → Splits) mit 3 Runden.",
+       "prompt": "ROXFIT · BLOCK 4 W13 · KRAFT A + STATION A\nWARM-UP · 10:00 locker.\nKRAFT A · SCHWER (HSR) · ~35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Hack Squat oder Kniebeuge · 4×8 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Rumänisches Kreuzheben · 3×6 · Pause 2:00\n3. Bulgarian Split Squat · 3×8 pro Bein · Pause 90 s\n4. Hip Thrust · 3×10 · Pause 90 s\nLAST · 8RM-Bereich, 1–2 Wdh in Reserve, saubere Technik vor Gewicht.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\n\nSTATION A · 3 Runden: Run 1000 m @ 4:20–4:25 → teuerste Mailand-Station (Push/Pull: 25 m @ PRO · WB: 30 @ 9 kg · Lunges: 50 m @ 30 kg).\nRUNDENPAUSE · 2:00.\nLOG · Kraft-Lasten, Stationszeit, Folgelauf, Knie 0–10.",
        "date": "2027-01-04"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2027-01-05",
+       "p": "Tag nach Kraft A + Station: lockere Durchblutung. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1354,16 +1473,25 @@
        "ti": "Longrun Z2",
        "dur": "85–95 min",
        "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
-       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 85–95 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 85–95 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 85–95 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 85–95 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2027-01-06"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2027-01-07",
+       "p": "Zusätzliches aerobes Volumen. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nOPTIONAL · letzte 10 min Kadenz 100–110 (locker, nicht schwer).\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
        "cls": "d-run",
-       "ti": "8×1000 · 90 s",
-       "dur": "65–70 min",
-       "p": "Laufgeschwindigkeit halten.",
-       "prompt": "ROXFIT · 8×1000\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 8×1000 m @ 4:00–4:05/km · 90 s Trab.\nCOOL-DOWN · 10:00.\nLOG · Pace/HF je Rep.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
+       "ti": "6×1000 + Kraft B",
+       "dur": "85 min",
+       "p": "Laufgeschwindigkeit halten, danach Kraft B mit Sandbag-Lunges als Einbein-Übung.",
+       "prompt": "ROXFIT · 6×1000 + KRAFT B\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 15:00 + 4 Strides.\nLAUF · 6×1000 m @ 4:00–4:05/km · 90 s Trab.\nCOOL-DOWN · 5:00.\n\nKRAFT B · SCHWER (HSR) · ~30–35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Beinpresse · 4×8 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Kreuzheben (Trap Bar oder Langhantel) · 3×5 · RPE 7 · Pause 2:30\n3. Sandbag Walking Lunges 30 kg · 3×20 m · langsam, kontrolliert · Pause 2:00\n4. Latzug oder Rudern · 3×8 (Sled Pull) · Wadenheben 3×12\nLAST · 8RM-Bereich, 1–2 Wdh in Reserve.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst Kraft B streichen.",
        "date": "2027-01-08"
       },
       {
@@ -1384,11 +1512,20 @@
       {
        "tag": "Mo",
        "cls": "d-sim",
-       "ti": "Zweitteuerste Station B + Sled",
-       "dur": "75–85 min",
-       "p": "Inhalt richtet sich nach den Mailand-Splits: die zwei teuersten Stationen (Ist vs. Sub-70-Budget unter Daten → Splits) bekommen das Volumen.",
-       "prompt": "ROXFIT · BLOCK 4 W14 · STATION B\nWARM-UP · 12:00 locker.\nHAUPTTEIL · 4 Runden: Sled Push 12,5 m @ 202 kg → Run 600 m @ 4:25 → zweitteuerste Mailand-Station → Run 600 m @ 4:25.\nRUNDENPAUSE · 2:00.\nLOG · Splits, Run-Drift nach Sled.",
+       "ti": "Kraft A + Station B + Sled",
+       "dur": "85–90 min",
+       "p": "Kraft zuerst (4×6, schwerste Phase), danach die zweitteuerste Mailand-Station mit 3 Runden.",
+       "prompt": "ROXFIT · BLOCK 4 W14 · KRAFT A + STATION B\nWARM-UP · 10:00 locker.\nKRAFT A · SCHWER (HSR) · ~35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Hack Squat oder Kniebeuge · 4×6 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Rumänisches Kreuzheben · 3×5 · Pause 2:00\n3. Bulgarian Split Squat · 3×8 pro Bein · Pause 90 s\n4. Hip Thrust · 3×10 · Pause 90 s\nLAST · 6RM-Bereich, 1–2 Wdh in Reserve, saubere Technik vor Gewicht.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\n\nSTATION B · 3 Runden: Sled Push 12,5 m @ 202 kg → Run 600 m @ 4:25 → zweitteuerste Mailand-Station → Run 600 m @ 4:25.\nRUNDENPAUSE · 2:00.\nLOG · Kraft-Lasten, Splits, Run-Drift nach Sled, Knie 0–10.",
        "date": "2027-01-11"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2027-01-12",
+       "p": "Tag nach Kraft A + Station B. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1396,16 +1533,25 @@
        "ti": "Longrun Z2 · längster Lauf",
        "dur": "90–100 min",
        "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
-       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · LÄNGSTER LAUF · 90–100 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 90–100 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nOPTIONAL · letzte 15 min @ 4:45–4:55, nur bei stabiler HF.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · LÄNGSTER LAUF · 90–100 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 90–100 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nOPTIONAL · letzte 15 min @ 4:45–4:55, nur bei stabiler HF.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2027-01-13"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2027-01-14",
+       "p": "Zusätzliches aerobes Volumen. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
        "cls": "d-run",
-       "ti": "Schwelle · 3×3 km",
-       "dur": "65–70 min",
-       "p": "Schwelle knapp unter IAAS 161.",
-       "prompt": "ROXFIT · SCHWELLE 3×3 KM\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 3×3000 m @ 4:10–4:15/km · 2:30 Trab.\nCOOL-DOWN · 10:00.\nHF-DECKEL · 161.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
+       "ti": "Schwelle 2×3 km + Kraft B",
+       "dur": "80 min",
+       "p": "Schwelle knapp unter IAAS 161, von 3×3 auf 2×3 km gekürzt, danach Kraft B.",
+       "prompt": "ROXFIT · SCHWELLE 2×3 KM + KRAFT B\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 15:00 + 4 Strides.\nLAUF · 2×3000 m @ 4:10–4:15/km · 2:30 Trab. HF-DECKEL 161.\nCOOL-DOWN · 5:00.\n\nKRAFT B · SCHWER (HSR) · ~30–35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Beinpresse · 4×6 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Kreuzheben (Trap Bar oder Langhantel) · 3×5 · RPE 7 · Pause 2:30\n3. Sandbag Walking Lunges 30 kg · 3×20 m · langsam, kontrolliert · Pause 2:00\n4. Latzug oder Rudern · 3×8 (Sled Pull) · Wadenheben 3×12\nLAST · 6RM-Bereich, 1–2 Wdh in Reserve.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst Kraft B streichen.",
        "date": "2027-01-15"
       },
       {
@@ -1413,7 +1559,7 @@
        "cls": "d-opt",
        "ti": "16.–17.01. · eher kinderfrei",
        "dur": "45–90 min",
-       "p": "Kalender: «Kids bei Nadine» + «NiLou bei NiMa» — prüfen. Wenn frei: Freitag nachholen oder Z2 vor Benchmark 4 (Mo 18.01.) — dann nur locker.",
+       "p": "Kalender: «Kids bei Nadine» + «NiLou bei NiMa» — prüfen. Wenn frei: Freitag nachholen oder Z2 vor Benchmark 4 (Mo 18.01.) — dann nur locker. Vor Benchmark 4 keine Kraft am Wochenende.",
        "prompt": "ROXFIT · WOCHENENDE KINDERFREI\nFALL A · Freitag ausgefallen → Freitagseinheit 1:1 nachholen.\nFALL B · Freitag erledigt → 60–90 min Z2 Bike/Row/Ski oder Easy Run, HF <139.\nNIE · keine dritte harte Einheit in der Woche."
       }
      ]
@@ -1429,8 +1575,17 @@
        "ti": "★ Benchmark 4 · PRO-Vollsimulation",
        "dur": "90 min",
        "p": "Letzte Vollsim vor Basel, mit Sub-70-Pacing und vollem Fueling. Gate: ≤74 Sim hält Sub-70 im Rennen realistisch (Rennumgebung + Frische).",
-       "prompt": "ROXFIT · BENCHMARK 4 · PRO-VOLLSIM\nWARM-UP · 12:00 + Stationen kurz anfahren.\nHAUPTTEIL · 8×1 km + alle 8 Stationen auf PRO-Last, Pacing nach Sub-70-Budget (Daten → Splits).\nFUELING · Renn-Protokoll 1:1.\nLOG · alle 16 Splits, Roxzone, HF je Run, RPE je Station.",
+       "prompt": "ROXFIT · BENCHMARK 4 · PRO-VOLLSIM\nWARM-UP · 12:00 + Stationen kurz anfahren + ISO 2×45 s.\nHAUPTTEIL · 8×1 km + alle 8 Stationen auf PRO-Last, Pacing nach Sub-70-Budget (Daten → Splits).\nFUELING · Renn-Protokoll 1:1.\nLOG · alle 16 Splits, Roxzone, HF je Run, RPE je Station.",
        "date": "2027-01-18"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30–40 min",
+       "dur": "30–40 min",
+       "date": "2027-01-19",
+       "p": "Tag nach Benchmark 4: nur Erholung. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30–40 min\nINTENSITÄT · HF <120 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1442,12 +1597,21 @@
        "date": "2027-01-20"
       },
       {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45 min",
+       "dur": "45 min",
+       "date": "2027-01-21",
+       "p": "Locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
+      },
+      {
        "tag": "Fr",
        "cls": "d-run",
-       "ti": "Race Pace · 5×1 km",
-       "dur": "55–60 min",
-       "p": "Renntempo einschleifen, nicht all-out.",
-       "prompt": "ROXFIT · 5×1000 RACE PACE\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 5×1000 m @ 4:10–4:15/km · 90 s Trab.\nCOOL-DOWN · 10:00.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
+       "ti": "Race Pace 5×1 km + Kraft B",
+       "dur": "80 min",
+       "p": "Benchmark-Woche: nur 1 Krafteinheit, schwer aber kurz (3 statt 4 Sätze).",
+       "prompt": "ROXFIT · 5×1000 RACE PACE + KRAFT B\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 15:00 + 4 Strides.\nLAUF · 5×1000 m @ 4:10–4:15/km · 90 s Trab.\nCOOL-DOWN · 5:00.\n\nKRAFT B · SCHWER (HSR) · ~30–35 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Beinpresse · 3×6 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Kreuzheben (Trap Bar oder Langhantel) · 3×5 · RPE 7 · Pause 2:30\n3. Bulgarian Split Squat · 3×8 pro Bein · Pause 90 s\n4. Latzug oder Rudern · 3×8 (Sled Pull) · Wadenheben 3×12\nLAST · 6RM-Bereich, 1–2 Wdh in Reserve.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst Kraft B streichen.",
        "date": "2027-01-22"
       },
       {
@@ -1468,11 +1632,20 @@
       {
        "tag": "Mo",
        "cls": "d-sim",
-       "ti": "Compromised · Peak",
-       "dur": "80 min",
-       "p": "Letzter grosser HYROX-Reiz. Schwerpunkte aus Benchmark 4.",
-       "prompt": "ROXFIT · BLOCK 4 W16 · PEAK COMPROMISED\nWARM-UP · 12:00.\nHAUPTTEIL · 4 Runden: Run 1000 m @ 4:20 → Sled Push 12,5 m @ 202 kg → Sled Pull 12,5 m @ 153 kg → Lunges 50 m @ 30 kg → Wall Balls 25 @ 9 kg.\nRUNDENPAUSE · 2:00.\nGATE · Run 4 ≤10 s/km langsamer als Run 1.",
+       "ti": "Kraft A + Compromised · Peak",
+       "dur": "85–90 min",
+       "p": "Letzter grosser HYROX-Reiz. Kraft auf Erhalt (3×6), HYROX auf 3 Runden. Schwerpunkte aus Benchmark 4.",
+       "prompt": "ROXFIT · BLOCK 4 W16 · KRAFT A + PEAK COMPROMISED\nWARM-UP · 10:00 locker.\nKRAFT A · SCHWER (HSR) · ~35 min · Erhalt\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Hack Squat oder Kniebeuge · 3×6 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Rumänisches Kreuzheben · 3×5 · Pause 2:00\n3. Step-up auf Kasten (Kniehöhe) · 3×8 pro Bein · Pause 90 s\n4. Hip Thrust · 3×10 · Pause 90 s\nLAST · 6RM-Bereich, 1–2 Wdh in Reserve, saubere Technik vor Gewicht.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\n\nHYROX-TEIL · 3 Runden: Run 1000 m @ 4:20 → Sled Push 12,5 m @ 202 kg → Sled Pull 12,5 m @ 153 kg → Lunges 50 m @ 30 kg → Wall Balls 25 @ 9 kg.\nRUNDENPAUSE · 2:00.\nGATE · Run 3 ≤10 s/km langsamer als Run 1.",
        "date": "2027-01-25"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 40–50 min",
+       "dur": "40–50 min",
+       "date": "2027-01-26",
+       "p": "Peak-Woche: Tag nach Kraft A + Compromised, nur locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 40–50 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1480,16 +1653,25 @@
        "ti": "Longrun Z2",
        "dur": "80–90 min",
        "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
-       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 80–90 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 80–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · 80–90 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 80–90 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2027-01-27"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 45–60 min",
+       "dur": "45–60 min",
+       "date": "2027-01-28",
+       "p": "Locker, letzte Volumen-Einheit vor dem Taper. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 45–60 min\nINTENSITÄT · HF 115–135 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
        "cls": "d-run",
-       "ti": "VO₂ · 6×800 m",
-       "dur": "60 min",
-       "p": "Kurzer, scharfer Reiz vor dem Taper.",
-       "prompt": "ROXFIT · 6×800\nWARM-UP · 15:00 + 4 Strides.\nHAUPTTEIL · 6×800 m @ 3:45–3:50/km · 90 s Trab.\nCOOL-DOWN · 10:00.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
+       "ti": "VO₂ 6×800 m + Kraft B",
+       "dur": "75 min",
+       "p": "Kurzer, scharfer Reiz vor dem Taper, danach letzte schwere Krafteinheit (Erhalt).",
+       "prompt": "ROXFIT · 6×800 + KRAFT B\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 15:00 + 4 Strides.\nLAUF · 6×800 m @ 3:45–3:50/km · 90 s Trab.\nCOOL-DOWN · 5:00.\n\nKRAFT B · SCHWER (HSR) · ~30–35 min · Erhalt\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n1. Beinpresse · 3×6 · Tempo 3 s runter / 3 s hoch · Pause 2:30\n2. Kreuzheben (Trap Bar oder Langhantel) · 3×5 · RPE 7 · Pause 2:30\n3. Step-up auf Kasten (Kniehöhe) · 3×8 pro Bein · Pause 90 s\n4. Latzug oder Rudern · 3×8 (Sled Pull) · Wadenheben 3×12\nLAST · 6RM-Bereich, 1–2 Wdh in Reserve.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst Kraft B streichen.",
        "date": "2027-01-29"
       },
       {
@@ -1510,11 +1692,20 @@
       {
        "tag": "Mo",
        "cls": "d-sim",
-       "ti": "Volumen −40 %, Intensität halten",
-       "dur": "50 min",
-       "p": "Nichts mehr verbessern wollen.",
-       "prompt": "ROXFIT · TAPER BASEL W1\nWARM-UP · 10:00.\nA · Sled Push 3×12,5 m @ 195 kg · Pause 2:30.\nB · Lunges 2×40 m @ 30 kg · Pause 2:00.\nC · Wall Balls 3×20 @ 9 kg · Pause 75 s.\nKein Finisher.",
+       "ti": "Kraft kurz + Taper-Stationen",
+       "dur": "55 min",
+       "p": "Nichts mehr verbessern wollen. Kraft nur noch 2 schwere Sätze (Erhalt), Stationen −40 %.",
+       "prompt": "ROXFIT · TAPER BASEL W1\nWARM-UP · 10:00.\nKRAFT · ISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nHack Squat oder Kniebeuge 2×6 · Rumänisches Kreuzheben 2×6 · Tempo 3/3, 1–2 Wdh Reserve.\nA · Sled Push 3×12,5 m @ 195 kg · Pause 2:30.\nB · Lunges 2×40 m @ 30 kg · Pause 2:00.\nC · Wall Balls 3×20 @ 9 kg · Pause 75 s.\nKein Finisher.\nKNIE · Schmerz während ≤3/10, am Morgen danach nicht schlechter. Sonst nächste Einheit Last −10 % bzw. Kniebelastung streichen.",
        "date": "2027-02-01"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30–40 min",
+       "dur": "30–40 min",
+       "date": "2027-02-02",
+       "p": "Taper: kürzer. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30–40 min\nINTENSITÄT · HF 115–130 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1522,8 +1713,17 @@
        "ti": "Longrun Z2 · Taper",
        "dur": "50–60 min",
        "p": "Langer, ruhiger Lauf am Tag mit der meisten Zeit.",
-       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · TAPER · 50–60 min\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 50–60 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nTAPER · deutlich kürzer.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
+       "prompt": "ROXFIT · MITTWOCH · LONGRUN Z2 · TAPER · 50–60 min\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · erste 10:00 sehr locker.\nHAUPTTEIL · 50–60 min durchgehend, HF ≤145 (VT1 139 · Longrun 28.10.: 135–145 ohne Drift). Pace ergibt sich, grob 5:15–5:40/km.\nTAPER · deutlich kürzer.\nFUELING · ab 60 min 1 Gel — Renn-Gel testen, Magen trainieren.\nNICHT · kein Tempoaufbau bis Schwelle, kein Endspurt.\nLOG · Distanz, Ø HF, HF-Drift 2. vs. 1. Hälfte.",
        "date": "2027-02-03"
+      },
+      {
+       "tag": "Do",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 30 min",
+       "dur": "30 min",
+       "date": "2027-02-04",
+       "p": "Taper: kurz und locker. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 30 min\nINTENSITÄT · HF <125 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Fr",
@@ -1531,7 +1731,7 @@
        "ti": "Tempo · 4×1 km",
        "dur": "50 min",
        "p": "Kurz und knackig.",
-       "prompt": "ROXFIT · 4×1000\nWARM-UP · 15:00.\nHAUPTTEIL · 4×1000 m @ 4:05–4:10/km · 2:00 locker.\nRPE-DECKEL · 7/10.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
+       "prompt": "ROXFIT · 4×1000\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 15:00.\nHAUPTTEIL · 4×1000 m @ 4:05–4:10/km · 2:00 locker.\nRPE-DECKEL · 7/10.\nFÄLLT FR AUS · am kinderfreien Wochenende nachholen, sonst streichen.",
        "date": "2027-02-05"
       }
      ]
@@ -1542,13 +1742,30 @@
      "d": "8.–14. Feb",
      "days": [
       {
+       "tag": "tägl.",
+       "cls": "d-gym",
+       "ti": "ISO Patellasehne · täglich",
+       "dur": "12 min",
+       "p": "Race Week: täglich, ausser am Renntag (dort im Warm-up). Keine schwere Kraft mehr.",
+       "prompt": "ROXFIT · ISO PATELLASEHNE · TÄGLICH\nISO PATELLASEHNE · Spanish Squat (Band hinter den Knien) oder Wandsitz, Knie ~60–70° gebeugt · 5×45 s · 2:00 Pause · deutlich anstrengend, Schmerz ≤3/10. Physio-Vorgabe hat Vorrang.\nWANN · an Tagen ohne Training jederzeit; an Trainingstagen als Warm-up (3×45 s reichen).\nZWECK · Sehnenschmerz senken, Sehne belastbar halten. Isometrie allein heilt nicht — der Aufbau läuft über das schwere Krafttraining."
+      },
+      {
        "tag": "Mo",
        "cls": "d-sim",
        "ti": "Primer · kurz",
        "dur": "35–40 min",
        "p": "Nur Systeme wecken.",
-       "prompt": "ROXFIT · BASEL PRIMER\nWARM-UP · 10:00.\nA · Wall Balls 2×15 @ 9 kg · B · Lunges 2×20 m @ 30 kg · C · Sled Push 2×12,5 m @ RPE 6–7 · D · 4×20 s Strides.\nMit Reserve enden.",
+       "prompt": "ROXFIT · BASEL PRIMER\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\nWARM-UP · 10:00.\nA · Wall Balls 2×15 @ 9 kg · B · Lunges 2×20 m @ 30 kg · C · Sled Push 2×12,5 m @ RPE 6–7 · D · 4×20 s Strides.\nMit Reserve enden.",
        "date": "2027-02-08"
+      },
+      {
+       "tag": "Di",
+       "cls": "d-opt",
+       "ti": "Bike Z2 zu Hause · 20–30 min",
+       "dur": "20–30 min",
+       "date": "2027-02-09",
+       "p": "Race Week: nur Beine lockern. Zusatzvolumen, kein harter Reiz — zählt nicht zu den zwei harten Tagen.",
+       "prompt": "BIKE-ERGOMETER ZU HAUSE · Z2 · 20–30 min\nINTENSITÄT · HF <120 (auf dem Bike ~10 Schläge tiefer als beim Laufen), Nasenatmung möglich, RPE 3–4.\nKADENZ · 85–100 rpm, niedriger Widerstand — schont die Patellasehne.\nNICHT · keine Intervalle, kein Tempo. Bei schweren Beinen lieber kürzer.\nISO · vorab oder danach 3×45 s Spanish Squat/Wandsitz möglich (zählt als Tages-ISO).\nLOG · Dauer, Ø HF, Knie 0–10."
       },
       {
        "tag": "Mi",
@@ -1556,7 +1773,7 @@
        "ti": "Aktivierung · kein Longrun",
        "dur": "30 min",
        "p": "Race-Week: kurz, locker, 6×30 s Renntempo.",
-       "prompt": "ROXFIT · AKTIVIERUNG\n20:00 locker + 6×30 s @ Renntempo, je 90 s locker. Auslaufen.",
+       "prompt": "ROXFIT · AKTIVIERUNG\nISO · vorab 3×45 s Spanish Squat oder Wandsitz (Knie ~60–70°), 1:00 Pause.\n20:00 locker + 6×30 s @ Renntempo, je 90 s locker. Auslaufen.",
        "date": "2027-02-10"
       },
       {
@@ -1565,7 +1782,7 @@
        "ti": "★ HYROX Basel · PRO · AG 40–44",
        "dur": "RACE",
        "p": "A-Rennen, WM-Slot. Ziel Sub-70. Pacing-Plan nach Mailand + Benchmark 4 neu rechnen.",
-       "prompt": "HYROX BASEL · PRO · RACE LOG\nVORHER · Schlaf, Ruhepuls, HRV. Frühstück 1–2 g KH/kg 2–3 h vorher. Koffein nur wie erprobt.\nWÄHREND · Pacing-Plan Basel (Daten → Pacing, nach Benchmark 4 aktualisiert).\nLOG · 8 Run-Splits, 8 Stationen, Roxzone, Fueling.",
+       "prompt": "HYROX BASEL · PRO · RACE LOG\nVORHER · Schlaf, Ruhepuls, HRV. Frühstück 1–2 g KH/kg 2–3 h vorher. Koffein nur wie erprobt.\nWARM-UP · 15–20 min locker, 30–45 min vor dem Start ISO 2×45 s.\nWÄHREND · Pacing-Plan Basel (Daten → Pacing, nach Benchmark 4 aktualisiert).\nLOG · 8 Run-Splits, 8 Stationen, Roxzone, Fueling.",
        "date": "2027-02-12"
       }
      ]
